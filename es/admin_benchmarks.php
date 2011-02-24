@@ -23,7 +23,7 @@ $__LANG = array (
 	'staffgroups' => 'Equipos de operadores',
 	'usergroups' => 'Grupos de usuarios',
 	'benchmarkticket' => 'Ticket',
-	'benchmarkticketpost' => 'Publicación de tickets',
+	'benchmarkticketpost' => 'Publicaci√≥n de tickets',
 	'benchmarkchatsurvey' => 'Encuesta de chat',
 	'benchmarkchathistory' => 'Historial de chat',
 	'benchmarkknowledgebase' => 'Base de conocimiento',
@@ -31,17 +31,17 @@ $__LANG = array (
 	'benchmarktroubleshooter' => 'Solucionador',
 	'benchmarknews' => 'Noticias',
 
-	'staffvisibilitycustom' => 'Restringir modificación de puntuación a determinados equipos de operadores?',
-	'desc_staffvisibilitycustom' => 'Active esta opción si desea controlar qué equipos de operadores (seleccionados más abajo) pueden <strong>modificar</strong> esta puntuación.',
+	'staffvisibilitycustom' => 'Restringir modificaci√≥n de puntuaci√≥n a determinados equipos de operadores?',
+	'desc_staffvisibilitycustom' => 'Active esta opci√≥n si desea controlar qu√© equipos de operadores (seleccionados m√°s abajo) pueden <strong>modificar</strong> esta puntuaci√≥n.',
 
-	'buservisibilitycustom' => 'Restringir puntuación a determinados grupos de usuarios?',
-	'desc_buservisibilitycustom' => 'Active esta opción si desea controlar qué grupos de usuarios (seleccionados abajo) pueden <strong>ver y modificar</strong> esta puntuación.',
+	'buservisibilitycustom' => 'Restringir puntuaci√≥n a determinados grupos de usuarios?',
+	'desc_buservisibilitycustom' => 'Active esta opci√≥n si desea controlar qu√© grupos de usuarios (seleccionados abajo) pueden <strong>ver y modificar</strong> esta puntuaci√≥n.',
 
-	'bstaffvisibilitycustom' => 'Restringir puntuación a determinados equipos de operadores?',
-	'desc_bstaffvisibilitycustom' => 'Active esta opción si desea controlar qué equipos de operadores (seleccionados abajo) pueden <strong>ver</strong> esta puntuación.',
+	'bstaffvisibilitycustom' => 'Restringir puntuaci√≥n a determinados equipos de operadores?',
+	'desc_bstaffvisibilitycustom' => 'Active esta opci√≥n si desea controlar qu√© equipos de operadores (seleccionados abajo) pueden <strong>ver</strong> esta puntuaci√≥n.',
 
-	'isclientonly' => 'Impedir que los operadores establezcan o editen la puntuación?',
-	'desc_isclientonly' => 'Si está activado, sólo los usuarios podrán establecer o editar esta puntuación. Los operadores no podrán modificarla.',
+	'isclientonly' => 'Impedir que los operadores establezcan o editen la puntuaci√≥n?',
+	'desc_isclientonly' => 'Si est√° activado, s√≥lo los usuarios podr√°n establecer o editar esta puntuaci√≥n. Los operadores no podr√°n modificarla.',
 
 	'benchmarkscale' => 'Rating scale',
 	'desc_benchmarkscale' => 'Select the maximum rating that can be given (this number translates to <em>stars</em>).',
