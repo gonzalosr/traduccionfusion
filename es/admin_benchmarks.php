@@ -78,7 +78,7 @@ $__LANG = array (
 	'titlebenchmarkinsert' => 'Puntuación insertada',
 	'msgbenchmarkinsert' => 'Se ha insertado correctamente la puntuación "%s" en la base de datos.',
 	'titlebenchmarkupdate' => 'Puntuación actualizada',
-	'msgbenchmarkupdate' => 'Se ha actualizado correctamente la puntuación "%s.',
+	'msgbenchmarkupdate' => 'Se ha actualizado correctamente la puntuación "%s".',
 	// ======= END v4 LOCALES =======
 );
 ?>

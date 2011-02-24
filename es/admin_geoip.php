@@ -16,11 +16,11 @@
 
 $__LANG = array (
 	'geoip' => 'GeoIP',
-	'completed' => 'Completed',
-	'maintenance' => 'Maintenance',
+	'completed' => 'Terminado',
+	'maintenance' => 'Mantenimiento',
 	'desc_maintenance' => '',
-	'tabcitylocations' => 'City (Locations)',
-	'tabcityblocks' => 'City (Blocks)',
+	'tabcitylocations' => 'Localidad (Localizaciones)',
+	'tabcityblocks' => 'Localidad (Bloques)',
 	'generalinformation' => 'General Information',
 	'indexsettings' => 'Index Settings',
 	'rebuild' => 'Rebuild',
