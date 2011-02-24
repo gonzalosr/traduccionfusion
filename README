@@ -1,0 +1,11 @@
+Bienvenidos!
+
+Esta es una traducción un poco libre del backend de operador y administración de Kayako fusion v4, comenzando por la versión 4.01.139
+
+Debido a que los archivos van cambiando y no funcionan de una versión a otra, iré haciendo branches según cambie la versión de Fusion.
+
+Una traducción un poco libre quiere decir que staff lo traduzco por "operador/es", y que Rating lo traduzco por "puntuación", siempre según lo que me parece más adecuado en español de España, que según el propio archivo countrycodes.php debe llamarse "es", en lugar del teóricamente canónico es-es.
+
+También hay en el repo un XML con la traducción del Frontend, sacada de la realizada por SYS4NET y que está en los foros de Kayako: http://forums.kayako.com/attachments/fusion-4-00-966-espaol-language-xml.1491/ y actualizada para funcionar con la versión 4.01.139.
+
+Para usarlo sólo hay que buscar la cadena "Abogado" e ir sustituyendo las referencias por las de tu empresa.
