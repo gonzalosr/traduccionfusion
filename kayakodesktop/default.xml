@@ -1,0 +1,1421 @@
+<languagepack>
+  <code>Code</code>
+  <title>English (U.S.)</title>
+  <rtl>false</rtl>
+
+  <!-- APP -->
+  <!-- MISCELLANEOUS -->
+  <string id="IDS_UNKNOWNHOST">(unknown host)</string>
+  <string id="IDS_UNKNOWN">&lt;unknown&gt;</string>
+  <string id="IDS_COPY">Copy</string>
+  <string id="IDS_SELECTALL">Select All</string>
+  <string id="IDS_CLEAR">Clear</string>
+  <string id="IDS_OK">&amp;OK</string>
+  <string id="IDS_CANCEL">&amp;Cancel</string>
+  <string id="IDS_APPLY">&amp;Apply</string>
+  <string id="IDS_NOTAPPLICABLE">N/A</string>
+  <string id="IDS_LOADING">Loading...</string>
+  <!-- MAINFRAME -->
+  <string id="IDS_MAINWND_TITLE">Kayako Desktop (offline)</string>
+  <string id="IDS_MAINWND_TITLE_CNX">%s - Kayako Desktop</string>
+  <string id="IDS_STATUSBAR_FORMAT">%s | Visitors: %d - Pending Chats: %d </string>
+  <string id="IDS_STATUSBAR_SECURE_FORMAT">Connection to %s is secure.</string>
+  <string id="IDS_STATUSBAR_INSECURE_FORMAT">Connection to %s is NOT secure.</string>
+  <!-- STATUSES -->
+  <string id="IDS_STATUS_OFFLINE">Offline</string>
+  <string id="IDS_STATUS_OFFLINE_TT">Go offline</string>
+  <string id="IDS_STATUS_ONLINE">Online</string>
+  <string id="IDS_STATUS_ONLINE_TT">Set status to online</string>
+  <string id="IDS_STATUS_AWAY">Away</string>
+  <string id="IDS_STATUS_AWAY_TT">Set status to away</string>
+  <string id="IDS_STATUS_BACKIN5">Back Shortly</string>
+  <string id="IDS_STATUS_BACKIN5_TT">Set status to "be back shortly"</string>
+  <string id="IDS_STATUS_BUSY">Busy</string>
+  <string id="IDS_STATUS_BUSY_TT">Set status to busy</string>
+  <string id="IDS_STATUS_INVISIBLE">Invisible</string>
+  <string id="IDS_STATUS_INVISIBLE_TT">Set status to invisible</string>
+  <!-- TAB COLORS -->
+  <string id="IDS_TABCOLOR_1">Default</string>
+  <string id="IDS_TABCOLOR_2">Green</string>
+  <string id="IDS_TABCOLOR_3">Yellow</string>
+  <string id="IDS_TABCOLOR_4">Aqua</string>
+  <string id="IDS_TABCOLOR_5">Red</string>
+  <string id="IDS_TABCOLOR_6">Orange</string>
+  <string id="IDS_TABCOLOR_7">Purple</string>
+  <string id="IDS_TABCOLOR_8">Blue</string>
+  <!-- TRAY MENU -->
+  <string id="IDS_TRAY_SHOWLR">Show Kayako Desktop</string>
+  <string id="IDS_TRAY_OPTIONS">Settings</string>
+  <string id="IDS_TRAY_ICON_SETTINGS">Icon Settings</string>
+  <string id="IDS_TRAY_EXIT">Exit</string>
+  <!-- HYPERLINK MENU -->
+  <string id="IDS_HYPERLINK_COPY">&amp;Copy Link Location</string>
+  <string id="IDS_HYPERLINK_LR">&amp;Open Link</string>
+  <string id="IDS_HYPERLINK_BROWSER">Open Link in &amp;default browser</string>
+  <!-- MESSAGES -->
+  <string id="IDS_MSG_ERROR_CAP">Kayako Desktop - Error!</string>
+  <string id="IDS_MSG_ALERT_CAP">Kayako Desktop - Alert</string>
+  <string id="IDS_MSG_INFO_CAP">Kayako Desktop - Information</string>
+  <string id="IDS_MSG_FATALERROR_CAP">Kayako Desktop - Fatal Error!</string>
+  <string id="IDS_MSG_QUESTION_CAP">Kayako Desktop - Question</string>
+  <string id="IDS_MSG_SUCCESS_CAP">Kayako Desktop - Success</string>
+  <string id="IDS_MSG_FAILURE_CAP">Kayako Desktop - Failure</string>
+  <string id="IDS_MSG_IMPORTSETTINGSSUCCESS_TXT">Settings were successfully imported.</string>
+
+  <string id="IDS_MSG_AUTOUPDATE_CAP">Kayako Desktop - New Version Available</string>
+  <string id="IDS_MSG_AUTOUPDATE_TXT">There is a new version of Kayako Desktop available!
+
+Version: %s
+Description: %s
+
+Would you like to upgrade now?</string>
+  <string id="IDS_MSG_AUTOUPDATE_NOUPDATES_CAP">Kayako Desktop - No Updates</string>
+  <string id="IDS_MSG_AUTOUPDATE_NOUPDATES_TXT">You are running the latest version of Kayako Desktop.</string>
+
+  <string id="IDS_ACCOUNTS_IMPORT_TITLE">Import Account File</string>
+  <string id="IDS_ACCOUNTS_EXPORT_TITLE">Export Account File</string>
+  <string id="IDS_ACCOUNTS_IMPEX_FILTER">Kayako Desktop Account Files</string>
+  
+  <string id="IDS_MSG_IMPORTACCOUNTSFAILURE_TXT">Unable to import accounts! Make sure the file is a valid Kayako Desktop accounts file.</string>
+  <string id="IDS_MSG_IMPORTACCOUNTSNOACCOUNTS_TXT">No accounts were found to import. This may be because all of the accounts found were duplicates of existing accounts.</string>
+  <string id="IDS_MSG_IMPORTSETTINGSFAILURE_TXT">No settings were found in that file!</string>
+  <string id="IDS_MSG_EXPORTACCOUNTSSUCCESS_TXT">Successfully exported %d account(s).</string>
+  <string id="IDS_MSG_EXPORTSETTINGSSUCCESS_TXT">Successfully exported settings.</string>
+  <string id="IDS_MSG_EXPORTACCOUNTSFAILURE_TXT">Failed to export accounts!</string>
+  <string id="IDS_MSG_EXPORTACCOUNTSMODIFIED_TXT">You have made modifications to the account settings. Would you like to save before exporting?</string>
+  <string id="IDS_MSG_EXPORTSETTINGSFAILURE_TXT">Failed to export settings.</string>
+  <string id="IDS_MSG_EXPORTACCOUNTSNOACCOUNTS_TXT">There are no accounts to export!</string>
+  <string id="IDS_MSG_FILENOTFOUND">File '%s' was not found.</string>
+  <string id="IDS_MSG_INVALIDLOGLEVEL">Please enter a value between 1 and 6.</string>
+  <string id="IDS_MSG_INVALIDWAVFORMAT">The WAV you selected uses an unsupported format. Please choose a different file.</string>
+  <string id="IDS_MSG_NORINGTONEPATH">Please choose a WAV file for your custom ring tone.</string>
+  <string id="IDS_MSG_RINGTONEDOESNOTEXIST">The WAV file you have chosen for your custom ring tone does not exist.</string>
+  <string id="IDS_MSG_CLOSESERVERTAB_CHATS">Are you sure you wish to close this sever tab?
+  
+You are participating in %d chat session(s). All chat windows will be closed and you will be logged out from %s.</string>
+  <string id="IDS_MSG_CLOSESERVERTAB_NOCHATS">Are you sure you wish to close this server tab?
+  
+All chat windows will be closed and you will be logged out from %s.</string>
+  <string id="IDS_MSG_BOOKMARKALREADYEXISTS_CAP">Kayako Desktop - Page already bookmarked</string>
+  <string id="IDS_MSG_BOOKMARKALREADYEXISTS_TXT">This page has already been bookmarked.</string>
+  <string id="IDS_MSG_REGISTERHOTKEYFAILED_TXT">Failed to register hotkey: %s</string>
+  <string id="IDS_MSG_CUSTOMTOOLBARFAILURE">An internal error has occurred while trying to open the custom link!</string>
+  <string id="IDS_MSG_EXITACCOUNTSONLINE">Are you sure you wish to exit?
+  
+There are %d account(s) logged in.  All accounts will be logged out immediately!</string>
+  <string id="IDS_MSG_EXITACCOUNTSONLINE_ACTIVECHATS">Are you sure you wish to exit?
+
+There are %d account(s) logged in and %d active chat session(s).  All accounts will be logged out immediately!</string>
+  <string id="IDS_MSG_SCREENCAP_ERRCAPTUREFAILED">An error occurred while trying to capture your screen. This is typically due to insufficient system resources.</string>
+  <string id="IDS_MSG_SCREENCAP_ERRSAVEFAILED">An error occurred while saving your screen capture. Please try again.</string>
+  <string id="IDS_MSG_NOGEOIPDATA">There isn't any GeoIP data associated with this user. Please make sure your GeoIP databases are properly indexed.</string>
+  <string id="IDS_MSG_STARTCHATFAIL">An internal error occurred while trying to start the chat session!</string>
+  <string id="IDS_MSG_SESSIONERROR">Someone has logged into your account from another location! You have been logged out.</string>
+  <string id="IDS_MSG_CONFIRMBAN_CAP">Ban Confirmation</string>
+  <string id="IDS_MSG_CONFIRMBAN_TXT">You are about to place the following ban: %s
+
+Would you like to proceed?</string>
+  
+  <!-- CHAT EVENT SUCCESS MESSAGES -->
+  <string id="IDS_MSG_CHATREFUSE">%s: You have refused to chat with %s</string>
+  <string id="IDS_MSG_BAN_IP">%s: You have successfully banned IP address %s</string>
+  <string id="IDS_MSG_BAN_CLASSA">%s: You have successfully banned the class A network %s</string>
+  <string id="IDS_MSG_BAN_CLASSB">%s: You have successfully banned the class B network %s</string>
+  <string id="IDS_MSG_BAN_CLASSC">%s: You have successfully banned the class C network %s</string>
+  <string id="IDS_MSG_PROACTIVE_CHAT">%s: You have successfully requested to chat with the visitor at address %s</string>
+  <string id="IDS_MSG_ADDNOTE">%s: You have successfully added a note for %s</string>
+  
+  <!-- CHAT EVENT FAILURE MESSAGES -->
+  <string id="IDS_MSG_CHATREFUSEFAIL_BALLOON_TITLE">Chat refusal failed!</string>
+  <string id="IDS_MSG_CHATREFUSEFAIL_BALLOON_TEXT">Unable to refuse chat request from %s; click here to view extended error information.</string>
+  <string id="IDS_MSG_CHATREFUSEFAIL_LOG">%s: Failed to refuse chat request from %s; Error: '%s'</string>
+  <string id="IDS_MSG_BANFAIL_BALLOON_TITLE">Visitor ban failed!</string>
+  <string id="IDS_MSG_BANFAIL_BALLOON_TEXT">Unable to set visitor ban for %s; click here to view extended error information.</string>
+  <string id="IDS_MSG_BANFAIL_LOG_IP_TEXT">%s: Failed to ban IP address %s; Error: '%s'</string>
+  <string id="IDS_MSG_BANFAIL_LOG_A_TEXT">%s: Failed to ban class A network %s; Error: '%s'</string>
+  <string id="IDS_MSG_BANFAIL_LOG_B_TEXT">%s: Failed to ban class B network %s; Error: '%s'</string>
+  <string id="IDS_MSG_BANFAIL_LOG_C_TEXT">%s: Failed to ban class C network %s; Error: '%s'</string>
+  <string id="IDS_MSG_PROACTIVE_CHATFAIL_BALLOON_TITLE">Proactive chat request failed!</string>
+  <string id="IDS_MSG_PROACTIVE_CHATFAIL_BALLOON_TEXT">Unable to successfully request chat with the visitor at address %s; click here to view extended error information.</string>
+  <string id="IDS_MSG_PROACTIVE_CHATFAIL_LOG_TEXT">%s: Failed to request chat for visitor at address %s; Error: '%s'</string>
+  <string id="IDS_MSG_NOTEFAIL_BALLOON_TITLE">Add note failed!</string>
+  <string id="IDS_MSG_NOTEFAIL_BALLOON_TEXT">Unable to add a note for %s; click here to view extended error information.</string>
+  <string id="IDS_MSG_NOTEFAIL_LOG_TEXT">%s: Failed to add note for %s; Error: '%s'</string>
+  
+  <!-- WIZARD -->
+  <string id="IDS_WIZARD_TITLE">Kayako Desktop - Setup Wizard</string>
+  
+  <!-- TRAY SETTINGS -->
+  <string id="IDS_TRAY_SETTINGS_DLG_FRAME1">Tray Icon Settings</string>
+  <string id="IDS_TRAY_SETTINGS_DLG_LABEL1">Show visitor count for this account:</string>
+  <string id="IDS_TRAY_SETTINGS_DLG_LABEL2">Icon color threshold:</string>
+  <string id="IDS_TRAY_SETTINGS_DLG_LABEL3">visitors</string>
+  <string id="IDS_TRAY_SETTINGS_DLG_THRESHOLD_TT_TITLE">Icon color threshold</string>
+  <string id="IDS_TRAY_SETTINGS_DLG_THRESHOLD_TT_TEXT">Enter the average number of visitors that would indicate a high load on your site.
+
+Kayako Desktop will use this number to determine the appropriate color for the tray icon based on visitor count in relation to this threshold.
+  </string>
+  
+  <!-- MAINFRAME -->
+  <!-- MENU -->
+  <string id="IDS_MENU_ACCOUNTS">&amp;Accounts...</string>
+  <string id="IDS_MENU_IMPORT">Import</string>
+  <string id="IDS_MENU_IMPORT_TT">Import accounts or settings from file</string>
+  <string id="IDS_MENU_EXPORT">Export</string>
+  <string id="IDS_MENU_EXPORT_TT">Export accounts or settings to file</string>
+  <string id="IDS_MENU_IMPEX_ACCOUNTS">Accounts...</string>
+  <string id="IDS_MENU_IMPORT_ACCOUNTS_TT">Import accounts from file</string>
+  <string id="IDS_MENU_EXPORT_ACCOUNTS_TT">Export accounts to file</string>
+  <string id="IDS_MENU_IMPEX_SETTINGS">Settings...</string>
+  <string id="IDS_MENU_IMPORT_SETTINGS_TT">Import settings from file</string>
+  <string id="IDS_MENU_EXPORT_SETTINGS_TT">Export settings to file</string>
+  <string id="IDS_MENU_APP">Application</string>
+  <string id="IDS_MENU_ABOUT">About Kayako Desktop</string>
+  <string id="IDS_MENU_ABOUT_TT">View version and copyright information about this product</string>
+  <string id="IDS_MENU_CHECK_FOR_UPDATES">Check for updates...</string>
+  <string id="IDS_MENU_CHECK_FOR_UPDATES_TT">Check for product updates (Requires an Internet connection)</string>
+  <string id="IDS_MENU_VIEW">View</string>
+  <string id="IDS_MENU_EVENTLOG">Event &amp;Log</string>
+  <string id="IDS_MENU_EVENTLOG_TT">View the event log</string>
+  <string id="IDS_MENU_ONTOP">Always On &amp;Top</string>
+  <string id="IDS_MENU_ONTOP_TT">Toggle whether or not Kayako Desktop stays on top of all other windows</string>
+  <string id="IDS_MENU_OPTIONS">&amp;Settings</string>
+  <string id="IDS_MENU_OPTIONS_TT">Make changes to Kayako Desktop settings</string>
+  <string id="IDS_MENU_EXIT">E&amp;xit</string>
+  <string id="IDS_MENU_EXIT_TT">Close all connections and exit Kayako Desktop</string>
+  <string id="IDS_MENU_ALL">All</string>
+  
+  <!-- RIBBONS -->
+  <string id="IDS_RIBBON_FILE">File</string>
+  <string id="IDS_RIBBON_SERVER">Main</string>
+  <string id="IDS_RIBBON_SERVER_GO_ONLINE">Go Online</string>
+  <string id="IDS_RIBBON_SERVER_GO_ONLINE_TT">Put all accounts online</string>
+  <string id="IDS_RIBBON_SERVER_STATUS">Status</string>
+  <string id="IDS_RIBBON_SERVER_VIS">Visitor Controls</string>
+  <string id="IDS_RIBBON_SERVER_VIS_GRID">List View</string>
+  <string id="IDS_RIBBON_SERVER_VIS_GRID_TT">View current visitors as a detailed list</string>
+  <string id="IDS_RIBBON_SERVER_VIS_GEOIP">Map View</string>
+  <string id="IDS_RIBBON_SERVER_VIS_GEOIP_TT">View current visitors on world map</string>
+  <string id="IDS_RIBBON_SERVER_VIS_ACCEPTALLCHATS">Accept All Chats</string>
+  <string id="IDS_RIBBON_SERVER_VIS_ACCEPTALLCHATS_TT">Accept all pending chat requests simultaneously</string>
+  <string id="IDS_RIBBON_SERVER_VIS_REJECTALLCHATS">Refuse All Chats</string>
+  <string id="IDS_RIBBON_SERVER_VIS_REJECTALLCHATS_TT">Refuse all pending chat requests simultaneously</string>
+  <string id="IDS_RIBBON_SERVER_VIS_PROACTIVECHAT">Engage</string>
+  <string id="IDS_RIBBON_SERVER_VIS_PROACTIVECHAT_TT">Initiate proactive chat with the currently selected visitor</string>
+  <string id="IDS_RIBBON_SERVER_VIS_PROACTIVECHAT_INLINE_TT">Initiate a chat inline on the user's current page without prompting</string>
+  <string id="IDS_RIBBON_SERVER_VIS_PROACTIVECHAT_ALERT_TT">Alert the user that you'd like to chat using a floating pop-up</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER">Ban</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER_TT">Ban the currently selected visitor from the site</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER_IP">&amp;IP Address</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER_IP_TT">Ban by IP Address</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER_A">Class &amp;A network</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER_A_TT">Ban by class A network</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER_B">Class &amp;B network</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER_B_TT">Ban by class B network</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER_C">Class &amp;C network</string>
+  <string id="IDS_RIBBON_SERVER_VIS_BANUSER_C_TT">Ban by class C network</string>
+  <string id="IDS_RIBBON_SERVER_VIS_REFRESH">Refresh Now</string>
+  <string id="IDS_RIBBON_SERVER_VIS_REFRESH_TT">Refresh visitor data instantly</string>
+  <string id="IDS_RIBBON_SERVER_CHAT">Chat Controls</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_LEAVE">Leave</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_LEAVE_TT">Leave the chat conversation</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SAVE">Save</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SAVE_TT">Save the history of the chat conversation to disk</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PRINT">Print</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PRINT_TT">Print the history of the chat conversation</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_EMAIL">Email</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_EMAIL_TT">Email the history of the chat conversation to a list of email addresses</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CANNED">Canned Responses</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CANNED_TT">Show predefined or "canned" responses</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CANNED_NONE">[no responses available]</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CANNED_NONE_TT">There are no predefined responses created for this account</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CANNED_HOTKEYS">Manage Hotkeys...</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CANNED_HOTKEYS_TT">Assign hotkeys for canned responses</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CALL">Request Call</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CALL_TT">Request a telephone conversation with the chatter</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_ONSITE">OnSite</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_ONSITE_TT">Start an OnSite remote assistance session with the chatter</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT">Screen Capture</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_TT">Take a screenshot and share it in the chat conversation</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_FULLSCREEN">Fullscreen</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_CURRENTWND">Current Window</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_CURRENTWNDD1">Delay 1 Second</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_CURRENTWNDD2">Delay 2 Seconds</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_CURRENTWNDD3">Delay 3 Seconds</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_CURRENTWNDD4">Delay 4 Seconds</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_CURRENTWNDD5">Delay 5 Seconds</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_HIDELR">Hide Kayako Desktop</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SHOWROSTER">Show Roster</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SHOWROSTER_TT">Show list of chat participants</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH">Push</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH_TT">Send images, source code and URLs to the chat conversation</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH_URL">&amp;URL...</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH_URL_TT">Send a URL to the chat conversation</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH_IMG">&amp;Image...</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH_IMG_TT">Send an image to the chat conversation</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH_CODE">&amp;Code...</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH_CODE_TT">Send example source code to the chat conversation</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH_FILE">&amp;File...</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_PUSH_FILE_TT">Send a local file to the chat conversation</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER">Transfer</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_TT">Transfer the chat to another staff member</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE">Invite</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_TT">Invite staff to the chat</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFERINVITE_STAFF">Staff &amp;Member</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFERINVITE_STAFFGROUP">Staff &amp;Group</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFERINVITE_DEPARTMENT">&amp;Department</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFERINVITE_SKILLSET">&amp;Skillset</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_STAFF_TT">Transfer the chat to a specific staff member</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_STAFF_ITEM_TT">Transfer the chat to %s</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_STAFFGROUP_TT">Transfer the chat to any available staff member in a group</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_STAFFGROUP_ITEM_TT">Transfer the chat to any available staff member in the %s group</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_DEPARTMENT_TT">Transfer the chat to any available staff member in a department</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_DEPARTMENT_ITEM_TT">Transfer the chat to any available staff member in the %s department</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_SKILLSET_TT">Transfer the chat to a staff member with a specific skillset</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_SKILLSET_ITEM_TT">Transfer the chat to any available staff member with the skill '%s'</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_STAFF_TT">Invite a specific staff member to the chat</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_STAFF_ITEM_TT">Invite %s to the chat</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_STAFFGROUP_TT">Invite everyone in a staff group to the chat</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_STAFFGROUP_ITEM_TT">Invite everyone in the %s group to the chat</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_DEPARTMENT_TT">Invite everyone in a department to the chat</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_DEPARTMENT_ITEM_TT">Invite everyone in the %s department to the chat</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_SKILLSET_TT">Invite everyone with a specific skillset to the chat</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_SKILLSET_ITEM_TT">Invite everyone with the skill '%s' to the chat</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CREATE_TICKET">Create Ticket</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_CREATE_TICKET_TT">Create a ticket using the history of the chat conversation as the first post.</string>
+  <string id="IDS_RIBBON_SERVER_LINKS">Web Controls</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_TICKETS">Tickets</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_TICKETS_TT">Open the Administrator Control Panel in a new Browser Tab</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_CANNED">Canned</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_MORE">Links</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_MORE_TT">Miscellaneous links</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_KAYAKO">Kayako</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_FORUMS">Community &amp;Forums...</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_SUPPORT">&amp;Support...</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_PRODUCTMANUAL">&amp;Product Manuals...</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_CUSTOMLINKS">Manage Bookmarks</string>
+  <string id="IDS_RIBBON_SERVER_LINKS_ADDCURPAGE">Bookmark Current Page</string>
+  <string id="IDS_RIBBON_WEB">Web Browser</string>
+  <string id="IDS_RIBBON_WEB_NAV">Navigation</string>
+  <string id="IDS_RIBBON_WEB_NAV_BACK">Back</string>
+  <string id="IDS_RIBBON_WEB_NAV_BACK_TT">Navigate backward one page</string>
+  <string id="IDS_RIBBON_WEB_NAV_FORWARD">Forward</string>
+  <string id="IDS_RIBBON_WEB_NAV_FORWARD_TT">Navigate forward one page</string>
+  <string id="IDS_RIBBON_WEB_NAV_ADDRESS">Address:</string>
+  <string id="IDS_RIBBON_WEB_NAV_REFRESH">Refresh</string>
+  <string id="IDS_RIBBON_WEB_NAV_REFRESH_TT">Refresh the current page</string>
+  <string id="IDS_RIBBON_WEB_NAV_STOP">Stop</string>
+  <string id="IDS_RIBBON_WEB_NAV_STOP_TT">Stop any navigation action in progress</string>
+  <string id="IDS_RIBBON_WEB_NAV_NEWTAB">New Tab</string>
+  <string id="IDS_RIBBON_WEB_NAV_NEWTAB_TT">Create a new web browser tab</string>
+  <string id="IDS_RIBBON_WEB_NAV_HELPDESK">Help Desk</string>
+  <string id="IDS_RIBBON_WEB_NAV_HELPDESK_TT">Help desk links</string>
+  <string id="IDS_RIBBON_WEB_LINKS_ADMINCP">Administrator Control Panel</string>
+  <string id="IDS_RIBBON_WEB_LINKS_STAFFCP">Staff Control Panel</string>
+  <string id="IDS_RIBBON_WEB_LINKS_TICKETS">Tickets</string>
+  <string id="IDS_RIBBON_WEB_LINKS_KB">Knowledgebase</string>
+  
+  <string id="IDS_RIBBON_XFER_STAFFGROUP_NOGROUPS">No staff groups</string>
+  <string id="IDS_RIBBON_XFER_DEPARTMENT_NODEPTS">No departments</string>
+  <string id="IDS_RIBBON_XFER_STAFFGROUP_NOSTAFF">No staff available</string>
+  <string id="IDS_RIBBON_XFER_SKILLSET_NOSETS">No skillsets available</string>
+  
+  <!-- TRAY ICON TOOLTIPS -->
+  <string id="IDS_TRAYICON_TITLE">Kayako Desktop</string>
+  <string id="IDS_TRAYICON_NOCONNS_VISTAPLUS">No connections online</string>
+  <string id="IDS_TRAYICON_CONN_FMT_XP">%s (%s): %s, Online: %s, Visitors: %d, Chats: %d pending, %d active</string>
+  <string id="IDS_TRAYICON_CONN_FMT_VISTAPLUS">%s (%s) logged in as '%s' for %s
+Visitors: %d
+Pending chats: %d
+Active chats: %d</string>
+  
+  <!-- DOCKING PANES -->
+  <string id="IDS_PANE_STAFF">Staff</string>
+  <string id="IDS_PANE_VOIP">Phone</string>
+  <string id="IDS_PANE_TABS">Kayako Desktop</string>
+  <string id="IDS_PANE_INFO">Currently Selected Visitor</string>
+  
+  <!-- STAFFLIST -->
+  <string id="IDS_STAFFLIST_AWAY"> - Away</string>
+  <string id="IDS_STAFFLIST_BACKIN5"> - Back Shortly</string>
+  <string id="IDS_STAFFLIST_BUSY"> - Busy</string>
+  <string id="IDS_STAFFLIST_NOSTATUSMSG">No status message</string>
+  <string id="IDS_STAFFLIST_OFFLINE">Offline</string>
+  <string id="IDS_STAFFLIST_ONLINETIME">Online time</string>
+  <string id="IDS_STAFFLIST_EMPTYGROUP">No staff members online.</string>
+  <string id="IDS_STAFFLIST_GROUPTOOLTIP">%s (%d of %d online)</string>
+  <string id="IDS_STAFFLIST_GROUPTOOLTIP0">%s (0 online)</string>
+  <string id="IDS_STAFFLIST_CM_STARTCHAT">Start &amp;Chat</string>
+  <string id="IDS_STAFFLIST_CM_LEAVEMESSAGE">Leave &amp;Message</string>
+  <string id="IDS_STAFFLIST_CM_PLACECALL">&amp;Place Call</string>
+  <string id="IDS_STAFFLIST_CM_HIDEOFFLINESTAFF">Hide Offline Staff</string>
+  <string id="IDS_STAFFLIST_CM_COMPACTMODE">Compact Mode</string>
+  
+  <!-- POPUP ALERTS -->
+  <string id="IDS_POPUP_CHAT_TITLE">%s: New Chat: %s</string>
+  <string id="IDS_POPUP_CHATXFER_TITLE">%s: Chat Transfer: %s</string>
+  <string id="IDS_POPUP_CHAT_BUTTON1">Accept</string>
+  <string id="IDS_POPUP_CHAT_BUTTON2">Decline</string>
+  <string id="IDS_POPUP_STAFFCHAT_TITLE">%s: Invitation from %s</string>
+  <string id="IDS_POPUP_STAFFCHAT_BUTTON1">Accept</string>
+  <string id="IDS_POPUP_STAFFCHAT_BUTTON2">Decline</string>
+  <string id="IDS_POPUP_VISITOR_TITLE">%s: New Site Visitor</string>
+  <string id="IDS_POPUP_VISITOR_TEXT">IP Address: %s
+Country: %s
+Current page: %s
+Referrer: %s
+</string>
+  <string id="IDS_POPUP_STAFF_TITLE">%s: Staff Alert</string>
+  <string id="IDS_POPUP_STAFF_ONLINE">%s is now online.</string>
+  <string id="IDS_POPUP_STAFF_OFFLINE">%s is now offline.</string>
+  <string id="IDS_POPUP_STAFF_AWAY">%s is now away.</string>
+  <string id="IDS_POPUP_STAFF_BACKSHORTLY">%s will be back shortly.</string>
+  <string id="IDS_POPUP_VOIP_TITLE">%s: Incoming Call</string>
+  <string id="IDS_POPUP_VOIP_TEXT_NAME">Incoming call from %s (%s)</string>
+  <string id="IDS_POPUP_VOIP_TEXT_NONAME">Incoming call from %s</string>
+  <string id="IDS_POPUP_VOIP_BUTTON1">Answer</string>
+  <string id="IDS_POPUP_VOIP_BUTTON2">Ignore</string>
+  <string id="IDS_POPUP_CLICKTOCALL_TITLE">%s: Call Request</string>
+  <string id="IDS_POPUP_CLICKTOCALL_TEXT">%s has requested a telephone call at %s
+  
+Subject: %s</string>
+  <string id="IDS_POPUP_CLICKTOCALL_BUTTON1">Place call</string>
+  <string id="IDS_POPUP_CLICKTOCALL_BUTTON2">Reject</string>
+  <string id="IDS_POPUP_LOG_MSG">Failed to create popup alert window! Error: %d</string>
+  <string id="IDS_POPUP_CUSTOM_TITLE">%s: %s</string>
+  <string id="IDS_POPUP_MESSAGE_TITLE">%s: Message from %s</string>
+  
+  <!-- SERVERVIEW -->
+  <string id="IDS_SVR_CM_PROACTIVECHAT">Engage</string>
+  <string id="IDS_SVR_CM_ENGAGE_INLINE">Inline (no prompt chat session)</string>
+  <string id="IDS_SVR_CM_ENGAGE_ALERT">Alert (floating chat prompt)</string>
+  <string id="IDS_SVR_CM_ACCEPTCHAT">&amp;Accept Chat</string>
+  <string id="IDS_SVR_CM_CHOOSEACCEPTCHAT">&amp;Accept Chat...</string>
+  <string id="IDS_SVR_CM_JOINPOPUP">&amp;Join</string>
+  <string id="IDS_SVR_CM_CONFERENCE">&amp;Join Chat</string>
+  <string id="IDS_SVR_CM_CONFERENCE_OBSERVER">Join Chat as &amp;Observer</string>
+  <string id="IDS_SVR_CM_CHOOSECHAT">&amp;Join Chat...</string>
+  <string id="IDS_SVR_CM_OPEN">Open</string>
+  <string id="IDS_SVR_CM_CURRENTPAGE">Current Page</string>
+  <string id="IDS_SVR_CM_REFERRER">Referrer</string>
+  <string id="IDS_SVR_CM_INFORMATION">View Information</string>
+  <string id="IDS_SVR_CM_FOOTPRINTS">View Footprints</string>
+  <string id="IDS_SVR_CM_HISTORY">View History</string>
+  <string id="IDS_SVR_CM_NOTES">View Notes</string>
+  <string id="IDS_SVR_CM_GEOIP">View on Map</string>
+  <string id="IDS_SVR_CM_GRID">View in List</string>
+  <string id="IDS_SVR_CM_GOOGLEMAPS">Google Maps...</string>
+  <string id="IDS_SVR_CM_ADDNOTE">Add Note</string>
+  <string id="IDS_SVR_CM_BAN">Ban</string>
+  <string id="IDS_SVR_CM_BAN_IP">IP address %s</string>
+  <string id="IDS_SVR_CM_BAN_A">Class A network (%s)</string>
+  <string id="IDS_SVR_CM_BAN_B">Class B network (%s)</string>
+  <string id="IDS_SVR_CM_BAN_C">Class C network (%s)</string>
+  <string id="IDS_SVR_GMAP_CAP">Google Maps - %s</string>
+  <string id="IDS_SVR_NO_REFERRER">No referrer URL is available.</string>
+  <string id="IDS_SVR_BAN_ERROR">An internal error has occurred while trying to ban the visitor.</string>
+  <string id="IDS_SVR_ADDNOTE_ERROR">An internal error has occurred while trying to add the visitor note.</string>
+  <string id="IDS_SVR_PROACTIVE_ERROR">An internal error has occurred while trying to initiate proactive chat with the visitor.</string>
+  <string id="IDS_SVR_CHAT_ERROR">An internal error has occurred while trying to start a chat session with the visitor.</string>
+  
+  <!-- MONITOR -->
+  <string id="IDS_MON_CHATTERID">Chatter ID</string>
+  <string id="IDS_MON_STATUSIND">Status Indicator</string>
+  <string id="IDS_MON_STATUS">Status</string>
+  <string id="IDS_MON_REPEATVISITOR">Repeat Visitor Indicator</string>
+  <string id="IDS_MON_HASNOTES">Notes Indicator</string>
+  <string id="IDS_MON_HASHISTORY">History Indicator</string>
+  <string id="IDS_MON_HASCAMPAIGN">Ad Campaign Indicator</string>
+  <string id="IDS_MON_HASVARIABLES">Variables Indicator</string>
+  <string id="IDS_MON_DEPARTMENT">Department</string>
+  <string id="IDS_MON_OPERATOR">Operator</string>
+  <string id="IDS_MON_TOTALTIME">Total Time</string>
+  <string id="IDS_MON_WAITTIME">Wait Time</string>
+  <string id="IDS_MON_SEARCHENGINE">Search Engine Indicator</string>
+  <string id="IDS_MON_BROWSER">Browser Type Indicator</string>
+  <string id="IDS_MON_CURRENTPAGE">Current Page</string>
+  <string id="IDS_MON_REFERRER">Referrer</string>
+  <string id="IDS_MON_LASTVISIT">Last Visit</string>
+  <string id="IDS_MON_LASTCHAT">Last Chat</string>
+  <string id="IDS_MON_CITY">City</string>
+  <string id="IDS_MON_REGION">Region</string>
+  <string id="IDS_MON_COUNTRY">Country</string>
+  <string id="IDS_MON_GROUP">Group</string>
+  <string id="IDS_MON_GROUP_EMPTY">None</string>
+  <string id="IDS_MON_MSG_NOREFERRERTITLE">Kayako Desktop - No Referrer Available</string>
+  <string id="IDS_MON_MSG_NOREFERRER">This visitor does not have a referrer.</string>
+  <string id="IDS_MON_ADDNOTEDLGTITLE">Kayako Desktop - Add Note</string>
+  <string id="IDS_MON_ADDNOTEDLG">Enter the note you wish to add below:</string>
+  <string id="IDS_MON_STATE_BROWSING">Browsing</string>
+  <string id="IDS_MON_STATE_PENDINGCHAT">Chat Pending</string>
+  <string id="IDS_MON_STATE_INCHAT">Chatting</string>
+  <string id="IDS_MON_STATE_PROACTIVESENT">Chat Request Sent</string>
+  <string id="IDS_MON_STATE_PROACTIVEDECLINED">Chat Request Declined</string>
+  <string id="IDS_MON_STATE_PROACTIVEACCEPTED">Chat Request Accepted</string>
+  <string id="IDS_MON_STATE_CHATENDED">Chat Ended</string>
+  <string id="IDS_MON_MULTIPLEPAGES">%d Pages</string>
+  
+  <!-- GEOIP -->
+  <string id="IDS_GEOIP_COUNTRY">Country:</string>
+  <string id="IDS_GEOIP_REGION">State/Region:</string>
+  <string id="IDS_GEOIP_CITY">City:</string>
+  <string id="IDS_GEOIP_WARNING">One or more visitors could not be located
+and are not shown on the map.</string>
+  
+  <!-- FOOTPRINTS PANE -->
+  <string id="IDS_FOOTPRINTS_LANDINGTIME">Landing Time</string>
+  <string id="IDS_FOOTPRINTS_LASTACTIVITY">Last Activity</string>
+  <string id="IDS_FOOTPRINTS_ACTIVE">Active</string>
+  
+  <!-- INFORMATION PANE -->
+  <string id="IDS_INFO_CHAT">Chat</string>
+  <string id="IDS_INFO_INFORMATION">Information</string>
+  <string id="IDS_INFO_FOOTPRINTS">Footprints</string>
+  <string id="IDS_INFO_NOTES">Notes</string>
+  <string id="IDS_INFO_HISTORY">History</string>
+  <string id="IDS_INFO_NOINFO">There is no information to display.</string>
+  <string id="IDS_INFO_IPADDRESS">IP Address</string>
+  <string id="IDS_INFO_HOST">Host Name</string>
+  <string id="IDS_INFO_LASTVISIT">Last Visit</string>
+  <string id="IDS_INFO_LASTCHAT">Last Chat</string>
+  <string id="IDS_INFO_CURRENTPAGE">Current Page</string>
+  <string id="IDS_INFO_PAGETITLE">Page Title</string>
+  <string id="IDS_INFO_REFERRER">Referrer</string>
+  <string id="IDS_INFO_TOTALPAGES">Total Pages</string>
+  <string id="IDS_INFO_BROWSERTYPE">Browser Type</string>
+  <string id="IDS_INFO_BROWSERVERSION">Browser Version</string>
+  <string id="IDS_INFO_APPVERSION">Full App Version</string>
+  <string id="IDS_INFO_PLATFORM">Platform</string>
+  <string id="IDS_INFO_OPERATINGSYSTEM">Operating System</string>
+  <string id="IDS_INFO_COLORDEPTH">Color Depth</string>
+  <string id="IDS_INFO_RESOLUTION">Resolution</string>
+  <string id="IDS_INFO_ISP">ISP</string>
+  <string id="IDS_INFO_ORGANIZATION">Organization</string>
+  <string id="IDS_INFO_NETSPEED">Net Speed</string>
+  <string id="IDS_INFO_COUNTRY">Country</string>
+  <string id="IDS_INFO_REGION">Region</string>
+  <string id="IDS_INFO_CITY">City</string>
+  <string id="IDS_INFO_POSTALCODE">Postal Code</string>
+  <string id="IDS_INFO_LATITUDE">Latitude</string>
+  <string id="IDS_INFO_LONGITUDE">Longitude</string>
+  <string id="IDS_INFO_METROCODE">Metro Code</string>
+  <string id="IDS_INFO_AREACODE">Area Code</string>
+  <string id="IDS_INFO_TIMEZONE">Time Zone</string>
+  <string id="IDS_INFO_SEARCHENGINE">Search Engine</string>
+  <string id="IDS_INFO_SEARCHQUERY">Search Query</string>
+  <string id="IDS_INFO_URL">URL</string>
+  <string id="IDS_INFO_CHATID">Chatter ID</string>
+  <string id="IDS_INFO_FULLNAME">Full Name</string>
+  <string id="IDS_INFO_DATE">Date</string>
+  <string id="IDS_INFO_STAFFNAME">Staff Name</string>
+  <string id="IDS_INFO_DEPARTMENT">Department</string>
+  <string id="IDS_INFO_BPP">bits-per-pixel</string>
+  <string id="IDS_INFO_NONE">None (direct)</string>
+  
+  <!-- CHATFRAME -->
+  <string id="IDS_CF_SEND">Send</string>
+  <string id="IDS_CF_SHOWTIMESTAMPS">Show Timestamps</string>
+  <string id="IDS_CF_TB_EDIT">Edit Toolbar</string>
+  <string id="IDS_CF_TB_PUSH">Push Toolbar</string>
+  <string id="IDS_CF_PUSHIMAGEDLGTITLE">Kayako Desktop - Push Image</string>
+  <string id="IDS_CF_PUSHIMAGEDLGMSG">Enter the URL to the image to push below:</string>
+  <string id="IDS_CF_INVALIDURLMSG">'%s' is not a valid HTTP or FTP URL. Please verify your input and try again.</string>
+  <string id="IDS_CF_EMAILCONVODLGTITLE">E-mail Conversation</string>
+  <string id="IDS_CF_EMAILCONVODLGMSG">E-mail the conversation to this address:</string>
+  <string id="IDS_CF_NEWMESSAGENOTIFY">You have received a new message. Click here to view it.</string>
+  <string id="IDS_CF_TB_SPELL_TT">Check the message for spelling errors</string>
+  <string id="IDS_CF_TB_PUSHCODE">Push Code</string>
+  <string id="IDS_CF_TB_PUSHCODE_TT">Send example source code</string>
+  <string id="IDS_CF_TB_PUSHIMAGE">Push Image</string>
+  <string id="IDS_CF_TB_PUSHIMAGE_TT">Send an image</string>
+  <string id="IDS_CF_TB_PUSHFILE">Push File</string>
+  <string id="IDS_CF_TB_PUSHFILE_TT">Send a file</string>
+  <string id="IDS_CF_TB_URL">Push URL:</string>
+  <string id="IDS_CF_TB_URL_TT">Enter an FTP or HTTP URL to send to the conversation.</string>
+  <string id="IDS_CF_TB_GO">Send</string>
+  <string id="IDS_CF_TB_GO_TT">Send the URL you've entered to the conversation.</string>
+  <string id="IDS_CF_NOWCHATTING"><![CDATA[You have joined the chat conversation with <b>%s</b>.<br><br><b>Email address:</b> %s<br><b>Department:</b> %s<br><b>Subject:</b> %s%s]]></string>
+  <string id="IDS_CF_NOWCHATTING_STAFF">You have joined the chat conversation.</string>
+  <string id="IDS_CF_NOSUBJECT"><![CDATA[<i>none supplied</i>]]></string>
+  <string id="IDS_CF_JOIN"><![CDATA[<b>%s</b> has joined the chat conversation.]]></string>
+  <string id="IDS_CF_PART"><![CDATA[<b>%s</b> has left the chat conversation.]]></string>
+  <string id="IDS_CF_PUSHURL"><![CDATA[<b>%s</b> has shared the following URL: <a onclick="external.OnLinkClick('%s');">%s</a>]]></string>
+  <string id="IDS_CF_PUSHIMG"><![CDATA[<b>%s</b> has shared the following image:]]></string>
+  <string id="IDS_CF_PUSHCODE"><![CDATA[<b>%s</b> has shared the following <b>%s code</b>:]]></string>
+  <string id="IDS_CF_VS_STARTUP"><![CDATA[<b>%s</b> has started a ViewShare session at: <a href="%s">%s</a>]]></string>
+  <string id="IDS_CF_VS_CONNECT"><![CDATA[<b>%s</b>'s ViewShare session received a connection from %s]]></string>
+  <string id="IDS_CF_VS_SHUTDOWN"><![CDATA[<b>%s</b> has shut down the ViewShare session]]></string>
+  <string id="IDS_CF_OS_STARTUP"><![CDATA[<b>%s</b> has initiated an OnSite remote support session with the customer.]]></string>
+  <string id="IDS_CF_OS_DISPATCHED"><![CDATA[The customer has accepted the OnSite request and is downloading the application.]]></string>
+  <string id="IDS_CF_OS_LAUNCHED"><![CDATA[The customer has started the OnSite application; trying to connect.]]></string>
+  <string id="IDS_CF_VOIP_CALLREQUESTED"><![CDATA[Call request sent. Waiting on the customer...]]></string>
+  <string id="IDS_CF_VOIP_PLACINGCALL"><![CDATA[Call request completed. Placing call to <b>%s</b>.]]></string>
+  <string id="IDS_CF_ENDED">The chat conversation has ended.</string>
+  <string id="IDS_CF_LEFT">You have left the chat conversation.</string>
+  <string id="IDS_CF_LANG_ACTIONSCRIPT">ActionScript</string>
+  <string id="IDS_CF_LANG_BASH">Bash Shell</string>
+  <string id="IDS_CF_LANG_CSHARP">C#</string>
+  <string id="IDS_CF_LANG_CPP">C/C++</string>
+  <string id="IDS_CF_LANG_CSS">CSS</string>
+  <string id="IDS_CF_LANG_XML">HTML/XML</string>
+  <string id="IDS_CF_LANG_DELPHI">Delphi</string>
+  <string id="IDS_CF_LANG_JSCRIPT">JavaScript</string>
+  <string id="IDS_CF_LANG_JAVA">Java</string>
+  <string id="IDS_CF_LANG_PERL">Perl</string>
+  <string id="IDS_CF_LANG_PHP">PHP</string>
+  <string id="IDS_CF_LANG_PLAIN">Plain Text</string>
+  <string id="IDS_CF_LANG_PYTHON">Python</string>
+  <string id="IDS_CF_LANG_RUBY">Ruby</string>
+  <string id="IDS_CF_LANG_SQL">SQL</string>
+  <string id="IDS_CF_LANG_VB">Visual Basic</string>
+  <string id="IDS_CF_SAVECHAT_TITLE">Save Conversation</string>
+  <string id="IDS_CF_SAVECHAT_FILTER">HTML Files</string>
+  <string id="IDS_CF_SAVECHAT_ERROR">An error occurred while trying to save the chat conversation to %s; Error number: %d.  Please contact Kayako Support.</string>
+  <string id="IDS_CF_SAVECHAT_DONE"><![CDATA[Successfully saved the chat conversation's history to <b>%s</b>.]]></string>
+  <string id="IDS_CF_EMAIL_DONE">The chat conversation's history was successfully sent to the intended recipients.</string>
+  <string id="IDS_CF_DIALOG_ERROR">An error occurred while trying to create the dialog! Error: %d</string>
+  <string id="IDS_CF_CLOSECONFIRM">The chat session with %s is either not started or still active.  Are you sure you wish to leave the chat?</string>
+  <string id="IDS_CF_CLOSECONFIRM_STAFF">The chat session is either not started or still active.  Are you sure you wish to leave the chat?</string>
+  <string id="IDS_CF_EMAILPROMPT">Would you like to e-mail the chat conversation before leaving the chat?</string>
+  <string id="IDS_CF_INTERNALERROR">An internal error occurred</string>
+  <string id="IDS_CF_STATUSPENDING">Now synchronizing you with this conversation.</string>
+  <string id="IDS_CF_TIMEOUT">It appears that either %s has closed their chat window, or network problems have been encountered. The chat conversation has ended.</string>
+  <string id="IDS_CF_FAILEDOUTGOING_WARNING">Warning: Event with type %d was not processed. Error message: '%s'</string>
+  <string id="IDS_CF_TYPINGNOTIFICATION">%s is typing a message...</string>
+  <string id="IDS_CF_NEWMSGNOTIFICATION_HTML"><![CDATA[<b>You have received a new message.</b><br>Click to view.]]></string>
+  <string id="IDS_CF_UPLOADFILE_ERROR">Kayako Desktop was unable to upload the file '%s.'  Your system may be low on memory, or there may have been a permissions issue when accessing the file.</string>
+  <string id="IDS_CF_CANNED_INTERNERR">An internal error has occurred while trying to execute that canned response!</string>
+  <string id="IDS_CF_CANNED_NOACTIONS">That canned response does not contain any actions!</string>
+  <string id="IDS_CF_UPLOAD_FILE_CANCEL">Cancel</string>
+  <string id="IDS_CF_UPLOAD_FILE_STARTING">Starting upload...</string>
+  <string id="IDS_CF_UPLOAD_FILE_FMT">Uploading '%s' (%s)</string>
+  <string id="IDS_CF_UPLOAD_FILE_OFN_TITLE">Send file to conversation</string>
+  <string id="IDS_CF_UPLOAD_FILE_OFN_FILTER">All Files</string>
+  <string id="IDS_CF_UPLOAD_FILE_ERROR">An error occurred while trying to create the open file dialog! Error: %d</string>
+  <string id="IDS_CF_UPLOAD_PROGRESS_FMT"><![CDATA[Uploading <b>%s</b> (%s); %s elapsed...]]></string>
+  <string id="IDS_CF_UPLOAD_SUCCESS_FMT"><![CDATA[Successfully uploaded <b>%s</b>]]></string>
+  <string id="IDS_CF_UPLOAD_FAILURE_FMT"><![CDATA[Failed to upload <b>%s</b>! Error: %s]]></string>
+
+  <!-- FILE SIZE LABEL -->
+  <string id="IDS_FSL_OK">OK</string>
+  <string id="IDS_FSL_SEMILARGE">Medium-sized</string>
+  <string id="IDS_FSL_LARGE">Large</string>
+  <string id="IDS_FSL_TOOLARGE">Too large!</string>
+  <string id="IDS_FSL_NOFILE">Please choose an existing file...</string>
+  
+  <!-- PUSH CODE DIALOG -->
+  <string id="IDS_PCD_TITLE">Push Code</string>
+  <string id="IDS_PCD_LABEL1">&amp;Language:</string>
+  <string id="IDS_PCD_CUT">C&amp;ut</string>
+  <string id="IDS_PCD_COPY">&amp;Copy</string>
+  <string id="IDS_PCD_PASTE">&amp;Paste</string>
+  <string id="IDS_PCD_SELECTALL">&amp;Select All</string>
+  <string id="IDS_PCD_CONFIRMCLOSE">You have entered source code.  Are you sure you wish to close the dialog without sending the code to the chat session?</string>
+  <string id="IDS_PCD_LINECOL_FMT">Line: %d Column: %d; Total Lines: %d</string>
+  
+  <!-- PUSH URL DIALOG -->
+  <string id="IDS_PUD_TITLE">Push HTTP or FTP URL</string>
+  <string id="IDS_PUD_TEXT">Enter the HTTP or FTP URL to send:</string>
+  
+  <!-- PUSH IMAGE DIALOG -->
+  <string id="IDS_PID_TITLE">Push Image</string>
+  <string id="IDS_PID_LOCAL_RADIO">Upload an image &amp;file from your computer</string>
+  <string id="IDS_PID_BROWSE">&amp;Browse...</string>
+  <string id="IDS_PID_REMOTE_RADIO">Choose an image file from the &amp;web</string>
+  <string id="IDS_PID_OPEN_IMAGE_TITLE">Choose Image File</string>
+  <string id="IDS_PID_OPEN_IMAGE_FILTER">Image Files</string>
+
+  <!-- PUSH FILE DIALOG -->
+  <string id="IDS_PFD_TITLE">Push File</string>
+  <string id="IDS_PFD_BROWSE">&amp;Browse...</string>
+  
+  <!-- EMAIL CHAT CONVERSATION DIALOG -->
+  <string id="IDS_ECCD_TITLE">Email Chat Conversation</string>
+  <string id="IDS_ECCD_LABEL1">Enter the email address(es) you wish to send the conversation to, separated by semicolons:</string>
+  <string id="IDS_ECCD_LABEL2">Subject (optional):</string>
+  <string id="IDS_ECCD_LABEL3">Enter your optional notes about the chat conversation. This will be sent as part of the email message:</string>
+  <string id="IDS_ECCD_INVALIDEMAILMSGTITLE">Invalid Email Address(es) Found</string>
+  <string id="IDS_ECCD_INVALIDEMAILMSGHEADER">The following invalid email address(es) were found:</string>
+  <string id="IDS_ECCD_INVALIDEMAILMSGFOOTER">Would you like to send the conversation anyways?</string>
+  <string id="IDS_ECCD_NOADDRESSESMSG">You must enter at least one email address.</string>
+  <string id="IDS_ECCD_NOVALIDADDRESSESMSG">You must enter at least one valid email address.  To send the conversation to multiple people, separate their addresses with a semicolon (;)</string>
+  <!-- CHOOSE CHAT DIALOG -->
+  <string id="IDS_CCD_TITLE_JOIN">Join Chat (%s)</string>
+  <string id="IDS_CCD_TITLE_ACCEPT">Accept Chat (%s)</string>
+  <string id="IDS_CCD_FRAME1">Available Chats</string>
+  <string id="IDS_CCD_COL1">Department</string>
+  <string id="IDS_CCD_COL2">Subject</string>
+  <string id="IDS_CCD_COL3">Duration</string>
+  <string id="IDS_CCD_NOCHAT">No chat has been selected!</string>
+  <string id="IDS_CCD_PENDING">Pending</string>
+  <string id="IDS_CCD_ASOBSERVER">Join chat as an &amp;observer</string>
+  <!-- CUSTOM TOOLBAR -->
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_EDITCAPTION">Edit Bookmark</string>
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_ADDCAPTION">Add Bookmark</string>
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_ITEMFRAME">Bookmark</string>
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_CAPTIONLABEL">Caption:</string>
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_URLLABEL">URL:</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_CAPTION">Manage Bookmarks</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_FRAME">Bookmarks</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_NAMEHEADER">Name</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_URLHEADER">URL</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_ADD">&amp;Add...</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_EDIT">&amp;Edit...</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_REMOVE">&amp;Remove</string>
+  <!-- OPTIONS DIALOG -->
+  <string id="IDS_PROPSHEET_TITLE">Kayako Desktop Settings</string>
+  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_CAP">Restart Kayako Desktop</string>
+  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_TXT">Some of the settings you have changed require Kayako Desktop to be restarted before taking effect.</string>
+  
+  <!-- GENERAL SETTINGS -->
+  <string id="IDS_PROPPAGE_GENERAL">General</string>
+  <string id="IDS_GENERAL_FRAME1">Startup</string>
+  <string id="IDS_GENERAL_AUTOSTART">Automatically start Kayako Desktop with &amp;Windows</string>
+  <string id="IDS_GENERAL_AUTOUPDATE">Automatically check for product updates (recommended)</string>
+  <string id="IDS_GENERAL_FRAME2">Data Retrieval</string>
+  <string id="IDS_GENERAL_USESTREAMING">Use HTTP &amp;streaming</string>
+  <string id="IDS_GENERAL_USEINTERVAL">Fetch data on an &amp;interval</string>
+  <string id="IDS_GENERAL_REFRESH1">Refresh &amp;visitor data every:</string>
+  <string id="IDS_GENERAL_REFRESH2">second(s)</string>
+  <string id="IDS_GENERAL_FRAME3">Prompts</string>
+  <string id="IDS_GENERAL_LABEL3">To reset all user prompts to their default states, press the 'Reset Prompts' button below.</string>
+  <string id="IDS_GENERAL_RESETPROMPTS">&amp;Reset Prompts</string>
+  <string id="IDS_GENERAL_PROMPTSHAVEBEENRESET">All user prompts have been reset to their default states.</string>
+  <string id="IDS_GENERAL_AUTOUPDATE_RECOMMENDED">It is strongly recommended that you enable automatic product updates to ensure that you are always running the latest version of the software. Would you like to disable it anyway?</string>
+  
+  <!-- ACCOUNTS -->
+  <string id="IDS_PROPPAGE_ACCOUNTS">Accounts</string>
+  <string id="IDS_ACCOUNTS_CHANGED_NEED_RECONNECT_CAPTION">Account Connection</string>
+  <string id="IDS_ACCOUNTS_CHANGES_NEED_RECONNECT">
+You have made changes to an account that you're currently connected to.
+To apply the changes, Kayako Desktop must disconnect from and then reconnect to this account.
+
+Would you still like to apply the changes?
+  </string>
+  <string id="IDS_ACCOUNTS_FRAME1">Accounts</string>
+  <string id="IDS_ACCOUNTS_AUTOLOGIN">Auto Login</string>
+  <string id="IDS_ACCOUNTS_ACCOUNTNAME">Account Name</string>
+  <string id="IDS_ACCOUNTS_URL">URL</string>
+  <string id="IDS_ACCOUNTS_USER">User</string>
+  <string id="IDS_ACCOUNTS_ADD">&amp;Add...</string>
+  <string id="IDS_ACCOUNTS_EDIT">&amp;Edit</string>
+  <string id="IDS_ACCOUNTS_DELETE">&amp;Delete</string>
+  <string id="IDS_ACCOUNTS_IMPORT">&amp;Import...</string>
+  <string id="IDS_ACCOUNTS_EXPORT">E&amp;xport...</string>
+  <string id="IDS_ACCOUNTS_ERR_NOACCOUNTS_CAP">No Account Added</string>
+  <string id="IDS_ACCOUNTS_ERR_NOACCOUNTS_MSG">Are you sure you want to continue without adding an account?</string>
+  <string id="IDS_ACCOUNTS_DONTREMEMBERPASS_MSG">You have chosen not to save the password for this account.  You will be required to enter it manually each time you log in.
+  
+Do you still wish to continue?</string>
+  <string id="IDS_ACCOUNTDLG_TITLE">Kayako Desktop - %s</string>
+  <string id="IDS_ACCOUNTDLG_ACCOUNTDETAILS">Account Details</string>
+  <string id="IDS_ACCOUNTDLG_ADD">Create New Account</string>
+  <string id="IDS_ACCOUNTDLG_EDIT">Edit Account</string>
+  <string id="IDS_ACCOUNTDLG_ACCOUNTNAME">Set a name for this account:</string>
+  <string id="IDS_ACCOUNTDLG_URL">Enter the base URL of your server-side installation:</string>
+  <string id="IDS_ACCOUNTDLG_URLEXAMPLE">Example: http://domain.com/support/</string>
+  <string id="IDS_ACCOUNTDLG_USERCREDENTIALS">User Credentials</string>
+  <string id="IDS_ACCOUNTDLG_USERNAME">User Name:</string>
+  <string id="IDS_ACCOUNTDLG_PASSWORD1">Password:</string>
+  <string id="IDS_ACCOUNTDLG_PASSWORD2">Re-enter Password:</string>
+  <string id="IDS_ACCOUNTDLG_SAVEPASSWORD">Save my password</string>
+  <string id="IDS_ACCOUNTDLG_TABCOLOR">Tab Color</string>
+  <string id="IDS_ACCOUNTDLG_OVERRIDESTATUS">When automatically logging in, use this status:</string>
+  <string id="IDS_ACCOUNTDLG_AUTOLOGIN">Automatically log in to this account on startup</string>
+  <string id="IDS_ACCOUNTDLG_OK">&amp;OK</string>
+  <string id="IDS_ACCOUNTDLG_CANCEL">&amp;Cancel</string>
+  <string id="IDS_ACCOUNTDLG_ERR_TITLE">Error</string>
+  <string id="IDS_ACCOUNTDLG_ERR_TEXT">The following error(s) occurred when saving this account: %s</string>
+  <string id="IDS_ACCOUNTDLG_ERR_ACCOUNTBLANK">     - Account name is empty</string>
+  <string id="IDS_ACCOUNTDLG_ERR_URLBLANK">     - URL is empty</string>
+  <string id="IDS_ACCOUNTDLG_ERR_USERNAMEBLANK">     - User name is empty</string>
+  <string id="IDS_ACCOUNTDLG_ERR_PASSWORDBLANK">     - Password is empty</string>
+  <string id="IDS_ACCOUNTDLG_ERR_INVALIDURL">     - URL entered is not valid</string>
+  <string id="IDS_ACCOUNTDLG_ERR_PASSWORDMISMATCH">     - Passwords do not match</string>
+  <!-- NEED PASSWORD DIALOG -->
+  <string id="IDS_NPD_TITLE">Password Required</string>
+  <string id="IDS_NPD_LABEL1_FMT">A password is required for the user %s on account %s:</string>
+  <string id="IDS_NPD_REMEMBERPASS">&amp;Remember password</string>
+  <!-- NETWORK -->
+  <string id="IDS_PROPPAGE_NETWORK">Network</string>
+  <string id="IDS_NETWORK_FRAME1">HTTP Settings</string>
+  <string id="IDS_NETWORK_DISABLE100CONT">Disable "Expect: 100-Continue" header</string>
+  <string id="IDS_NETWORK_LABEL1">Enable this option if you are running a server that doesn't support this header, such as lighttpd.</string>
+  <string id="IDS_KPC_USEPROXY">Use a &amp;proxy to connect to the server</string>
+  <string id="IDS_KPC_USEHTTPTUNNELING">Use HTTP &amp;Tunneling</string>
+  <string id="IDS_KPC_FRAME1">Proxy Settings</string>
+  <string id="IDS_KPC_LABEL1">Type:</string>
+  <string id="IDS_KPC_LABEL2">Host Name:</string>
+  <string id="IDS_KPC_LABEL3">Port:</string>
+  <string id="IDS_KPC_LABEL4">Authentication:</string>
+  <string id="IDS_KPC_LABEL5">User Name:</string>
+  <string id="IDS_KPC_LABEL6">Password:</string>
+  
+  <!-- CHAT -->
+  <string id="IDS_PROPPAGE_CHAT">Chat</string>
+  <string id="IDS_CHAT_FRAME1">Chat</string>
+  <string id="IDS_CHAT_PROMPTEMAIL">Prompt to &amp;email conversation on session end</string>
+  <string id="IDS_CHAT_TIMESTAMPS">Show &amp;timestamps in chat conversations</string>
+  <string id="IDS_CHAT_MARKBUSY1">Auto &amp;Busy when I'm chatting with:</string>
+  <string id="IDS_CHAT_MARKBUSY2">visitor(s)</string>
+  <string id="IDS_CHAT_MARKBUSYPHONE">Auto Busy when I'm on the &amp;phone</string>
+  <string id="IDS_CHAT_MARKAWAY1">Auto &amp;Away when I'm idle for:</string>
+  <string id="IDS_CHAT_MARKAWAY2">minute(s)</string>
+  <string id="IDS_CHAT_POLL1">Synchronize chat data every:</string>
+  <string id="IDS_CHAT_POLL2">second(s)</string>
+  <string id="IDS_CHAT_INVALID_AUTOBUSY">The value for 'auto-busy' must be between 1 and 100 chats.</string>
+  <string id="IDS_CHAT_INVALID_AUTOAWAY">The value for 'auto-away' must be between 1 and 300 minutes.</string>
+  <string id="IDS_CHAT_INVALID_POLL">The chat event poll interval must be between 1 and 60 seconds.</string>
+  
+  <!-- VOIP -->
+  <string id="IDS_PROPPAGE_VOIP">Phone</string>
+  <string id="IDS_VOIP_TAB_CONNECTION">General</string>
+  <string id="IDS_VOIP_TAB_DEVICES">Audio</string>
+  <string id="IDS_VOIP_TAB_LOGGING">Logging</string>
+  <string id="IDS_VOIP_CON_ENABLEVOIP">&amp;Enable VoIP phone</string>
+  <string id="IDS_VOIP_CON_LABEL7">Link phone with account:</string>
+  <string id="IDS_VOIP_CON_LABEL2">Username:</string>
+  <string id="IDS_VOIP_CON_LABEL3">Password:</string>
+  <string id="IDS_VOIP_CON_AUTOREG">Automatically &amp;Register</string>
+  <string id="IDS_VOIP_CON_LABEL4">Auth Username:</string>
+  <string id="IDS_VOIP_CON_LABEL5">Domain:</string>
+  <string id="IDS_VOIP_CON_LABEL6">Outbound Proxy:</string>
+  <string id="IDS_VOIP_CON_TABSETTINGS">&amp;Information Tab Settings</string>
+  <string id="IDS_VOIP_CON_TABS_DLG">Call Information Settings</string>
+  <string id="IDS_VOIP_CON_TABS_LABEL1">Show tabs containing additional information related to phone calls when:</string>
+  <string id="IDS_VOIP_CON_TABS_INCOMING">&amp;Receiving a call</string>
+  <string id="IDS_VOIP_CON_TABS_OUTGOING">&amp;Placing a call</string>
+  <string id="IDS_VOIP_CON_TABS_CLICKTOCALL">&amp;Accepting a click-to-call request</string>
+  <string id="IDS_VOIP_CON_ADVANCED">&amp;Advanced</string>
+  <string id="IDS_VOIP_CON_ADV_DLG">Advanced Connection Settings</string>
+  <string id="IDS_VOIP_CON_ADV_FRAME1">NAT Traversal</string>
+  <string id="IDS_VOIP_CON_ADV_USESTUN">STUN Server:  "host[:port]"</string>
+  <string id="IDS_VOIP_CON_ADV_ENABLEICE">Enable ICE</string>
+  <string id="IDS_VOIP_CON_ADV_FRAME2">Port Configuration</string>
+  <string id="IDS_VOIP_CON_ADV_LABEL2">UDP:</string>
+  <string id="IDS_VOIP_CON_ADV_LABEL3">RTP:</string>
+  <string id="IDS_VOIP_CON_ADV_TEST">Test</string>
+  <string id="IDS_VOIP_DEV_FRAME3">Sound Quality</string>
+  <string id="IDS_VOIP_DEV_LABEL3">Low</string>
+  <string id="IDS_VOIP_DEV_LABEL4">High</string>
+  <string id="IDS_VOIP_DEV_FRAME1">Devices</string>
+  <string id="IDS_VOIP_DEV_LABEL1">Input:</string>
+  <string id="IDS_VOIP_DEV_LABEL2">Output:</string>
+  <string id="IDS_VOIP_DEV_FRAME2">Ringtone</string>
+  <string id="IDS_VOIP_DEV_RINGONDEFSPEAKER">Always ring on default system speakers</string>
+  <string id="IDS_VOIP_DEV_USECUSTRING">Use custom ringtone</string>
+  <string id="IDS_VOIP_LOG_FRAME1">SIP Event Logging</string>
+  <string id="IDS_VOIP_LOG_ENABLELOGGING">&amp;Enable Logging</string>
+  <string id="IDS_VOIP_LOG_LABEL1">Log File:</string>
+  <string id="IDS_VOIP_LOG_LABEL2">Log Verbosity Level</string>
+  <string id="IDS_VOIP_LOG_LOGMESSAGES">Log SIP &amp;Messages</string>
+  <string id="IDS_VOIP_LOG_VIEWLOG">&amp;View Log</string>
+  <string id="IDS_VOIP_LOG_SAVE_FILTER">Text Files</string>
+  
+  <!-- ONSITE SETTINGS -->
+  <string id="IDS_PROPPAGE_ONSITE">OnSite</string>
+  <string id="IDS_ONSITE_AUTOIPDETECTFAIL_TEXT">An internal error occurred while trying to automatically detect your IP address. Please enter it manually instead.</string>
+  <string id="IDS_ONSITE_FRAME1">Peer-to-peer</string>
+  <string id="IDS_ONSITE_LABEL1">Pa&amp;ssive timeout:</string>
+  <string id="IDS_ONSITE_LABEL2">minute(s)</string>
+  <string id="IDS_ONSITE_LABEL3">Pai&amp;ring timeout:</string>
+  <string id="IDS_ONSITE_LABEL4">seconds</string>
+  <string id="IDS_ONSITE_LABEL5">Port scan ran&amp;ge:</string>
+  <string id="IDS_ONSITE_LABEL6">port(s)</string>
+  <string id="IDS_ONSITE_FRAME2">Direct connection</string>
+  <string id="IDS_ONSITE_LABEL7">External &amp;IP:</string>
+  <string id="IDS_ONSITE_AUTODETECT">&amp;Autodetect</string>
+  <string id="IDS_ONSITE_AUTODETECTING">Detecting...</string>
+  <string id="IDS_ONSITE_LABEL8">Port &amp;number:</string>
+  <string id="IDS_ONSITE_PORTCHECK">&amp;Test port</string>
+  <string id="IDS_ONSITE_LABEL9">&amp;Timeout:</string>
+  <string id="IDS_ONSITE_LABEL10">seconds</string>
+  <string id="IDS_ONSITE_FRAME3">Advanced</string>
+  <string id="IDS_ONSITE_ADVANCED">Configure ad&amp;vanced settings...</string>
+  <string id="IDS_ONSITE_VALIDATE_PASSIVETIMEOUT">The passive timeout must be between 1 and 5 minutes.</string>
+  <string id="IDS_ONSITE_VALIDATE_PAIRINGTIMEOUT">The pairing timeout must be between 1 and 60 seconds.</string>
+  <string id="IDS_ONSITE_VALIDATE_PORTRANGE">The port scan range must be between 1 and 65535.</string>
+  <string id="IDS_ONSITE_VALIDATE_PORT">The external port number must be between 1 and 65535.</string>
+  <string id="IDS_ONSITE_VALIDATE_DIRECTTIMEOUT">The direct timeout must be between 30 and 3600 seconds.</string>
+  
+  <!-- ONSITE SETTINGS TOOLTIPS -->
+  <string id="IDS_ONSITE_TT_PASSIVE_TITLE">Passive timeout</string>
+  <string id="IDS_ONSITE_TT_PASSIVE_TEXT">In peer-to-peer mode, the passive timeout setting specifies the number of minutes that the OnSite viewer will wait for a peer to make a connection request before automatically canceling the session.</string>
+  <string id="IDS_ONSITE_TT_PAIRING_TITLE">Pairing timeout</string>
+  <string id="IDS_ONSITE_TT_PAIRING_TEXT">In peer-to-peer mode, the pairing timeout setting specifies the number of seconds that the OnSite viewer will wait after all proactive attempts to make a connection with the peer have failed. This allows any straggler connection requests from the peer to be properly handled.</string>
+  <string id="IDS_ONSITE_TT_PORTRANGE_TITLE">Port scan range</string>
+  <string id="IDS_ONSITE_TT_PORTRANGE_TEXT">In peer-to-peer mode, the port scan range setting specifies the number of ports above the peer's observed port that will be tried as part of the peer pairing operation.
+  
+It is recommended that this value be set to three (3).</string>
+  <string id="IDS_ONSITE_TT_EXTERNALIP_TITLE">External IP/host name</string>
+  <string id="IDS_ONSITE_TT_EXTERNALIP_TEXT">In direct connection mode, the external IP/host name setting specifies the Internet-facing IP address (or host name) of your local network. This is usually the address of your router or gateway.
+  
+If you are not sure what value to use, try pushing the 'Autodetect' button.</string>
+  <string id="IDS_ONSITE_TT_EXTERNALPORT_TITLE">External port number</string>
+  <string id="IDS_ONSITE_TT_EXTERNALPORT_TEXT">In direct connection mode, the external port number setting specifies the port number on your Internet-facing interface (external IP/host name) that has been mapped to the OnSite viewer's port on your computer.
+  
+If you are not sure the port is properly forwarded, start the OnSite viewer in direct connection mode and then push the 'Test port' button on this window.</string>
+  <string id="IDS_ONSITE_TT_DIRECTTIMEOUT_TITLE">Direct Connection Timeout</string>
+  <string id="IDS_ONSITE_TT_DIRECTTIMEOUT_TEXT">In Direct connection mode, the timeout value specifies how long to wait for the customer to connect before giving up.</string>
+  <!-- ONSITE START SESSION -->
+  <string id="IDS_ONSITE_SS_OSNOTSUPPORTED">The end user's operating system is not yet supported by OnSite.</string>
+  <string id="IDS_ONSITE_SS_DIALOG">Start OnSite Session with %s</string>
+  <string id="IDS_ONSITE_SS_LABEL1">Choose the method(s) you would like to use to connect with the customer's PC and then press Start to begin the session.</string>
+  <string id="IDS_ONSITE_SS_PEERTOPEER">Attempt &amp;peer-to-peer connection (recommended)</string>
+  <string id="IDS_ONSITE_SS_STANDARD">Attempt &amp;direct connection</string>
+  <string id="IDS_ONSITE_SS_SETTINGS">Se&amp;ttings...</string>
+  <string id="IDS_ONSITE_SS_START">Sta&amp;rt...</string>
+  <string id="IDS_ONSITE_SS_BADSETTINGS">You must choose at least one connection mode.</string>
+  <string id="IDS_ONSITE_SS_CONFIGSAVEFAIL">Unable to start the OnSite session because the configuration file was not saved successfully. Error number %d</string>
+  <string id="IDS_ONSITE_SS_SPAWNEXEFAIL">Unable to start the OnSite viewer application. Error number %d</string>
+  <string id="IDS_ONSITE_SS_NOLOCALIP">You have enabled standard reverse connection, but the local IP address is not configured.
+  
+%s</string>
+  <string id="IDS_ONSITE_SS_STANDARD_ERROR">Press OK to view OnSite settings.</string>
+  <!-- ONSITE START SESSION TOOLTIPS-->
+  <string id="IDS_ONSITE_TT_P2P_TITLE">Peer-to-peer connection</string>
+  <string id="IDS_ONSITE_TT_P2P_TEXT">When this connection method is selected, OnSite will attempt to establish a connection between your computer and the customer's computer without the need to do any advanced port forwarding or firewall configuration.
+  
+This method, however, depends on the hardware on both your network and the customer's. It is recommended to also enable direct connection as a fallback in case peer-to-peer is unsuccessful.</string>
+  <string id="IDS_ONSITE_TT_STANDARD_TITLE">Direct connection</string>
+  <string id="IDS_ONSITE_TT_STANDARD_TEXT">When this connection method is selected, OnSite will listen for connections much as a standard server. The customer's computer will then attempt to connect directly to your computer, which may require configuration of routers (port forwarding) and firewalls.
+  
+If you are unsure how to enable incoming connections from the Internet to your computer, contact your network administrator.</string>
+  <!-- ONSITE UTILITY -->
+  <string id="IDS_ONSITE_NO_VIEWER">Kayako Desktop was unable to locate the OnSite application. You may need to reinstall Kayako Desktop.</string>
+  <string id="IDS_ONSITE_VIEWER_SPAWN_FAIL">Kayako Desktop was unable to start the OnSite application. (error: %d)
+  
+You may need to reinstall Kayako Desktop.</string>
+  <!-- DISPLAY -->
+  <string id="IDS_PROPPAGE_DISPLAY">Display</string>
+  <string id="IDS_DISPLAY_FRAME1">Display</string>
+  <string id="IDS_DISPLAY_AUTOHIDESS">Auto-hide Kayako Desktop on startup</string>
+  <string id="IDS_DISPLAY_AUTOHIDEINFO">Auto-hide visitor information in browser mode</string>
+  <string id="IDS_DISPLAY_FRAME2">Visitor List</string>
+  <string id="IDS_DISPLAY_GROUPVISITORS">Show visitors in groups</string>
+  <string id="IDS_DISPLAY_EDITCOLUMNS">Edit Columns</string>
+  <string id="IDS_DISPLAY_COLUMNSDLG_CAP">Visitor List Columns</string>
+  <string id="IDS_DISPLAY_DEPARTMENT">Department</string>
+  <string id="IDS_DISPLAY_TOTALTIME">Total Time</string>
+  <string id="IDS_DISPLAY_CURRENTPAGE">Current Page</string>
+  <string id="IDS_DISPLAY_CITY">City</string>
+  <string id="IDS_DISPLAY_REGION">Region</string>
+  <string id="IDS_DISPLAY_COUNTRY">Country</string>
+  <string id="IDS_DISPLAY_STATUS">Status</string>
+  <string id="IDS_DISPLAY_OPERATOR">Operator</string>
+  <string id="IDS_DISPLAY_WAITTIME">Wait Time</string>
+  <string id="IDS_DISPLAY_REFERRER">Referrer</string>
+  <string id="IDS_DISPLAY_LASTVISIT">Last Visit</string>
+  <string id="IDS_DISPLAY_LASTCHAT">Last Chat</string>
+  <string id="IDS_DISPLAY_FIELDS">Data Fields</string>
+  <string id="IDS_DISPLAY_INDICATORS">Indicators Icons</string>
+  <string id="IDS_DISPLAY_NOTES">Notes</string>
+  <string id="IDS_DISPLAY_SEARCHENGINE">Search Engine</string>
+  <string id="IDS_DISPLAY_BROWSER">Browser Type</string>
+  <string id="IDS_DISPLAY_ADCAMPAIGN">Ad Campaign</string>
+  <string id="IDS_DISPLAY_REPEATVISITOR">Repeat Visitor</string>
+  <string id="IDS_DISPLAY_HISTORY">Chat History</string>
+  <string id="IDS_DISPLAY_VARIABLES">Variables</string>
+  <string id="IDS_DISPLAY_FRAME4">Visitor Map</string>
+  <string id="IDS_DISPLAY_LABEL3">Style:</string>
+  <string id="IDS_DISPLAY_MAPSTYLE1">Default</string>
+  <string id="IDS_DISPLAY_MAPSTYLE2">Simplistic</string>
+  <string id="IDS_DISPLAY_MAPSTYLE3">Simplistic (Saturated)</string>
+  <string id="IDS_DISPLAY_SAVEMAPSTATE">Remember map zoom location</string>
+  <string id="IDS_DISPLAY_FRAME5">Default Visitor View</string>
+  <string id="IDS_DISPLAY_GRID">List</string>
+  <string id="IDS_DISPLAY_MAP">Map</string>
+  
+  <!-- ALERT SETTINGS -->
+  <string id="IDS_PROPPAGE_ALERTS">Alerts</string>
+  <string id="IDS_ALERTS_FRAME1">Alerts</string>
+  <string id="IDS_ALERTS_VISITOR">&amp;Visitor alerts</string>
+  <string id="IDS_ALERTS_CHAT">&amp;Chat alerts</string>
+  <string id="IDS_ALERTS_STAFF">S&amp;taff alerts</string>
+  <string id="IDS_ALERTS_MESSAGE">&amp;Message alerts</string>
+  <string id="IDS_ALERTS_CUSTOM">C&amp;ustom alerts</string>
+  <string id="IDS_ALERTS_PHONE">&amp;Phone alerts</string>
+  <string id="IDS_ALERTS_FRAME2">Other</string>
+  <string id="IDS_ALERTS_SUPPRESS">&amp;Suppress all alerts when I'm Away or Busy</string>
+  <string id="IDS_ALERTS_LABEL1">S&amp;how popup alerts on the screen for</string>
+  <string id="IDS_ALERTS_LABEL2">second(s)</string>
+  <string id="IDS_ALERTS_BADTTL">The 'time to live' must be between 5 seconds and 10 minutes (600 seconds)</string>
+  <string id="IDS_ALERTS_OFN_TITLE">Choose sound file</string>
+  <string id="IDS_ALERTS_OFN_FILTER">Audio files (WAV)</string>
+  
+  <!-- HOTKEYS -->
+  <string id="IDS_PROPPAGE_HOTKEYS">Hotkeys</string>
+  <string id="IDS_HOTKEYS_LABEL1">Select the action you wish to set the hotkey for, place focus in the Hotkey field, and type the combination of keys you wish to associate with that action.</string>
+  <string id="IDS_HOTKEYS_FRAME1">Hotkeys</string>
+  <string id="IDS_HOTKEYS_FRAME2">Canned Response Hotkeys</string>
+  <string id="IDS_HOTKEYS_LABEL2">Select an account:</string>
+  <string id="IDS_HOTKEYS_EDITCANNED">&amp;Manage</string>
+  <string id="IDS_HOTKEYS_ACTIONS">Actions</string>
+  <string id="IDS_HOTKEYS_NONE">None</string>
+  <string id="IDS_HOTKEYS_CANNED">(Canned Response)</string>
+  <string id="IDS_HOTKEYS_1">Server: Accept All Pending Chats</string>
+  <string id="IDS_HOTKEYS_2">App: Tabs - Previous</string>
+  <string id="IDS_HOTKEYS_3">App: Tabs - Next</string>
+  <string id="IDS_HOTKEYS_4">App: Tabs - Close Current</string>
+  <string id="IDS_HOTKEYS_5">Server: Tickets</string>
+  <string id="IDS_HOTKEYS_6">Server: Knowledgebase</string>
+  <string id="IDS_HOTKEYS_7">App: Log In All</string>
+  <string id="IDS_HOTKEYS_8">App: Log Out All</string>
+  <string id="IDS_HOTKEYS_9">Server: Refresh</string>
+  <string id="IDS_HOTKEYS_10">Server: Proactive Chat (Alert)</string>
+  <string id="IDS_HOTKEYS_11">Server: Proactive Chat (Inline)</string>
+  <string id="IDS_HOTKEYS_12">Chat: Leave</string>
+  <string id="IDS_HOTKEYS_13">Chat: Save</string>
+  <string id="IDS_HOTKEYS_14">Chat: Print</string>
+  <string id="IDS_HOTKEYS_15">Chat: Email</string>
+  <string id="IDS_HOTKEYS_16">Phone: Answer Call</string>
+  <string id="IDS_HOTKEYS_17">App: Event Log</string>
+  <string id="IDS_HOTKEYS_18">Web: Back</string>
+  <string id="IDS_HOTKEYS_19">Web: Forward</string>
+  <string id="IDS_HOTKEYS_20">Web: Stop</string>
+  <string id="IDS_HOTKEYS_21">Web: Refresh</string>
+  <string id="IDS_HOTKEYS_22">Web: New Tab</string>
+  <string id="IDS_HOTKEYS_23">Chat: Take Screenshot</string>
+  <string id="IDS_HOTKEYS_24">App: Quit Kayako Desktop</string>
+  <string id="IDS_HOTKEYS_25">Web: Address Bar</string>
+  <string id="IDS_HOTKEYS_MSG_ASSIGNED_CAP">Hotkey Already Assigned!</string>
+  <string id="IDS_HOTKEYS_MSG_ASSIGNED_TXT">The hotkey you entered has already been assigned to another action. If you continue, the previous action will be unassigned. Proceed?</string>
+  <string id="IDS_HOTKEYS_MSG_ACCOUNTOFFLINE">This account must be online in order to manage its canned response hotkeys.</string>
+  <string id="IDS_HOTKEYS_MSG_NOCANNEDRESPONSES">No canned responses could be found for this account.</string>
+  <!-- SPELLING -->
+  <string id="IDS_PROPPAGE_SPELLING">Spelling</string>
+  <string id="IDS_SPELLING_FRAME1">Spelling</string>
+  <string id="IDS_SPELLING_ENABLE">Check spelling as I type</string>
+  <string id="IDS_SPELLING_IGNORE">Ignore words...</string>
+  <string id="IDS_SPELLING_IGNORE_INITCAP">...with Initial Capitalization</string>
+  <string id="IDS_SPELLING_IGNORE_UPPER">...in UPPER case</string>
+  <string id="IDS_SPELLING_IGNORE_MIXED">...in MiXeD case</string>
+  <string id="IDS_SPELLING_IGNORE_NUMBERS">...with numbers</string>
+  <string id="IDS_SPELLING_FRAME2">Dictionary Settings</string>
+  <string id="IDS_SPELLING_NODICTS">No dictionaries found!</string>
+  <!-- LANGUAGE -->
+  <string id="IDS_PROPPAGE_LANGUAGE">Language</string>
+  <string id="IDS_LANGUAGE_FRAME1">Language</string>
+  <string id="IDS_LANGUAGE_LABEL1">Choose your language from the list below:</string>
+  <string id="IDS_LANGUAGE_MSG_NOPACKS_CAP">No language packs found!</string>
+  <string id="IDS_LANGUAGE_MSG_NOPACKS_TXT">Kayako Desktop could not find any installed language packs!</string>
+  <!-- ABOUT -->
+  <string id="IDS_PROPPAGE_ABOUT">About</string>
+  <string id="IDS_ABOUT_FRAME1">Version Information</string>
+  <string id="IDS_ABOUT_LABEL2">Copyright © 2010
+Kayako Infotech Ltd.
+  </string>
+  <string id="IDS_ABOUT_FRAME2">Copyright Notice</string>
+  <string id="IDS_ABOUT_LABEL3">This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</string>
+
+  <!-- KAYAKOMSGBOX -->
+  <string id="IDS_ABORT">&amp;Abort</string>
+  <string id="IDS_RETRY">&amp;Retry</string>
+  <string id="IDS_IGNORE">&amp;Ignore</string>
+  <string id="IDS_YES">&amp;Yes</string>
+  <string id="IDS_NO">&amp;No</string>
+  <string id="IDS_DONTSHOW">&amp;Don't show this again</string>
+  
+  <!-- HOTKEYCTRL -->
+  <string id="IDS_HOTKEYCTRL_LABEL1">Press hotkeys:</string>
+  <string id="IDS_HOTKEYCTRL_LABEL2">Currently assigned to:</string>
+  <string id="IDS_HOTKEYCTRL_ASSIGN">&amp;Assign</string>
+  <string id="IDS_HOTKEYCTRL_REMOVE">&amp;Remove</string>
+  <string id="IDS_HOTKEYCTRL_NONE">None</string>
+  
+  <!-- CANNED HOTKEY DIALOG -->
+  <string id="IDS_CANNEDHOTKEYDLG_TITLE">Canned Response Hotkeys</string>
+  <string id="IDS_CANNEDHOTKEYDLG_LABEL1">Canned Responses:</string>
+  
+  <!-- AVATAR DIALOG -->
+  <string id="IDS_AVATARDLG_TITLE">Choose Your Avatar</string>
+  <string id="IDS_AVATARDLG_LABEL1">Please choose the image you would like to use.</string>
+  <string id="IDS_AVATARDLG_CHOOSECUSTOM">Custom Image...</string>
+  <string id="IDS_AVATARDLG_OFNFILTER">Image Files</string>
+  <string id="IDS_AVATARDLG_ERROR_FILETOOLARGE">The file is too large. Please make sure it does not exceed %d%s.</string>
+  
+  <!-- EVENT LOG -->
+  <string id="IDS_EVENTLOGWNDTITLE">Kayako Desktop Event Log</string>
+  <string id="IDS_EVENTLOGMENU">Menu</string>
+  <string id="IDS_EVENTLOGCOL1">Timestamp</string>
+  <string id="IDS_EVENTLOGCOL2">Event</string>
+  <string id="IDS_SAVELOGNOITEMSMESSAGE">There are no items in the log to save.</string>
+  <string id="IDS_SAVELOGNOITEMSMESSAGETITLE">%app% - Event Log Empty</string>
+  <string id="IDS_SAVELOGTITLE">%app% - Save Event Log</string>
+  <string id="IDS_SAVELOGERRORMSG">%app% was unable to save the event log to file!</string>
+  <string id="IDS_SAVELOGERRORMSGTITLE">%app - Save Event Log Error</string>
+  <string id="IDS_EVENTLOGCLEARMSG">Are you sure you want to clear all the items in the Event Log?  It is not possible to recover them once this is done.</string>
+  <string id="IDS_EVENTLOGCLEARMSGTITLE">%app% - Clear Log Confirmation</string>
+  <string id="IDS_EVENTLOGNOITEMSMSG">The log is already empty.</string>
+  <string id="IDS_EVENTLOGNOITEMSMSGTITLE">Empty Log</string>
+  <string id="IDS_ELM_LOG">&amp;Log</string>
+  <string id="IDS_ELM_LOG_SAVELOG">&amp;Save Log...</string>
+  <string id="IDS_ELM_LOG_CLEAR">&amp;Clear Log</string>
+  <string id="IDS_ELM_LOG_CLOSE">C&amp;lose</string>
+  <string id="IDS_ELM_MS_LOG">Log Menu</string>
+  <string id="IDS_ELM_MS_LOG_SAVELOG">Save the current log data to a file on disk</string>
+  <string id="IDS_ELM_MS_LOG_CLEAR">Clear all items in the log</string>
+  <string id="IDS_ELM_MS_LOG_CLOSE">Close this window</string>
+
+  <!--  KSPELL -->
+  <string id="IDS_SPELLERRORDLG_ERROR">Error:</string>
+  <string id="IDS_SPELLERRORDLG_SUGGESTIONS">Suggestions:</string>
+  <string id="IDS_SPELLERRORDLG_IGNORE">&amp;Ignore</string>
+  <string id="IDS_SPELLERRORDLG_CORRECT">&amp;Correct</string>
+  <string id="IDS_SPELLERRORDLG_ADD">&amp;Add</string>
+  <string id="IDS_SPELLCHECKERROR">Dictionary Error</string>
+  <string id="IDS_DICTLOADFAIL">No spell check dictionaries could be found. Your dictionaries may have been corrupted.
+
+Please reinstall the dictionary package in order to use spell checking. Spell checking will be temporarily disabled.
+  </string>
+  <string id="IDS_SPELLCHECKINITFAIL">The dictionary "%s" could not be loaded successfully. Your dictionary may have been corrupted.
+
+Please reinstall the dictionary package in order to use spell checking. Spell checking will be temporarily disabled.
+  </string>
+
+  <!-- WIZARD -->
+  <string id="IDS_WIZARD_CANCEL">&amp;Cancel</string>
+  <string id="IDS_WIZARD_BACK">&lt; &amp;Back</string>
+  <string id="IDS_WIZARD_NEXT">&amp;Next &gt;</string>
+  <string id="IDS_WIZARD_FINISH">&amp;Finish</string>
+
+  <!-- PORT CHECK -->
+  <string id="IDS_PORTCHECK">Test</string>
+  <string id="IDS_PORTCHECKTESTING">Testing...</string>
+  <string id="IDS_PORTCHECKTITLE">Port Test</string>
+  <string id="IDS_PORTCHECKOPEN">Port %d is connectible.</string>
+  <string id="IDS_PORTCHECKCLOSED">Port %d is closed or not connectible. Please check that it is forwarded properly or notify your network administrator.</string>
+  <string id="IDS_PORTCHECKERROR">There was a network error while checking the port.</string>
+  <string id="IDS_PORTCHECKINTERNALERROR">An internal error occurred when trying to start the port check.</string>
+  
+  <!-- CHAT RELATED -->
+  <string id="IDS_INVALID_CHAT_EVENT_TYPE">Invalid chat event type for event '%s'</string>
+  
+  <!-- VOIP PHONE -->
+  
+  <!-- CONTACTS -->
+  <string id="IDS_VOIP_DEF_GROUP">Contacts</string>
+  
+  <!-- STATUSES -->
+  <string id="IDS_VOIP_STATUS_AVAILABLE">Available</string>
+  <string id="IDS_VOIP_STATUS_AVAILABLE_TT">Accept all incoming calls</string>
+  <string id="IDS_VOIP_STATUS_PRIVATE">Private</string>
+  <string id="IDS_VOIP_STATUS_PRIVATE_TT">Accept calls from staff members only</string>
+  <string id="IDS_VOIP_STATUS_DND">Do Not Disturb</string>
+  <string id="IDS_VOIP_STATUS_DND_TT">Do not accept any incoming calls</string>
+  <string id="IDS_VOIP_STATUS_OFFLINE">Offline</string>
+  <string id="IDS_VOIP_STATUS_OFFLINE_TT">Go offline</string>
+
+  <!-- MESSAGEBOXES -->
+  <string id="IDS_VOIP_MSG_NOCALLSELECTED_TXT">Please select a call.</string>
+  <string id="IDS_VOIP_MSG_NOGROUPSELECTED_TXT">Please select a group before adding a contact.</string>
+  <string id="IDS_VOIP_MSG_NOITEMSELECTED_TXT">Please select an item.</string>
+  <string id="IDS_VOIP_MSG_NOCONTACTSELECTED_TXT">Please select a contact.</string>
+  <string id="IDS_VOIP_MSG_NOGROUP_TXT">Please add a group before adding a contact.</string>
+  <string id="IDS_VOIP_MSG_NOCONTACTNUMBERS_TXT">The selected contact does not have any numbers or addresses.</string>
+  <string id="IDS_VOIP_MSG_CLEARHISTORY_TXT">Are you sure you want to clear call history?
+
+This includes calls not shown due to filtering.
+  </string>
+  <string id="IDS_VOIP_MSG_OVERWRITENUMBER_TXT">Overwrite existing number?</string>
+  <string id="IDS_VOIP_MSG_DELETEGROUP_TXT">Are you sure you want to delete this group and all its contacts?</string>
+  <string id="IDS_VOIP_MSG_CANNOTDELETEGROUP_TXT">You must have at least one contact group.</string>
+  <string id="IDS_VOIP_MSG_STAFFCALLFAILED_TXT">Please make sure the phone is activated and RingRoute is enabled before dialing staff.</string>
+  <string id="IDS_VOIP_MSG_STAFFNOEXT_TXT">The staff member you are attempting to call does not have a RingRoute extension configured.</string>
+  <!-- CONTACTS DIALOG-->
+  <string id="IDS_VOIP_CONTACTSDLG_CAPTION">Phone Contacts</string>
+  <string id="IDS_VOIP_CONTACTSDLG_FINDOPTS_SEARCHBY">Search By:</string>
+  <string id="IDS_VOIP_CONTACTSDLG_FINDOPTS_NAME">Name</string>
+  <string id="IDS_VOIP_CONTACTSDLG_FINDOPTS_COMPANY">Company</string>
+  <string id="IDS_VOIP_CONTACTSDLG_NEWGROUP">New Group</string>
+  <string id="IDS_VOIP_CONTACTSDLG_OUTLOOKGROUP">From Outlook</string>
+  <string id="IDS_VOIP_CONTACTSDLG_ADDGROUP">Add Group</string>
+  <string id="IDS_VOIP_CONTACTSDLG_ADDCONTACT">Add Contact</string>
+  <string id="IDS_VOIP_CONTACTSDLG_IMPORTCONTACTS">Import contacts from Microsoft Outlook</string>
+  <string id="IDS_VOIP_CONTACTSDLG_CONFIRMIMPORT">Found %d contact(s) that can be imported.
+  
+Would you like to continue?</string>
+  <string id="IDS_VOIP_CONTACTSDLG_NOIMPORTABLECONTACTS">Kayako Desktop was unable to import any Microsoft Outlook contacts.</string>
+  <string id="IDS_VOIP_CONTACTSDLG_NOCONTACTS">Kayako Desktop could not find any Microsoft Outlook contacts.</string>
+  <string id="IDS_VOIP_CONTACTSDLG_MSOUTLOOKERR">An error occurred while trying to import contact(s) from Microsoft Outlook. Error: 0x%08X</string>
+  <string id="IDS_VOIP_CONTACTSDLG_MSOUTLOOKCONTACTERR">An error occurred while trying to import a contact from Microsoft Outlook. Error: 0x%08X</string>
+  <!-- CONTACT DIALOG -->
+  <string id="IDS_VOIP_CONTACTDLG_CAPTION">Contact</string>
+  <string id="IDS_VOIP_CONTACTDLG_LABEL1">Full &amp;Name:</string>
+  <string id="IDS_VOIP_CONTACTDLG_LABEL2">Com&amp;pany:</string>
+  <string id="IDS_VOIP_CONTACTDLG_LABEL3">&amp;Group:</string>
+  <string id="IDS_VOIP_CONTACTDLG_FRAME1">Phone &amp;Numbers:</string>
+  <string id="IDS_VOIP_CONTACTDLG_TYPE">Type</string>
+  <string id="IDS_VOIP_CONTACTDLG_NUMBER">Number</string>
+  <!-- ADDRESS DIALOG -->
+  <string id="IDS_VOIP_ADDRESSDLG_CAPTION_ADD">Add Phone Number</string>
+  <string id="IDS_VOIP_ADDRESSDLG_CAPTION_EDIT">Edit Phone Number</string>
+  <string id="IDS_VOIP_ADDRESSDLG_LABEL1">Number:</string>
+  <!-- ADDRESS TYPES -->
+  <string id="IDS_VOIP_ADDRESSTYPE_MOBILE">Mobile</string>
+  <string id="IDS_VOIP_ADDRESSTYPE_WORK">Work</string>
+  <string id="IDS_VOIP_ADDRESSTYPE_HOME">Home</string>
+  <string id="IDS_VOIP_ADDRESSTYPE_VOIP">VoIP</string>
+  <string id="IDS_VOIP_ADDRESSTYPE_CAR">Car</string>
+  <string id="IDS_VOIP_ADDRESSTYPE_OTHER">Other</string>
+  <string id="IDS_VOIP_ADDRESSTYPE_RECENT">Recent</string>
+  <!-- ADD TO CONTACTS -->
+  <string id="IDS_VOIP_ADDTOCONTACTSDLG_CAPTION">Add To Phone Contacts</string>
+  <string id="IDS_VOIP_ADDTOCONTACTSDLG_CREATENEW">Create &amp;new contact in group:</string>
+  <string id="IDS_VOIP_ADDTOCONTACTSDLG_ADDEXISTING">Add to &amp;existing contact</string>
+  <!-- CALL HISTORY -->
+  <string id="IDS_VOIP_HISTORYDLG_CAPTION">Phone Call History</string>
+  <string id="IDS_VOIP_HISTORYDLG_KEEPALIVE">Save History For:</string>
+  <string id="IDS_VOIP_HISTORYDLG_KEEPALIVE_1WEEK">1 Week</string>
+  <string id="IDS_VOIP_HISTORYDLG_KEEPALIVE_1MONTH">1 Month</string>
+  <string id="IDS_VOIP_HISTORYDLG_KEEPALIVE_2MONTHS">2 Months</string>
+  <string id="IDS_VOIP_HISTORYDLG_KEEPALIVE_3MONTHS">3 Months</string>
+  <string id="IDS_VOIP_HISTORYDLG_KEEPALIVE_6MONTHS">6 Months</string>
+  <string id="IDS_VOIP_HISTORYDLG_KEEPALIVE_1YEAR">1 Year</string>
+  <string id="IDS_VOIP_HISTORYDLG_KEEPALIVE_ALWAYS">Forever</string>
+  <string id="IDS_VOIP_HISTORYDLG_FILTER">Filter:</string>
+  <string id="IDS_VOIP_HISTORYDLG_CALLERID">Caller ID</string>
+  <string id="IDS_VOIP_HISTORYDLG_DATETIME">Date/Time</string>
+  <string id="IDS_VOIP_HISTORYDLG_DURATION">Duration</string>
+  <string id="IDS_VOIP_HISTORYDLG_FILTERBYCALLER">Only show calls to/from this &amp;number.</string>
+  <string id="IDS_VOIP_HISTORYDLG_CLEAR">Clea&amp;r</string>
+  <string id="IDS_VOIP_HISTORYDLG_CALL">&amp;Call</string>
+  <string id="IDS_VOIP_HISTORYDLG_ADDTOCONTACTS">&amp;Add To Contacts</string>
+  <string id="IDS_VOIP_HISTORYDLG_VIEWPROPERTIES">&amp;Properties</string>
+  <!-- TRANSFER CALL -->
+  <string id="IDS_VOIP_TRANSFERCALLDLG_CAPTION">Transfer Call</string>
+  <string id="IDS_VOIP_TRANSFERCALLDLG_LABEL1">Transfer to:</string>
+  <string id="IDS_VOIP_TRANSFERCALLDLG_TRANSFER">&amp;Transfer</string>
+  <!-- CALL PROPERTIES -->
+  <string id="IDS_VOIP_CALLPROPSDLG_CAPTION">%s - Call Properties</string>
+  <string id="IDS_VOIP_CALLPROPSDLG_LABEL1">URI:</string>
+  <string id="IDS_VOIP_CALLPROPSDLG_LABEL2">Type:</string>
+  <string id="IDS_VOIP_CALLPROPSDLG_LABEL3">Date/Time:</string>
+  <string id="IDS_VOIP_CALLPROPSDLG_LABEL4">Duration:</string>
+  <string id="IDS_VOIP_CALLPROPSDLG_LABEL5">Disconnect Code:</string>
+  <!-- VOIPPHONECTRL -->
+  <string id="IDS_VOIP_PHONENUMBERHINT">Enter a phone number</string>
+  <string id="IDS_VOIP_CREDIT">Credit: </string>
+  <string id="IDS_VOIP_CALLS">Calls</string>
+  <string id="IDS_VOIP_HISTORY">Recent</string>
+  <string id="IDS_VOIP_DIALPAD">Show Dialpad</string>
+  <string id="IDS_VOIP_MENU">Show Menu</string>
+  <string id="IDS_VOIP_CREDITTIP">Remaining RingRoute credit</string>
+  <string id="IDS_VOIP_SPEAKERVOL">Speaker Volume</string>
+  <string id="IDS_VOIP_MUTE">Mute Microphone</string>
+  <string id="IDS_VOIP_MAINMENU_CALL">Call</string>
+  <string id="IDS_VOIP_MAINMENU_CONF">Conference Mode</string>
+  <string id="IDS_VOIP_MAINMENU_CONTACTS">View Contacts</string>
+  <string id="IDS_VOIP_MAINMENU_HISTORY">View Call History</string>
+  <string id="IDS_VOIP_MAINMENU_SETTINGS">Settings...</string>
+  <string id="IDS_VOIP_XFERMENU_STAFF">To Staff</string>
+  <string id="IDS_VOIP_XFERMENU_ATTENDED">To Existing Call</string>
+  <string id="IDS_VOIP_XFERMENU_BLIND">To Number</string>
+  <string id="IDS_VOIP_CONF">In Conference</string>
+  <string id="IDS_VOIP_HOLD">hold</string>
+  <string id="IDS_VOIP_RESUME">resume</string>
+  <string id="IDS_VOIP_ANSWER">answer</string>
+  <string id="IDS_VOIP_XFER">Transfer</string>
+  <string id="IDS_VOIP_CLOSE">Hang Up</string>
+  <string id="IDS_VOIP_MSG_ERROR_CAP">Error!</string>
+  <string id="IDS_VOIP_MSG_ALERT_CAP">Alert</string>
+  <string id="IDS_VOIP_MSG_WAITING_CAP">Waiting...</string>
+  <string id="IDS_VOIP_MSG_INITIALIZED_CAP">Initialized</string>
+  <string id="IDS_VOIP_MSG_NOACCOUNTS">No account found!</string>
+  <string id="IDS_VOIP_MSG_INITIALIZED">You are not currently signed in.</string>
+  <string id="IDS_VOIP_MSG_INIT_FAILURE"><![CDATA[Failed to initialize SIP module!<br/><br/><b>%s</b>]]></string>
+  <string id="IDS_VOIP_MSG_UNINIT_FAILURE"><![CDATA[Failed to shut down SIP module!<br/><br/><b>%s</b>]]></string>
+  <string id="IDS_VOIP_MSG_NORINGROUTEACCOUNT">RingRoute must be linked with an account!</string>
+  <string id="IDS_VOIP_MSG_RINGROUTE_WAITING">Please log in to %s to activate RingRoute.</string>
+  <string id="IDS_VOIP_MSG_RINGROUTE_ERROR">Error retrieving SIP credentials from RingRoute!</string>
+  <string id="IDS_VOIP_MSG_REGISTRATION_FAILURE"><![CDATA[Failed to register with SIP service.<br><br>Reason: <b>%s</b>]]></string>
+  <string id="IDS_VOIP_MSG_MISSEDCALL"><![CDATA[You have <b>%d missed call</b>.]]></string>
+  <string id="IDS_VOIP_MSG_MISSEDCALLS"><![CDATA[You have <b>%d missed calls</b>.]]></string>
+  <string id="IDS_VOIP_MSG_OPT_SIGNIN">Sign In</string>
+  <string id="IDS_VOIP_MSG_OPT_RETRY">Retry</string>
+  <string id="IDS_VOIP_MSG_OPT_SETTINGS">View Settings</string>
+  <string id="IDS_VOIP_MSG_OPT_ADDACCOUNT">Add Account</string>
+  <string id="IDS_VOIP_MSG_OPT_VIEW">View</string>
+  <string id="IDS_VOIP_MSG_OPT_DISMISS">Dismiss</string>
+  <string id="IDS_VOIP_STATUS_DIALING">Dialing</string>
+  <string id="IDS_VOIP_STATUS_RINGING">Ringing</string>
+  <string id="IDS_VOIP_STATUS_CALLING">Calling</string>
+  <string id="IDS_VOIP_STATUS_CONNECTING">Connecting</string>
+  <string id="IDS_VOIP_STATUS_INCOMING">Incoming</string>
+  <string id="IDS_VOIP_STATUS_IN_USE">Connected</string>
+  <string id="IDS_VOIP_STATUS_ON_HOLD">On Hold</string>
+  <string id="IDS_VOIP_STATUS_TRANSFERRING">Transferring</string>
+  <string id="IDS_VOIP_STATUS_TRANSFERRED">Transferred</string>
+  <string id="IDS_VOIP_STATUS_DISCONNECTED">Disconnected</string>
+  <string id="IDS_VOIP_STATUS_HANGINGUP">Hanging Up</string>
+  <string id="IDS_VOIP_ERR_UNKNOWN">Unknown Error (%d)</string>
+  <string id="IDS_VOIP_ERR_220001">Unknown media error</string>
+  <string id="IDS_VOIP_ERR_220200">No suitable audio capture device</string>
+  <string id="IDS_VOIP_ERR_220201">No suitable audio playback device</string>
+  <string id="IDS_VOIP_ERR_259001">Failed to open sound device</string>
+  <string id="IDS_VOIP_ERR_200">OK</string>
+  <string id="IDS_VOIP_ERR_400">Bad request</string>
+  <string id="IDS_VOIP_ERR_171100">Invalid credentials</string>
+  <string id="IDS_VOIP_ERR_171101">Not Authorized</string>
+  <string id="IDS_VOIP_ERR_171039">Invalid URI</string>
+  <string id="IDS_VOIP_ERR_401">Not Authorized</string>
+  <string id="IDS_VOIP_ERR_403">Forbidden</string>
+  <string id="IDS_VOIP_ERR_404">Not Found</string>
+  <string id="IDS_VOIP_ERR_406">Not acceptable</string>
+  <string id="IDS_VOIP_ERR_407">Proxy authentication required</string>
+  <string id="IDS_VOIP_ERR_408">Request timeout</string>
+  <string id="IDS_VOIP_ERR_484">Incomplete address</string>
+  <string id="IDS_VOIP_ERR_486">Busy</string>
+  <string id="IDS_VOIP_ERR_487">Request terminated</string>
+  <string id="IDS_VOIP_ERR_491">Request pending</string>
+  <string id="IDS_VOIP_ERR_503">Service unavailable</string>
+  <string id="IDS_VOIP_ERR_603">Declined</string>
+  <string id="IDS_VOIP_UNKNOWNCALLER">(Unknown)</string>
+  <string id="IDS_VOIP_HISTORY_OUTGOING"><![CDATA[Call to <b>%s</b>]]></string>
+  <string id="IDS_VOIP_HISTORY_INCOMING"><![CDATA[Call from <b>%s</b>]]></string>
+  <string id="IDS_VOIP_HISTORY_MISSED"><![CDATA[Missed call from <b>%s</b]]>></string>
+  <string id="IDS_VOIP_HISTORY_UNKNOWN"><![CDATA[<b>%s</b>]]></string>
+  <string id="IDS_VOIP_HISTORY_VIEWALLCALLS">View all</string>
+  <string id="IDS_VOIP_HISTORY_CALL">Call</string>
+  <string id="IDS_VOIP_INIT_ERROR_BALLOON_TITLE">Phone Initialization Failed!</string>
+  <string id="IDS_VOIP_INIT_ERROR_BALLOON_TEXT">
+An error occurred while initializing the SIP module:
+
+%s
+
+Click this message to view your settings.
+  </string>
+  <string id="IDS_VOIP_REG_ERROR_BALLOON_TITLE">Phone Registration Failed!</string>
+  <string id="IDS_VOIP_REG_ERROR_BALLOON_TEXT">An error occurred while registering with your SIP service.
+  
+Click this message to view your settings.</string>
+  
+  <!-- CALL TYPES -->
+  <string id="IDS_CALLTYPE_INCOMING">Incoming</string>
+  <string id="IDS_CALLTYPE_OUTGOING">Outgoing</string>
+  <string id="IDS_CALLTYPE_MISSED">Missed</string>
+  <string id="IDS_CALLTYPE_ALL">All</string>
+  <string id="IDS_CALLTYPE_UNKNOWN">Unknkown</string>
+  
+  <!-- NETWORK MESSAGES -->
+  <string id="IDS_NETERR_LOGINFAILED_LOG">Login to '%s' failed!
+    Reason: %s</string>
+  <string id="IDS_NETERR_LOGINFAILED_BALLOON_TITLE">%s: Login Failure!</string>
+  <string id="IDS_NETERR_LOGINFAILED_BALLOON_TEXT">Login to %s failed! Error: %s</string>
+  <string id="IDS_NET_LOGIN_LOG">Successfully logged in to '%s' with user name %s.
+    Session ID: %s
+    Staff Session ID: %s
+    SWIFT version: %s</string>
+  <string id="IDS_NETERR_LOGOUTFAILED_LOG">Logout from '%s' failed!
+    Reason: %s</string>
+  <string id="IDS_NETERR_LOGOUTFAILED_BALLOON_TITLE">%s: Logout Failure!</string>
+  <string id="IDS_NETERR_LOGOUTFAILED_BALLOON_TEXT">Logout from %s failed! Error: %s</string>
+  <string id="IDS_NET_LOGOUT_LOG">Successfully logged out from '%s'</string>
+  <string id="IDS_NETERR_UPDATEFAILED_BALLOON_TITLE">%s: Update Failure!</string>
+  <string id="IDS_NETERR_UPDATEFAILED_BALLOON_TEXT">Data update for %s failed! Error: %s</string>
+  <string id="IDS_NETERR_UPDATEFAILED_RETRY_STATUSBAR">Warning: Unable to update data for account '%s'; retry #%d...</string>
+  <string id="IDS_NETERR_UPDATEFAILED_FINALRETRY_STATUSBAR">Warning: All attempts to update data for account '%s' have failed. Giving up!</string>
+  <string id="IDS_NETERR_UPDATEFAILED_LOG">Unable to update data from server for account '%s'; Error: '%s'</string>
+  <string id="IDS_NETERR_UPDATEFAILED_RETRY_LOG">Unable to update data from server for account '%s'; Error: '%s'. Retrying: #%d...</string>
+  <string id="IDS_NETERR_UPDATEFAILED_FINALRETRY_LOG">Final attempt to update data from server for account '%s' failed. Error: '%s'. Giving up!</string>
+  <string id="IDS_NETERR_CHATUPDATEFAILED_LOG">Unable to retrieve chat update data from server for account '%s'; Error: '%s'</string>
+  <string id="IDS_NETERR_STAFFCHATFAILED_BALLOON_TITLE">%s: Unable to start chat</string>
+  <string id="IDS_NETERR_STAFFCHATFAILED_BALLOON_TEXT">Unable to start chat with %s: %s</string>
+  <string id="IDS_NETERR_STAFFCHATFAILED_LOG">Unable to start staff chat with '%s' for account '%s'; Error: '%s'</string>
+  
+  <!--XMLWEB-->
+  <string id="IDS_XMLWEBSUCCESS">Operation successful</string>
+  <string id="IDS_XMLWEBOPENTIMEO">Connection to the server timed out</string>
+  <string id="IDS_XMLWEBCONNFAIL">Failed to connect to server!</string>
+  <string id="IDS_XMLWEBCOMMFAIL">Failed to communicate with server!</string>
+  <string id="IDS_XMLWEBINVALRESP">
+    Received unexpected response from server (invalid header)!
+
+    Data: (%s)
+  </string>
+  <string id="IDS_XMLWEBNOTOK">
+    The server returned an error response.
+
+    Data: (%s)
+  </string>
+  <string id="IDS_XMLWEBREQUESTFAIL">The HTTP request failed because of an internal error.</string>
+  <string id="IDS_XMLWEBMD5MISMATCH">
+    Received data from server that does not match locally computed MD5 sum!
+
+    Data: (%s)
+  </string>
+  <string id="IDS_XMLWEBSESSIONEXP">The session has expired.</string>
+  <string id="IDS_XMLWEBAUTHFAIL">Authentication has failed!</string>
+  <string id="IDS_XMLWEBINTERNERR">An internal error has occurred.</string>
+  <string id="IDS_XMLWEBUNKNOWNERR">Unknown error</string>
+  <string id="IDS_XMLWEBCONNECTING">Connecting</string>
+  <string id="IDS_XMLWEBREQUESTINGDATA">Requesting data</string>
+  <string id="IDS_XMLWEBREQUESTDOWNLOADING">Downloading</string>
+  <string id="IDS_XMLWEBPARSING">Parsing response</string>
+  <string id="IDS_XMLWEBDECOMPRESSING">Decompressing data</string>
+  <string id="IDS_XMLWEBFAILEDBADSTREAMDATA">Invalid stream data.</string>
+  <string id="IDS_XMLWEBFAILEDBADDATA">Failed: Bad MD5 sum</string>
+  <string id="IDS_XMLWEBFAILEDINVALIDHEADER">Failed: Invalid header</string>
+  <string id="IDS_XMLWEBFAILEDOUTOFMEMORY">Failed: Out of memory</string>
+  <string id="IDS_XMLWEBFAILEDCOMMERROR">Failed: Communication error</string>
+  <string id="IDS_XMLWEBFAILEDCONNERROR">Failed: Unable to connect</string>
+  <string id="IDS_XMLWEBSUCCEEDED">Done</string>
+  <string id="IDS_XMLWEBFAILEDAUTHFAIL">Authentication failed</string>
+  <string id="IDS_XMLWEBFAILEDSESSIONEXP">Session expired</string>
+  <string id="IDS_XMLWEBCANCELED">The operation was canceled.</string>
+  <string id="IDS_XMLWEBNOEXTENDEDERROR">&lt;No extended error information available&gt;</string>
+  <string id="IDS_XMLWEBERROR403">The permissions on the application folder are misconfigured on the server.</string>
+  <string id="IDS_XMLWEBERROR404">File not found. Is this the correct URL, or does the server support this application?</string>
+  <string id="IDS_XMLWEBERROR500">Internal server error. The application or web server may be misconfigured.</string>
+  <string id="IDS_XMLWEBERRORDEFAULT">HTTP Error %d</string>
+  <string id="IDS_XMLWEB_ERROR_NONE">Operation succeeded</string>
+  <string id="IDS_XMLWEB_ERROR_CANCELED">Operation aborted by user</string>
+  <string id="IDS_XMLWEB_ERROR_INITFAILED">Failed to initialize library</string>
+  <string id="IDS_XMLWEB_ERROR_OUTOFMEMORY">Out of memory</string>
+  <string id="IDS_XMLWEB_ERROR_MALFORMEDURL">Malformed URL</string>
+  <string id="IDS_XMLWEB_ERROR_PORTFAILED">Failed to use specified network interface</string>
+  <string id="IDS_XMLWEB_ERROR_PROXYRESOLVEFAILED">Failed to resolve proxy hostname or proxy connection error</string>
+  <string id="IDS_XMLWEB_ERROR_HOSTRESOLVEFAILED">Failed to resolve destination hostname</string>
+  <string id="IDS_XMLWEB_ERROR_CONNECTFAILED">Connection failed</string>
+  <string id="IDS_XMLWEB_ERROR_OPERATIONTIMEOUT">Operation timeout</string>
+  <string id="IDS_XMLWEB_ERROR_SENDFAILED">Transport data send failure</string>
+  <string id="IDS_XMLWEB_ERROR_RECVFAILED">Transport data receive failure</string>
+  <string id="IDS_XMLWEB_ERROR_EMPTYRESPONSE">Empty response</string>
+  <string id="IDS_XMLWEB_ERROR_POSTFAILED">Internal error when making HTTP POST</string>
+  <string id="IDS_XMLWEB_ERROR_TOOMANYREDIRECTS">Too many HTTP redirects</string>
+  <string id="IDS_XMLWEB_ERROR_FILEINCOMPLETE">Transfer incomplete</string>
+  <string id="IDS_XMLWEB_ERROR_SSLINITFAILED">Failed to initialize SSL</string>
+  <string id="IDS_XMLWEB_ERROR_SSLCONNECTFAILED">SSL handshake failure</string>
+  <string id="IDS_XMLWEB_ERROR_SSLSERVERCERTFAILED">Remote SSL certificate is invalid</string>
+  <string id="IDS_XMLWEB_ERROR_SSLCLIENTCERTFAILED">Local SSL certificate is invalid</string>
+  <string id="IDS_XMLWEB_ERROR_SSLCIPHERFAILED">Failed to use specified SSL cipher</string>
+  <string id="IDS_XMLWEB_ERROR_SSLPEERCACERTFAILED">Peer cert failed to be authenticated</string>
+  <string id="IDS_XMLWEB_ERROR_SSLBADCERTFILE">Invalid SSL certification or file not found</string>
+  <string id="IDS_XMLWEB_ERROR_UNKNOWN">Unknown error</string>
+  
+  <!-- CRASHMAN -->
+  <string id="IDS_CRASHMAN_TITLE">Kayako Desktop - Fatal Error</string>
+  <string id="IDS_CRASHMAN_DESCRIPTION">We're sorry, Kayako Desktop encountered a serious problem and must shut down.
+  
+To help us diagnose and repair this problem, you can send a crash report. The crash report is only for debugging and contains no private or personal data.</string>
+  <string id="IDS_CRASHMAN_REPROSTEPS">If possible, provide steps to reproduce the problem:</string>
+  <string id="IDS_CRASHMAN_RESTARTAPP">&amp;Restart Kayako Desktop and restore session(s)</string>
+  <string id="IDS_CRASHMAN_IGNORE">&amp;Close</string>
+  <string id="IDS_CRASHMAN_SENDREPORT">&amp;Send Report</string>
+  <string id="IDS_CRASHMAN_SENDEX">Send E&amp;xtended Information</string>
+  <string id="IDS_CRASHMAN_SENDEXDESC">Extended information is not required, but will usually make diagnosis much easier.</string>
+  
+  <!-- SCREENCAP -->
+  <string id="IDS_SCREENCAP_DIRECTIONS_CAP">Kayako Desktop - Screen Capture</string>
+  <string id="IDS_SCREENCAP_DIRECTIONS">Directions:
+  
+    Use your cursor to select the area you wish to capture. Hold the Ctrl key for extra precision.
+
+    To accept the selection press Enter, or press Esc to cancel.
+  </string>
+  
+  <!-- SETTINGS IMPORT/EXPORT -->
+  <string id="IDS_SETTINGS_IMPEX_TITLE">Import/Export Settings</string>
+  <string id="IDS_SETTINGS_IMPEX_FILTER">Kayako Desktop Setting Files</string>
+  
+</languagepack>
