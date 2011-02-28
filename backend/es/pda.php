@@ -15,13 +15,13 @@
  */
 
 $__LANG = array (
-	'remember' => 'Remember',
-	'filter' => 'Filter',
-	'qtype' => 'Type:',
-	'pdanote' => 'Note',
-	'pdareply' => 'Reply',
-	'pdaticketnote' => 'Ticket Note',
-	'pdausernote' => 'User Note',
+	'remember' => 'Recordar',
+	'filter' => 'Filtro',
+	'qtype' => 'Tipo:',
+	'pdanote' => 'Nota',
+	'pdareply' => 'Responder',
+	'pdaticketnote' => 'Nota de ticket',
+	'pdausernote' => 'Nota de usuario',
 );
 
 ?>
