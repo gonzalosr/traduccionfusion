@@ -15,19 +15,19 @@
  */
 
 $__LANG = array(
-	'comments' => 'Comments',
-	'manage' => 'Manage',
-	'commentstatus' => 'Status',
-	'commentpending' => 'Pending',
-	'commentapproved' => 'Approved',
+	'comments' => 'Comentarios',
+	'manage' => 'Administrar',
+	'commentstatus' => 'Estado',
+	'commentpending' => 'Pendiente',
+	'commentapproved' => 'Aprobado',
 	'commentspam' => 'Spam',
-	'quickfilter' => 'Quick Filter',
-	'author' => 'Author',
-	'comments' => 'Comments',
-	'date' => 'Date',
-	'inresponseto' => 'In response to: ',
-	'approve' => 'Approve',
+	'quickfilter' => 'Filtrado rápido',
+	'author' => 'Autor',
+	'comments' => 'Comentarios',
+	'date' => 'Fecha',
+	'inresponseto' => 'En respuesta a: ',
+	'approve' => 'Aprobar',
 	'spam' => 'Spam',
-	'notspam' => 'Not Spam',
+	'notspam' => 'No es spam',
 );
 ?>
