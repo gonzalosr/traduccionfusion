@@ -15,7 +15,7 @@
  */
 
 $__LANG = array (
-	'editpost' => 'Edit Ticket Post',
-	'editpostt' => 'Edit Post - #%s',
+	'editpost' => 'Editar mensaje de ticket',
+	'editpostt' => 'Editar mensaje - #%s',
 );
 ?>
