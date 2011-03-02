@@ -15,7 +15,7 @@
  */
 
 $__LANG = array (
-	'base de conocimiento' => 'Base de conocimiento',
+	'knowledgebase' => 'Base de conocimiento',
 	'managecategories' => 'Administrar categorías',
 	'managequestions' => 'Administrar artículos',
 	'insertcategory' => 'Insertar categoría',
