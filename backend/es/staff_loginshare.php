@@ -15,15 +15,15 @@
  */
 
 $__LANG = array (
-	'defaultstaffloginapi' => SWIFT_PRODUCT.' Login Routine',
+	'defaultstaffloginapi' => SWIFT_PRODUCT.' Rutina de inicio de sesión',
 	'loginapi_activedirectory' => 'ActiveDirectory/LDAP',
 
 	// AD
-	'ldaphostname' => 'Active Directory Host',
-	'ldapport' => 'Port (Default: 389)',
-	'ldapbasedn' => 'Base DN',
+	'ldaphostname' => 'Servidor Active Directory',
+	'ldapport' => 'Puerto (por defecto: 389)',
+	'ldapbasedn' => 'DN base',
 	'ldaprdn' => 'RDN',
-	'ldappassword' => 'Password',
+	'ldappassword' => 'Contraseña',
 
 );
 
