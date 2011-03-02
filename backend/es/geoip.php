@@ -17,8 +17,8 @@
 $__LANG = array (
 	// ======= BEGIN v4 LOCALES =======
 	'high' => 'Cable/DSL',
-	'corp' => 'Corporate',
-	'dial' => 'Dialup',
+	'corp' => 'Corporativa',
+	'dial' => 'Marcado',
 	// ======= END v4 LOCALES =======
 );
 
