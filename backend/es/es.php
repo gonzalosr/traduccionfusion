@@ -287,13 +287,13 @@ $__LANG = array (
 	'fuenterurl' => 'Introduzca URL:',
 	'fuorupload' => 'o suba un archivo:',
 	'errorsmtpconnect' => 'No se ha podido conectar al servidor SMTP',
-	'starttypingtags' => 'Empiece a escribir para insertar etiquetas...',
+	'starttypingtags' => 'Escriba las etiquetas...',
 	'titleinvalidfileext' => 'Extensión de archivo no válida',
 	'msginvalidfileext' => 'El archivo de imagen del icono tiene una extensión no válida. Las permitidas son: gif, jpeg, jpg, png',
 	'notset' => '-- No definido --',
 	'benchmarks' => 'Valoraciones',
 	'system' => 'Sistema',
-	'schatid' => 'ID de Chat',
+	'schatid' => 'ID de chat',
 	'smessagesurvey' => 'Mensajes/Encuestas',
 
 	// Operators
@@ -716,7 +716,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				0 => array ('Historial de chat', '/LiveChat/ChatHistory/Manage', 'staff_lscanviewchat'),
 				1 => array ('Mensajes/Encuestas', '/LiveChat/Message/Manage', 'staff_lscanviewmessages'),
 				2 => array ('Registros de llamada', '/LiveChat/Call/Manage', 'staff_lscanviewcalls'),
-				3 => array ('Enlatado', '/LiveChat/CannedCategory/Manage', 'admin_lscanviewcanned'),
+				3 => array ('Respuestas enlatadas', '/LiveChat/CannedCategory/Manage', 'admin_lscanviewcanned'),
 				4 => array ('Buscar', ':UIDropDown(\'chatsearchmenu\', event, \'linkmenu3_4\', \'linksdiv\'); LinkChatSearchForms();'),
 				),
 
