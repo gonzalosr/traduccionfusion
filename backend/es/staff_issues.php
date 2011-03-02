@@ -15,12 +15,12 @@
 
 $__LANG = array (
 	// ======= GLOBAL =======
-	'issues' => 'Issues',
-	'manageissues' => 'Manage Issues',
+	'issues' => 'Cuestiones',
+	'manageissues' => 'Administrar cuestiones',
 
 
 	// ======= PROJECTS =======
-	'newproject' => 'New Project',
-	'manageprojects' => 'Manage Projects',
+	'newproject' => 'Nuevo proyecto',
+	'manageprojects' => 'Administrar proyectos',
 );
 ?>
