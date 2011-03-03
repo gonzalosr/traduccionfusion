@@ -15,7 +15,7 @@
  */
 
 $__LANG = array (
-	'invalidmobileflagtype' => 'ERROR: Se ha especificado un tipo de bandera (%s) no válido - no se ha podido cambiar el tipo de bandera',
+	'invalidmobileflagtype' => 'ERROR: Se ha especificado un tipo de marca (%s) no válido - no se ha podido cambiar el tipo de marca',
 	'mobemailfieldemptyorinvalid' => 'ERROR: El campo email no es válido o está vacío',
 	'mobnewticketerrmsg' => 'Mientras se procesaban los nuevos datos del ticket con asunto \'%s\', ha ocurrido lo siguiente: ',
 	'mobnewticketnopermission' => 'Se ha denegado el permiso para crear un nuevo ticket.',
