@@ -16,17 +16,17 @@
 
 $__LANG = array (
 	// ======= SWIFT GENERAL =======
-	'perm_'.MODULE_CORE => 'Permissions: SWIFT General',
-	'perm_canpostcomment' => 'Can Post Comments',
+	'perm_'.MODULE_CORE => 'Permisos: SWIFT General',
+	'perm_canpostcomment' => 'Puede publicar comentarios',
 
 	// ======= TICKETS =======
-	'perm_'.MODULE_TICKETS => 'Permissions: Tickets',
-	'perm_cansubmitticket' => 'Can Submit Ticket',
-	'perm_canchangepriorities' => 'Can Change Ticket Properties',
+	'perm_'.MODULE_TICKETS => 'Permisos: Tickets',
+	'perm_cansubmitticket' => 'Puede enviar un ticket',
+	'perm_canchangepriorities' => 'Puede cambiar las propiedades del ticket',
 
 	// ======= NEWS =======
-	'perm_'.MODULE_NEWS => 'Permissions: News',
-	'perm_cansubscribenews' => 'Can Subscribe to News',
+	'perm_'.MODULE_NEWS => 'Permisos: Noticias',
+	'perm_cansubscribenews' => 'Puede suscribirse a noticias',
 
 );
 
