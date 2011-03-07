@@ -15,14 +15,14 @@
  */
 
 $__LANG = array (
-	'users' => 'Users',
-	'contacts' => 'Contacts',
-	'lookuptitle' => 'Look-up Users & Contacts',
-	'searchquery' => 'Search Query',
+	'users' => 'Usuarios',
+	'contacts' => 'Contactos',
+	'lookuptitle' => 'Encontrar usuarios y contactos',
+	'searchquery' => 'Cadena de búsqueda',
 
-	'c_mobile' => 'Mobile: ',
-	'c_business' => 'Business: ',
-	'c_home' => 'Home: ',
+	'c_mobile' => 'Móvil: ',
+	'c_business' => 'Trabajo: ',
+	'c_home' => 'Casa: ',
 );
 
 ?>
