@@ -14,13 +14,13 @@
 //=======================================
 
 $__LANG = array (
-	'settings' => 'Settings',
-	'worksched' => 'Work Schedule',
-	'changepass' => 'Change Password',
-	'snewtickets' => 'New Tickets',
-	'sadvancedsearch' => 'Advanced Search',
-	'squicksearch' => 'Quick Search',
-	'stidlookup' => 'Ticket ID Lookup',
-	'screatorreplier' => 'Creator/Replier',
+	'settings' => 'Configuración',
+	'worksched' => 'Calendario de trabajo',
+	'changepass' => 'Cambiar contraseña',
+	'snewtickets' => 'Nuevos tickets',
+	'sadvancedsearch' => 'Búsqueda avanzada',
+	'squicksearch' => 'Búsqueda rápida',
+	'stidlookup' => 'Buscar ID ticket',
+	'screatorreplier' => 'Creador/Respondedor',
 );
 ?>
