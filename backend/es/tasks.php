@@ -45,14 +45,14 @@ $__LANG = array (
 	// ======= TASK ENTRIES =======
 	'cronhourlycleanup' => 'Limpieza horaria del sistema',
 	'crondailycleanup' => 'Limpieza diaria del sistema',
-	'cronsearchengine' => 'Search Engine Re-Indexing',
-	'tickets' => 'Ticket Module Actions (Escalations, Cleanup etc)',
-	'parser' => 'POP3/IMAP Fetching',
-	'parsercleanup' => 'Mail Parser Cleanup',
-	'livechat' => 'Live Chat Cleanup',
-	'newssync' => 'News Synchronization',
+	'cronsearchengine' => 'Reconstrucción de índices de búsqueda',
+	'tickets' => 'Acciones de módulo tickets (Cambios de nivel, limpiezas etc)',
+	'parser' => 'Recuperación correo POP3/IMAP',
+	'parsercleanup' => 'Limpieza parser de email',
+	'livechat' => 'Limpieza de sistema de chat',
+	'newssync' => 'Sincronización de noticias',
 	// ======= BEGIN v3 IMPORT =======
-	'ticketfollowup' => 'Ticket Follow-up',
+	'ticketfollowup' => 'Seguimiento de tickets',
 	// ======= END v3 IMPORT =======
 );
 
