@@ -438,7 +438,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 		30 => array ('Valoraciones', 'bar_benchmarks.gif', MODULE_TICKETS, '/Base/Benchmark/Manage'),
 		6 => array ('SLA', 'bar_sla.gif', MODULE_TICKETS),
 		7 => array ('Escalado', 'bar_escalations.gif', MODULE_TICKETS, '/Tickets/Escalation/Manage'),
-		20 => array ('Bayesiano', 'bar_bayesian.gif', MODULE_TICKETS),
+		20 => array ('Filtro bayesiano', 'bar_bayesian.gif', MODULE_TICKETS),
 		21 => array ('Base de conocimiento', 'bar_knowledgebase.gif', MODULE_KNOWLEDGEBASE),
 		22 => array ('Descargas', 'bar_downloads.gif', MODULE_DOWNLOADS),
 		23 => array ('Noticias', 'bar_news.gif', MODULE_NEWS),
