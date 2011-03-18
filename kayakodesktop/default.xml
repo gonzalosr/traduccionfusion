@@ -1,82 +1,82 @@
 <languagepack>
-  <code>Code</code>
-  <title>English (U.S.)</title>
+  <code>es</code>
+  <title>Español (España)</title>
   <rtl>false</rtl>
 
   <!-- APP -->
   <!-- MISCELLANEOUS -->
-  <string id="IDS_UNKNOWNHOST">(unknown host)</string>
-  <string id="IDS_UNKNOWN">&lt;unknown&gt;</string>
-  <string id="IDS_COPY">Copy</string>
-  <string id="IDS_SELECTALL">Select All</string>
-  <string id="IDS_CLEAR">Clear</string>
+  <string id="IDS_UNKNOWNHOST">(servidor desconocido)</string>
+  <string id="IDS_UNKNOWN">&lt;desconocido&gt;</string>
+  <string id="IDS_COPY">Copiar</string>
+  <string id="IDS_SELECTALL">Seleccionar todo</string>
+  <string id="IDS_CLEAR">Borrar</string>
   <string id="IDS_OK">&amp;OK</string>
-  <string id="IDS_CANCEL">&amp;Cancel</string>
-  <string id="IDS_APPLY">&amp;Apply</string>
+  <string id="IDS_CANCEL">&amp;Cancelar</string>
+  <string id="IDS_APPLY">&amp;Aplicar</string>
   <string id="IDS_NOTAPPLICABLE">N/A</string>
-  <string id="IDS_LOADING">Loading...</string>
+  <string id="IDS_LOADING">Cargando...</string>
   <!-- MAINFRAME -->
-  <string id="IDS_MAINWND_TITLE">Kayako Desktop (offline)</string>
-  <string id="IDS_MAINWND_TITLE_CNX">%s - Kayako Desktop</string>
-  <string id="IDS_STATUSBAR_FORMAT">%s | Visitors: %d - Pending Chats: %d </string>
-  <string id="IDS_STATUSBAR_SECURE_FORMAT">Connection to %s is secure.</string>
-  <string id="IDS_STATUSBAR_INSECURE_FORMAT">Connection to %s is NOT secure.</string>
+  <string id="IDS_MAINWND_TITLE">Escritorio Kayako (desconectado)</string>
+  <string id="IDS_MAINWND_TITLE_CNX">%s - Escritorio Kayako</string>
+  <string id="IDS_STATUSBAR_FORMAT">%s | Visitantes: %d - Chats pendientes: %d </string>
+  <string id="IDS_STATUSBAR_SECURE_FORMAT">La conexión a  %s es segura.</string>
+  <string id="IDS_STATUSBAR_INSECURE_FORMAT">La conexión a  %s NO es segura.</string>
   <!-- STATUSES -->
-  <string id="IDS_STATUS_OFFLINE">Offline</string>
-  <string id="IDS_STATUS_OFFLINE_TT">Go offline</string>
-  <string id="IDS_STATUS_ONLINE">Online</string>
-  <string id="IDS_STATUS_ONLINE_TT">Set status to online</string>
-  <string id="IDS_STATUS_AWAY">Away</string>
-  <string id="IDS_STATUS_AWAY_TT">Set status to away</string>
-  <string id="IDS_STATUS_BACKIN5">Back Shortly</string>
-  <string id="IDS_STATUS_BACKIN5_TT">Set status to "be back shortly"</string>
-  <string id="IDS_STATUS_BUSY">Busy</string>
-  <string id="IDS_STATUS_BUSY_TT">Set status to busy</string>
+  <string id="IDS_STATUS_OFFLINE">Desconectado</string>
+  <string id="IDS_STATUS_OFFLINE_TT">Desconectar</string>
+  <string id="IDS_STATUS_ONLINE">Conectado</string>
+  <string id="IDS_STATUS_ONLINE_TT">Cambiar estado a conectado</string>
+  <string id="IDS_STATUS_AWAY">Ausente</string>
+  <string id="IDS_STATUS_AWAY_TT">Cambiar estado a ausente</string>
+  <string id="IDS_STATUS_BACKIN5">Vuelvo enseguida</string>
+  <string id="IDS_STATUS_BACKIN5_TT">Cambiar estado a "vuelvo enseguida"</string>
+  <string id="IDS_STATUS_BUSY">Ocupado</string>
+  <string id="IDS_STATUS_BUSY_TT">Cambiar estado a ocupado</string>
   <string id="IDS_STATUS_INVISIBLE">Invisible</string>
-  <string id="IDS_STATUS_INVISIBLE_TT">Set status to invisible</string>
+  <string id="IDS_STATUS_INVISIBLE_TT">Cambiar estado a invisible</string>
   <!-- TAB COLORS -->
-  <string id="IDS_TABCOLOR_1">Default</string>
-  <string id="IDS_TABCOLOR_2">Green</string>
-  <string id="IDS_TABCOLOR_3">Yellow</string>
-  <string id="IDS_TABCOLOR_4">Aqua</string>
-  <string id="IDS_TABCOLOR_5">Red</string>
-  <string id="IDS_TABCOLOR_6">Orange</string>
-  <string id="IDS_TABCOLOR_7">Purple</string>
-  <string id="IDS_TABCOLOR_8">Blue</string>
+  <string id="IDS_TABCOLOR_1">Por defecto</string>
+  <string id="IDS_TABCOLOR_2">Verde</string>
+  <string id="IDS_TABCOLOR_3">Amarillo</string>
+  <string id="IDS_TABCOLOR_4">Agua</string>
+  <string id="IDS_TABCOLOR_5">Rojo</string>
+  <string id="IDS_TABCOLOR_6">Naranja</string>
+  <string id="IDS_TABCOLOR_7">Violeta</string>
+  <string id="IDS_TABCOLOR_8">Azul</string>
   <!-- TRAY MENU -->
-  <string id="IDS_TRAY_SHOWLR">Show Kayako Desktop</string>
-  <string id="IDS_TRAY_OPTIONS">Settings</string>
-  <string id="IDS_TRAY_ICON_SETTINGS">Icon Settings</string>
-  <string id="IDS_TRAY_EXIT">Exit</string>
+  <string id="IDS_TRAY_SHOWLR">Mostrar Escritorio Kayako</string>
+  <string id="IDS_TRAY_OPTIONS">Configuración</string>
+  <string id="IDS_TRAY_ICON_SETTINGS">Configuración de icono</string>
+  <string id="IDS_TRAY_EXIT">Salir</string>
   <!-- HYPERLINK MENU -->
   <string id="IDS_HYPERLINK_COPY">&amp;Copy Link Location</string>
   <string id="IDS_HYPERLINK_LR">&amp;Open Link</string>
   <string id="IDS_HYPERLINK_BROWSER">Open Link in &amp;default browser</string>
   <!-- MESSAGES -->
-  <string id="IDS_MSG_ERROR_CAP">Kayako Desktop - Error!</string>
-  <string id="IDS_MSG_ALERT_CAP">Kayako Desktop - Alert</string>
-  <string id="IDS_MSG_INFO_CAP">Kayako Desktop - Information</string>
-  <string id="IDS_MSG_FATALERROR_CAP">Kayako Desktop - Fatal Error!</string>
-  <string id="IDS_MSG_QUESTION_CAP">Kayako Desktop - Question</string>
-  <string id="IDS_MSG_SUCCESS_CAP">Kayako Desktop - Success</string>
-  <string id="IDS_MSG_FAILURE_CAP">Kayako Desktop - Failure</string>
-  <string id="IDS_MSG_IMPORTSETTINGSSUCCESS_TXT">Settings were successfully imported.</string>
+  <string id="IDS_MSG_ERROR_CAP">Escritorio Kayako - Error!</string>
+  <string id="IDS_MSG_ALERT_CAP">Escritorio Kayako - Alerta</string>
+  <string id="IDS_MSG_INFO_CAP">Escritorio Kayako - Información</string>
+  <string id="IDS_MSG_FATALERROR_CAP">Escritorio Kayako - Error Fatal!</string>
+  <string id="IDS_MSG_QUESTION_CAP">Escritorio Kayako - Pregunta</string>
+  <string id="IDS_MSG_SUCCESS_CAP">Escritorio Kayako - Éxito</string>
+  <string id="IDS_MSG_FAILURE_CAP">Escritorio Kayako - Error</string>
+  <string id="IDS_MSG_IMPORTSETTINGSSUCCESS_TXT">La configuracion se ha importado correctamente.</string>
 
-  <string id="IDS_MSG_AUTOUPDATE_CAP">Kayako Desktop - New Version Available</string>
-  <string id="IDS_MSG_AUTOUPDATE_TXT">There is a new version of Kayako Desktop available!
+  <string id="IDS_MSG_AUTOUPDATE_CAP">Escritorio Kayako - Nueva versión disponible</string>
+  <string id="IDS_MSG_AUTOUPDATE_TXT">Hay una nueva versión de Escritorio Kayako disponible!
 
-Version: %s
-Description: %s
+Versión: %s
+Descripción: %s
 
-Would you like to upgrade now?</string>
-  <string id="IDS_MSG_AUTOUPDATE_NOUPDATES_CAP">Kayako Desktop - No Updates</string>
-  <string id="IDS_MSG_AUTOUPDATE_NOUPDATES_TXT">You are running the latest version of Kayako Desktop.</string>
+Desea actualizar ahora?</string>
+  <string id="IDS_MSG_AUTOUPDATE_NOUPDATES_CAP">Escritorio Kayako - No Updates</string>
+  <string id="IDS_MSG_AUTOUPDATE_NOUPDATES_TXT">You are running the latest version of Escritorio Kayako.</string>
 
   <string id="IDS_ACCOUNTS_IMPORT_TITLE">Import Account File</string>
   <string id="IDS_ACCOUNTS_EXPORT_TITLE">Export Account File</string>
-  <string id="IDS_ACCOUNTS_IMPEX_FILTER">Kayako Desktop Account Files</string>
+  <string id="IDS_ACCOUNTS_IMPEX_FILTER">Escritorio Kayako Account Files</string>
   
-  <string id="IDS_MSG_IMPORTACCOUNTSFAILURE_TXT">Unable to import accounts! Make sure the file is a valid Kayako Desktop accounts file.</string>
+  <string id="IDS_MSG_IMPORTACCOUNTSFAILURE_TXT">Unable to import accounts! Make sure the file is a valid Escritorio Kayako accounts file.</string>
   <string id="IDS_MSG_IMPORTACCOUNTSNOACCOUNTS_TXT">No accounts were found to import. This may be because all of the accounts found were duplicates of existing accounts.</string>
   <string id="IDS_MSG_IMPORTSETTINGSFAILURE_TXT">No settings were found in that file!</string>
   <string id="IDS_MSG_EXPORTACCOUNTSSUCCESS_TXT">Successfully exported %d account(s).</string>
@@ -96,7 +96,7 @@ You are participating in %d chat session(s). All chat windows will be closed and
   <string id="IDS_MSG_CLOSESERVERTAB_NOCHATS">Are you sure you wish to close this server tab?
   
 All chat windows will be closed and you will be logged out from %s.</string>
-  <string id="IDS_MSG_BOOKMARKALREADYEXISTS_CAP">Kayako Desktop - Page already bookmarked</string>
+  <string id="IDS_MSG_BOOKMARKALREADYEXISTS_CAP">Escritorio Kayako - Page already bookmarked</string>
   <string id="IDS_MSG_BOOKMARKALREADYEXISTS_TXT">This page has already been bookmarked.</string>
   <string id="IDS_MSG_REGISTERHOTKEYFAILED_TXT">Failed to register hotkey: %s</string>
   <string id="IDS_MSG_CUSTOMTOOLBARFAILURE">An internal error has occurred while trying to open the custom link!</string>
@@ -143,7 +143,7 @@ Would you like to proceed?</string>
   <string id="IDS_MSG_NOTEFAIL_LOG_TEXT">%s: Failed to add note for %s; Error: '%s'</string>
   
   <!-- WIZARD -->
-  <string id="IDS_WIZARD_TITLE">Kayako Desktop - Setup Wizard</string>
+  <string id="IDS_WIZARD_TITLE">Escritorio Kayako - Setup Wizard</string>
   
   <!-- TRAY SETTINGS -->
   <string id="IDS_TRAY_SETTINGS_DLG_FRAME1">Tray Icon Settings</string>
@@ -153,7 +153,7 @@ Would you like to proceed?</string>
   <string id="IDS_TRAY_SETTINGS_DLG_THRESHOLD_TT_TITLE">Icon color threshold</string>
   <string id="IDS_TRAY_SETTINGS_DLG_THRESHOLD_TT_TEXT">Enter the average number of visitors that would indicate a high load on your site.
 
-Kayako Desktop will use this number to determine the appropriate color for the tray icon based on visitor count in relation to this threshold.
+Escritorio Kayako will use this number to determine the appropriate color for the tray icon based on visitor count in relation to this threshold.
   </string>
   
   <!-- MAINFRAME -->
@@ -170,7 +170,7 @@ Kayako Desktop will use this number to determine the appropriate color for the t
   <string id="IDS_MENU_IMPORT_SETTINGS_TT">Import settings from file</string>
   <string id="IDS_MENU_EXPORT_SETTINGS_TT">Export settings to file</string>
   <string id="IDS_MENU_APP">Application</string>
-  <string id="IDS_MENU_ABOUT">About Kayako Desktop</string>
+  <string id="IDS_MENU_ABOUT">About Escritorio Kayako</string>
   <string id="IDS_MENU_ABOUT_TT">View version and copyright information about this product</string>
   <string id="IDS_MENU_CHECK_FOR_UPDATES">Check for updates...</string>
   <string id="IDS_MENU_CHECK_FOR_UPDATES_TT">Check for product updates (Requires an Internet connection)</string>
@@ -178,11 +178,11 @@ Kayako Desktop will use this number to determine the appropriate color for the t
   <string id="IDS_MENU_EVENTLOG">Event &amp;Log</string>
   <string id="IDS_MENU_EVENTLOG_TT">View the event log</string>
   <string id="IDS_MENU_ONTOP">Always On &amp;Top</string>
-  <string id="IDS_MENU_ONTOP_TT">Toggle whether or not Kayako Desktop stays on top of all other windows</string>
+  <string id="IDS_MENU_ONTOP_TT">Toggle whether or not Escritorio Kayako stays on top of all other windows</string>
   <string id="IDS_MENU_OPTIONS">&amp;Settings</string>
-  <string id="IDS_MENU_OPTIONS_TT">Make changes to Kayako Desktop settings</string>
+  <string id="IDS_MENU_OPTIONS_TT">Make changes to Escritorio Kayako settings</string>
   <string id="IDS_MENU_EXIT">E&amp;xit</string>
-  <string id="IDS_MENU_EXIT_TT">Close all connections and exit Kayako Desktop</string>
+  <string id="IDS_MENU_EXIT_TT">Close all connections and exit Escritorio Kayako</string>
   <string id="IDS_MENU_ALL">All</string>
   
   <!-- RIBBONS -->
@@ -244,7 +244,7 @@ Kayako Desktop will use this number to determine the appropriate color for the t
   <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_CURRENTWNDD3">Delay 3 Seconds</string>
   <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_CURRENTWNDD4">Delay 4 Seconds</string>
   <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_CURRENTWNDD5">Delay 5 Seconds</string>
-  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_HIDELR">Hide Kayako Desktop</string>
+  <string id="IDS_RIBBON_SERVER_CHAT_SCREENSHOT_HIDELR">Hide Escritorio Kayako</string>
   <string id="IDS_RIBBON_SERVER_CHAT_SHOWROSTER">Show Roster</string>
   <string id="IDS_RIBBON_SERVER_CHAT_SHOWROSTER_TT">Show list of chat participants</string>
   <string id="IDS_RIBBON_SERVER_CHAT_PUSH">Push</string>
@@ -321,7 +321,7 @@ Kayako Desktop will use this number to determine the appropriate color for the t
   <string id="IDS_RIBBON_XFER_SKILLSET_NOSETS">No skillsets available</string>
   
   <!-- TRAY ICON TOOLTIPS -->
-  <string id="IDS_TRAYICON_TITLE">Kayako Desktop</string>
+  <string id="IDS_TRAYICON_TITLE">Escritorio Kayako</string>
   <string id="IDS_TRAYICON_NOCONNS_VISTAPLUS">No connections online</string>
   <string id="IDS_TRAYICON_CONN_FMT_XP">%s (%s): %s, Online: %s, Visitors: %d, Chats: %d pending, %d active</string>
   <string id="IDS_TRAYICON_CONN_FMT_VISTAPLUS">%s (%s) logged in as '%s' for %s
@@ -332,7 +332,7 @@ Active chats: %d</string>
   <!-- DOCKING PANES -->
   <string id="IDS_PANE_STAFF">Staff</string>
   <string id="IDS_PANE_VOIP">Phone</string>
-  <string id="IDS_PANE_TABS">Kayako Desktop</string>
+  <string id="IDS_PANE_TABS">Escritorio Kayako</string>
   <string id="IDS_PANE_INFO">Currently Selected Visitor</string>
   
   <!-- STAFFLIST -->
@@ -442,9 +442,9 @@ Subject: %s</string>
   <string id="IDS_MON_COUNTRY">Country</string>
   <string id="IDS_MON_GROUP">Group</string>
   <string id="IDS_MON_GROUP_EMPTY">None</string>
-  <string id="IDS_MON_MSG_NOREFERRERTITLE">Kayako Desktop - No Referrer Available</string>
+  <string id="IDS_MON_MSG_NOREFERRERTITLE">Escritorio Kayako - No Referrer Available</string>
   <string id="IDS_MON_MSG_NOREFERRER">This visitor does not have a referrer.</string>
-  <string id="IDS_MON_ADDNOTEDLGTITLE">Kayako Desktop - Add Note</string>
+  <string id="IDS_MON_ADDNOTEDLGTITLE">Escritorio Kayako - Add Note</string>
   <string id="IDS_MON_ADDNOTEDLG">Enter the note you wish to add below:</string>
   <string id="IDS_MON_STATE_BROWSING">Browsing</string>
   <string id="IDS_MON_STATE_PENDINGCHAT">Chat Pending</string>
@@ -517,7 +517,7 @@ and are not shown on the map.</string>
   <string id="IDS_CF_SHOWTIMESTAMPS">Show Timestamps</string>
   <string id="IDS_CF_TB_EDIT">Edit Toolbar</string>
   <string id="IDS_CF_TB_PUSH">Push Toolbar</string>
-  <string id="IDS_CF_PUSHIMAGEDLGTITLE">Kayako Desktop - Push Image</string>
+  <string id="IDS_CF_PUSHIMAGEDLGTITLE">Escritorio Kayako - Push Image</string>
   <string id="IDS_CF_PUSHIMAGEDLGMSG">Enter the URL to the image to push below:</string>
   <string id="IDS_CF_INVALIDURLMSG">'%s' is not a valid HTTP or FTP URL. Please verify your input and try again.</string>
   <string id="IDS_CF_EMAILCONVODLGTITLE">E-mail Conversation</string>
@@ -583,7 +583,7 @@ and are not shown on the map.</string>
   <string id="IDS_CF_FAILEDOUTGOING_WARNING">Warning: Event with type %d was not processed. Error message: '%s'</string>
   <string id="IDS_CF_TYPINGNOTIFICATION">%s is typing a message...</string>
   <string id="IDS_CF_NEWMSGNOTIFICATION_HTML"><![CDATA[<b>You have received a new message.</b><br>Click to view.]]></string>
-  <string id="IDS_CF_UPLOADFILE_ERROR">Kayako Desktop was unable to upload the file '%s.'  Your system may be low on memory, or there may have been a permissions issue when accessing the file.</string>
+  <string id="IDS_CF_UPLOADFILE_ERROR">Escritorio Kayako was unable to upload the file '%s.'  Your system may be low on memory, or there may have been a permissions issue when accessing the file.</string>
   <string id="IDS_CF_CANNED_INTERNERR">An internal error has occurred while trying to execute that canned response!</string>
   <string id="IDS_CF_CANNED_NOACTIONS">That canned response does not contain any actions!</string>
   <string id="IDS_CF_UPLOAD_FILE_CANCEL">Cancel</string>
@@ -663,14 +663,14 @@ and are not shown on the map.</string>
   <string id="IDS_CUSTOMTOOLBARDLG_EDIT">&amp;Edit...</string>
   <string id="IDS_CUSTOMTOOLBARDLG_REMOVE">&amp;Remove</string>
   <!-- OPTIONS DIALOG -->
-  <string id="IDS_PROPSHEET_TITLE">Kayako Desktop Settings</string>
-  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_CAP">Restart Kayako Desktop</string>
-  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_TXT">Some of the settings you have changed require Kayako Desktop to be restarted before taking effect.</string>
+  <string id="IDS_PROPSHEET_TITLE">Escritorio Kayako Settings</string>
+  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_CAP">Restart Escritorio Kayako</string>
+  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_TXT">Some of the settings you have changed require Escritorio Kayako to be restarted before taking effect.</string>
   
   <!-- GENERAL SETTINGS -->
   <string id="IDS_PROPPAGE_GENERAL">General</string>
   <string id="IDS_GENERAL_FRAME1">Startup</string>
-  <string id="IDS_GENERAL_AUTOSTART">Automatically start Kayako Desktop with &amp;Windows</string>
+  <string id="IDS_GENERAL_AUTOSTART">Automatically start Escritorio Kayako with &amp;Windows</string>
   <string id="IDS_GENERAL_AUTOUPDATE">Automatically check for product updates (recommended)</string>
   <string id="IDS_GENERAL_FRAME2">Data Retrieval</string>
   <string id="IDS_GENERAL_USESTREAMING">Use HTTP &amp;streaming</string>
@@ -688,7 +688,7 @@ and are not shown on the map.</string>
   <string id="IDS_ACCOUNTS_CHANGED_NEED_RECONNECT_CAPTION">Account Connection</string>
   <string id="IDS_ACCOUNTS_CHANGES_NEED_RECONNECT">
 You have made changes to an account that you're currently connected to.
-To apply the changes, Kayako Desktop must disconnect from and then reconnect to this account.
+To apply the changes, Escritorio Kayako must disconnect from and then reconnect to this account.
 
 Would you still like to apply the changes?
   </string>
@@ -707,7 +707,7 @@ Would you still like to apply the changes?
   <string id="IDS_ACCOUNTS_DONTREMEMBERPASS_MSG">You have chosen not to save the password for this account.  You will be required to enter it manually each time you log in.
   
 Do you still wish to continue?</string>
-  <string id="IDS_ACCOUNTDLG_TITLE">Kayako Desktop - %s</string>
+  <string id="IDS_ACCOUNTDLG_TITLE">Escritorio Kayako - %s</string>
   <string id="IDS_ACCOUNTDLG_ACCOUNTDETAILS">Account Details</string>
   <string id="IDS_ACCOUNTDLG_ADD">Create New Account</string>
   <string id="IDS_ACCOUNTDLG_EDIT">Edit Account</string>
@@ -882,14 +882,14 @@ This method, however, depends on the hardware on both your network and the custo
   
 If you are unsure how to enable incoming connections from the Internet to your computer, contact your network administrator.</string>
   <!-- ONSITE UTILITY -->
-  <string id="IDS_ONSITE_NO_VIEWER">Kayako Desktop was unable to locate the OnSite application. You may need to reinstall Kayako Desktop.</string>
-  <string id="IDS_ONSITE_VIEWER_SPAWN_FAIL">Kayako Desktop was unable to start the OnSite application. (error: %d)
+  <string id="IDS_ONSITE_NO_VIEWER">Escritorio Kayako was unable to locate the OnSite application. You may need to reinstall Escritorio Kayako.</string>
+  <string id="IDS_ONSITE_VIEWER_SPAWN_FAIL">Escritorio Kayako was unable to start the OnSite application. (error: %d)
   
-You may need to reinstall Kayako Desktop.</string>
+You may need to reinstall Escritorio Kayako.</string>
   <!-- DISPLAY -->
   <string id="IDS_PROPPAGE_DISPLAY">Display</string>
   <string id="IDS_DISPLAY_FRAME1">Display</string>
-  <string id="IDS_DISPLAY_AUTOHIDESS">Auto-hide Kayako Desktop on startup</string>
+  <string id="IDS_DISPLAY_AUTOHIDESS">Auto-hide Escritorio Kayako on startup</string>
   <string id="IDS_DISPLAY_AUTOHIDEINFO">Auto-hide visitor information in browser mode</string>
   <string id="IDS_DISPLAY_FRAME2">Visitor List</string>
   <string id="IDS_DISPLAY_GROUPVISITORS">Show visitors in groups</string>
@@ -976,7 +976,7 @@ You may need to reinstall Kayako Desktop.</string>
   <string id="IDS_HOTKEYS_21">Web: Refresh</string>
   <string id="IDS_HOTKEYS_22">Web: New Tab</string>
   <string id="IDS_HOTKEYS_23">Chat: Take Screenshot</string>
-  <string id="IDS_HOTKEYS_24">App: Quit Kayako Desktop</string>
+  <string id="IDS_HOTKEYS_24">App: Quit Escritorio Kayako</string>
   <string id="IDS_HOTKEYS_25">Web: Address Bar</string>
   <string id="IDS_HOTKEYS_MSG_ASSIGNED_CAP">Hotkey Already Assigned!</string>
   <string id="IDS_HOTKEYS_MSG_ASSIGNED_TXT">The hotkey you entered has already been assigned to another action. If you continue, the previous action will be unassigned. Proceed?</string>
@@ -998,7 +998,7 @@ You may need to reinstall Kayako Desktop.</string>
   <string id="IDS_LANGUAGE_FRAME1">Language</string>
   <string id="IDS_LANGUAGE_LABEL1">Choose your language from the list below:</string>
   <string id="IDS_LANGUAGE_MSG_NOPACKS_CAP">No language packs found!</string>
-  <string id="IDS_LANGUAGE_MSG_NOPACKS_TXT">Kayako Desktop could not find any installed language packs!</string>
+  <string id="IDS_LANGUAGE_MSG_NOPACKS_TXT">Escritorio Kayako could not find any installed language packs!</string>
   <!-- ABOUT -->
   <string id="IDS_PROPPAGE_ABOUT">About</string>
   <string id="IDS_ABOUT_FRAME1">Version Information</string>
@@ -1035,7 +1035,7 @@ Kayako Infotech Ltd.
   <string id="IDS_AVATARDLG_ERROR_FILETOOLARGE">The file is too large. Please make sure it does not exceed %d%s.</string>
   
   <!-- EVENT LOG -->
-  <string id="IDS_EVENTLOGWNDTITLE">Kayako Desktop Event Log</string>
+  <string id="IDS_EVENTLOGWNDTITLE">Escritorio Kayako Event Log</string>
   <string id="IDS_EVENTLOGMENU">Menu</string>
   <string id="IDS_EVENTLOGCOL1">Timestamp</string>
   <string id="IDS_EVENTLOGCOL2">Event</string>
@@ -1135,8 +1135,8 @@ This includes calls not shown due to filtering.
   <string id="IDS_VOIP_CONTACTSDLG_CONFIRMIMPORT">Found %d contact(s) that can be imported.
   
 Would you like to continue?</string>
-  <string id="IDS_VOIP_CONTACTSDLG_NOIMPORTABLECONTACTS">Kayako Desktop was unable to import any Microsoft Outlook contacts.</string>
-  <string id="IDS_VOIP_CONTACTSDLG_NOCONTACTS">Kayako Desktop could not find any Microsoft Outlook contacts.</string>
+  <string id="IDS_VOIP_CONTACTSDLG_NOIMPORTABLECONTACTS">Escritorio Kayako was unable to import any Microsoft Outlook contacts.</string>
+  <string id="IDS_VOIP_CONTACTSDLG_NOCONTACTS">Escritorio Kayako could not find any Microsoft Outlook contacts.</string>
   <string id="IDS_VOIP_CONTACTSDLG_MSOUTLOOKERR">An error occurred while trying to import contact(s) from Microsoft Outlook. Error: 0x%08X</string>
   <string id="IDS_VOIP_CONTACTSDLG_MSOUTLOOKCONTACTERR">An error occurred while trying to import a contact from Microsoft Outlook. Error: 0x%08X</string>
   <!-- CONTACT DIALOG -->
@@ -1394,19 +1394,19 @@ Click this message to view your settings.</string>
   <string id="IDS_XMLWEB_ERROR_UNKNOWN">Unknown error</string>
   
   <!-- CRASHMAN -->
-  <string id="IDS_CRASHMAN_TITLE">Kayako Desktop - Fatal Error</string>
-  <string id="IDS_CRASHMAN_DESCRIPTION">We're sorry, Kayako Desktop encountered a serious problem and must shut down.
+  <string id="IDS_CRASHMAN_TITLE">Escritorio Kayako - Fatal Error</string>
+  <string id="IDS_CRASHMAN_DESCRIPTION">We're sorry, Escritorio Kayako encountered a serious problem and must shut down.
   
 To help us diagnose and repair this problem, you can send a crash report. The crash report is only for debugging and contains no private or personal data.</string>
   <string id="IDS_CRASHMAN_REPROSTEPS">If possible, provide steps to reproduce the problem:</string>
-  <string id="IDS_CRASHMAN_RESTARTAPP">&amp;Restart Kayako Desktop and restore session(s)</string>
+  <string id="IDS_CRASHMAN_RESTARTAPP">&amp;Restart Escritorio Kayako and restore session(s)</string>
   <string id="IDS_CRASHMAN_IGNORE">&amp;Close</string>
   <string id="IDS_CRASHMAN_SENDREPORT">&amp;Send Report</string>
   <string id="IDS_CRASHMAN_SENDEX">Send E&amp;xtended Information</string>
   <string id="IDS_CRASHMAN_SENDEXDESC">Extended information is not required, but will usually make diagnosis much easier.</string>
   
   <!-- SCREENCAP -->
-  <string id="IDS_SCREENCAP_DIRECTIONS_CAP">Kayako Desktop - Screen Capture</string>
+  <string id="IDS_SCREENCAP_DIRECTIONS_CAP">Escritorio Kayako - Screen Capture</string>
   <string id="IDS_SCREENCAP_DIRECTIONS">Directions:
   
     Use your cursor to select the area you wish to capture. Hold the Ctrl key for extra precision.
@@ -1416,6 +1416,6 @@ To help us diagnose and repair this problem, you can send a crash report. The cr
   
   <!-- SETTINGS IMPORT/EXPORT -->
   <string id="IDS_SETTINGS_IMPEX_TITLE">Import/Export Settings</string>
-  <string id="IDS_SETTINGS_IMPEX_FILTER">Kayako Desktop Setting Files</string>
+  <string id="IDS_SETTINGS_IMPEX_FILTER">Escritorio Kayako Setting Files</string>
   
 </languagepack>
