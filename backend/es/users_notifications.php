@@ -15,12 +15,12 @@
  */
 
 $__LANG = array(
-	'notificationwas' => ' (was: %s)',
-	'notificationcleared' => '- Cleared -',
-	'ninfoupdateduser' => '%s has registered or updated his profile',
-	'ninfoupdatedstaff' => '%s has created or updated the profile of: %s',
-	'notificationstaffcp' => 'Staff CP: ',
-	'nusernotsubject' => '[User Notification]: %s',
+	'notificationwas' => ' (era: %s)',
+	'notificationcleared' => '- Borrado -',
+	'ninfoupdateduser' => '%s ha registrado o actualizado su perfil',
+	'ninfoupdatedstaff' => '%s ha creado o actualizado el perfil de: %s',
+	'notificationstaffcp' => 'Panel de operadores: ',
+	'nusernotsubject' => '[Notificación de usuario]: %s',
 
 
 	/**
@@ -29,12 +29,12 @@ $__LANG = array(
 	 * ---------------------------------------------
 	 */
 	'ntitle_url' => 'URL: ',
-	'ntitle_fullname' => 'Full Name: ',
+	'ntitle_fullname' => 'Nombre: ',
 	'ntitle_email' => 'Email: ',
-	'ntitle_phone' => 'Phone #: ',
+	'ntitle_phone' => 'Teléfono: ',
 	'nval_na' => '- NA -',
-	'ntitle_created' => 'Created: ',
-	'ntitle_designation' => 'Title/Position: ',
-	'ntitle_organization' => 'Organization: ',
+	'ntitle_created' => 'Creado: ',
+	'ntitle_designation' => 'Cargo: ',
+	'ntitle_organization' => 'Organización: ',
 );
 ?>
