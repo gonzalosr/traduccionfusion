@@ -522,36 +522,36 @@ y no se muestran en el mapa.</string>
   <string id="IDS_CF_INVALIDURLMSG">'%s' no es un enlace HTTP o FTP válido. Por favor, compruebe los datos introducidos e inténtelo de nuevo.</string>
   <string id="IDS_CF_EMAILCONVODLGTITLE">Enviar conversación por E-mail</string>
   <string id="IDS_CF_EMAILCONVODLGMSG">Enviar la conversación por E-mail a la siguiente dirección:</string>
-  <string id="IDS_CF_NEWMESSAGENOTIFY">You have received a new message. Click here to view it.</string>
-  <string id="IDS_CF_TB_SPELL_TT">Check the message for spelling errors</string>
-  <string id="IDS_CF_TB_PUSHCODE">Push Code</string>
-  <string id="IDS_CF_TB_PUSHCODE_TT">Send example source code</string>
-  <string id="IDS_CF_TB_PUSHIMAGE">Push Image</string>
-  <string id="IDS_CF_TB_PUSHIMAGE_TT">Send an image</string>
-  <string id="IDS_CF_TB_PUSHFILE">Push File</string>
-  <string id="IDS_CF_TB_PUSHFILE_TT">Send a file</string>
-  <string id="IDS_CF_TB_URL">Push URL:</string>
-  <string id="IDS_CF_TB_URL_TT">Enter an FTP or HTTP URL to send to the conversation.</string>
-  <string id="IDS_CF_TB_GO">Send</string>
-  <string id="IDS_CF_TB_GO_TT">Send the URL you've entered to the conversation.</string>
-  <string id="IDS_CF_NOWCHATTING"><![CDATA[You have joined the chat conversation with <b>%s</b>.<br><br><b>Email address:</b> %s<br><b>Department:</b> %s<br><b>Subject:</b> %s%s]]></string>
-  <string id="IDS_CF_NOWCHATTING_STAFF">You have joined the chat conversation.</string>
-  <string id="IDS_CF_NOSUBJECT"><![CDATA[<i>none supplied</i>]]></string>
-  <string id="IDS_CF_JOIN"><![CDATA[<b>%s</b> has joined the chat conversation.]]></string>
-  <string id="IDS_CF_PART"><![CDATA[<b>%s</b> has left the chat conversation.]]></string>
-  <string id="IDS_CF_PUSHURL"><![CDATA[<b>%s</b> has shared the following URL: <a onclick="external.OnLinkClick('%s');">%s</a>]]></string>
-  <string id="IDS_CF_PUSHIMG"><![CDATA[<b>%s</b> has shared the following image:]]></string>
-  <string id="IDS_CF_PUSHCODE"><![CDATA[<b>%s</b> has shared the following <b>%s code</b>:]]></string>
-  <string id="IDS_CF_VS_STARTUP"><![CDATA[<b>%s</b> has started a ViewShare session at: <a href="%s">%s</a>]]></string>
-  <string id="IDS_CF_VS_CONNECT"><![CDATA[<b>%s</b>'s ViewShare session received a connection from %s]]></string>
-  <string id="IDS_CF_VS_SHUTDOWN"><![CDATA[<b>%s</b> has shut down the ViewShare session]]></string>
-  <string id="IDS_CF_OS_STARTUP"><![CDATA[<b>%s</b> has initiated an OnSite remote support session with the customer.]]></string>
-  <string id="IDS_CF_OS_DISPATCHED"><![CDATA[The customer has accepted the OnSite request and is downloading the application.]]></string>
-  <string id="IDS_CF_OS_LAUNCHED"><![CDATA[The customer has started the OnSite application; trying to connect.]]></string>
-  <string id="IDS_CF_VOIP_CALLREQUESTED"><![CDATA[Call request sent. Waiting on the customer...]]></string>
-  <string id="IDS_CF_VOIP_PLACINGCALL"><![CDATA[Call request completed. Placing call to <b>%s</b>.]]></string>
-  <string id="IDS_CF_ENDED">The chat conversation has ended.</string>
-  <string id="IDS_CF_LEFT">You have left the chat conversation.</string>
+  <string id="IDS_CF_NEWMESSAGENOTIFY">Ha recibido un nuevo mensaje. Pulse aquí para verlo.</string>
+  <string id="IDS_CF_TB_SPELL_TT">Revisar la ortografía del mensaje</string>
+  <string id="IDS_CF_TB_PUSHCODE">Enviar código</string>
+  <string id="IDS_CF_TB_PUSHCODE_TT">Enviar código fuente de ejemplo</string>
+  <string id="IDS_CF_TB_PUSHIMAGE">Enviar imagen</string>
+  <string id="IDS_CF_TB_PUSHIMAGE_TT">Envía una imagen</string>
+  <string id="IDS_CF_TB_PUSHFILE">Enviar archivo</string>
+  <string id="IDS_CF_TB_PUSHFILE_TT">Envía un archivo</string>
+  <string id="IDS_CF_TB_URL">Enviar enlace(URL):</string>
+  <string id="IDS_CF_TB_URL_TT">Introduzca un enlace FTP o HTTP para enviarlo a la conversación.</string>
+  <string id="IDS_CF_TB_GO">Enviar</string>
+  <string id="IDS_CF_TB_GO_TT">Enviar el enlace(URL) que ha introducido a la conversación.</string>
+  <string id="IDS_CF_NOWCHATTING"><![CDATA[Ha entrado en el chat con <b>%s</b>.<br><br><b>Dirección de email:</b> %s<br><b>Departamento:</b> %s<br><b>Asunto:</b> %s%s]]></string>
+  <string id="IDS_CF_NOWCHATTING_STAFF">Se ha unido a la conversación de chat.</string>
+  <string id="IDS_CF_NOSUBJECT"><![CDATA[<i>sin asunto</i>]]></string>
+  <string id="IDS_CF_JOIN"><![CDATA[<b>%s</b> se ha unido al chat.]]></string>
+  <string id="IDS_CF_PART"><![CDATA[<b>%s</b> ha abandonado el chat.]]></string>
+  <string id="IDS_CF_PUSHURL"><![CDATA[<b>%s</b> ha enviado el siguiente enlace: <a onclick="external.OnLinkClick('%s');">%s</a>]]></string>
+  <string id="IDS_CF_PUSHIMG"><![CDATA[<b>%s</b> ha enviado la siguiente imagen:]]></string>
+  <string id="IDS_CF_PUSHCODE"><![CDATA[<b>%s</b> ha enviado el siguiente <b>%s código fuente</b>:]]></string>
+  <string id="IDS_CF_VS_STARTUP"><![CDATA[<b>%s</b> ha iniciado una sesión ViewShare en: <a href="%s">%s</a>]]></string>
+  <string id="IDS_CF_VS_CONNECT"><![CDATA[La sesión ViewShare de <b>%s</b> ha recibido una conexión de %s]]></string>
+  <string id="IDS_CF_VS_SHUTDOWN"><![CDATA[<b>%s</b> ha cerrado la sesión ViewShare]]></string>
+  <string id="IDS_CF_OS_STARTUP"><![CDATA[<b>%s</b> ha iniciado una sesión de soporte remoto OnSite.]]></string>
+  <string id="IDS_CF_OS_DISPATCHED"><![CDATA[El usuario ha aceptado la solicitud OnSite y está descargando el programa.]]></string>
+  <string id="IDS_CF_OS_LAUNCHED"><![CDATA[El usuario ha iniciado la aplicación OnSite; intentando conectar.]]></string>
+  <string id="IDS_CF_VOIP_CALLREQUESTED"><![CDATA[Solicitud de llamada enviada. Esperando al usuario...]]></string>
+  <string id="IDS_CF_VOIP_PLACINGCALL"><![CDATA[Solicitud de llamada terminada. Realizando llamada a <b>%s</b>.]]></string>
+  <string id="IDS_CF_ENDED">La conversación de chat ha terminado.</string>
+  <string id="IDS_CF_LEFT">Ha abandonado el chat.</string>
   <string id="IDS_CF_LANG_ACTIONSCRIPT">ActionScript</string>
   <string id="IDS_CF_LANG_BASH">Bash Shell</string>
   <string id="IDS_CF_LANG_CSHARP">C#</string>
@@ -563,154 +563,154 @@ y no se muestran en el mapa.</string>
   <string id="IDS_CF_LANG_JAVA">Java</string>
   <string id="IDS_CF_LANG_PERL">Perl</string>
   <string id="IDS_CF_LANG_PHP">PHP</string>
-  <string id="IDS_CF_LANG_PLAIN">Plain Text</string>
+  <string id="IDS_CF_LANG_PLAIN">Texto plano</string>
   <string id="IDS_CF_LANG_PYTHON">Python</string>
   <string id="IDS_CF_LANG_RUBY">Ruby</string>
   <string id="IDS_CF_LANG_SQL">SQL</string>
   <string id="IDS_CF_LANG_VB">Visual Basic</string>
-  <string id="IDS_CF_SAVECHAT_TITLE">Save Conversation</string>
-  <string id="IDS_CF_SAVECHAT_FILTER">HTML Files</string>
-  <string id="IDS_CF_SAVECHAT_ERROR">An error occurred while trying to save the chat conversation to %s; Error number: %d.  Please contact Kayako Support.</string>
-  <string id="IDS_CF_SAVECHAT_DONE"><![CDATA[Successfully saved the chat conversation's history to <b>%s</b>.]]></string>
-  <string id="IDS_CF_EMAIL_DONE">The chat conversation's history was successfully sent to the intended recipients.</string>
-  <string id="IDS_CF_DIALOG_ERROR">An error occurred while trying to create the dialog! Error: %d</string>
-  <string id="IDS_CF_CLOSECONFIRM">The chat session with %s is either not started or still active.  Are you sure you wish to leave the chat?</string>
-  <string id="IDS_CF_CLOSECONFIRM_STAFF">The chat session is either not started or still active.  Are you sure you wish to leave the chat?</string>
-  <string id="IDS_CF_EMAILPROMPT">Would you like to e-mail the chat conversation before leaving the chat?</string>
-  <string id="IDS_CF_INTERNALERROR">An internal error occurred</string>
-  <string id="IDS_CF_STATUSPENDING">Now synchronizing you with this conversation.</string>
-  <string id="IDS_CF_TIMEOUT">It appears that either %s has closed their chat window, or network problems have been encountered. The chat conversation has ended.</string>
-  <string id="IDS_CF_FAILEDOUTGOING_WARNING">Warning: Event with type %d was not processed. Error message: '%s'</string>
-  <string id="IDS_CF_TYPINGNOTIFICATION">%s is typing a message...</string>
-  <string id="IDS_CF_NEWMSGNOTIFICATION_HTML"><![CDATA[<b>You have received a new message.</b><br>Click to view.]]></string>
-  <string id="IDS_CF_UPLOADFILE_ERROR">Escritorio Kayako was unable to upload the file '%s.'  Your system may be low on memory, or there may have been a permissions issue when accessing the file.</string>
-  <string id="IDS_CF_CANNED_INTERNERR">An internal error has occurred while trying to execute that canned response!</string>
-  <string id="IDS_CF_CANNED_NOACTIONS">That canned response does not contain any actions!</string>
-  <string id="IDS_CF_UPLOAD_FILE_CANCEL">Cancel</string>
-  <string id="IDS_CF_UPLOAD_FILE_STARTING">Starting upload...</string>
-  <string id="IDS_CF_UPLOAD_FILE_FMT">Uploading '%s' (%s)</string>
-  <string id="IDS_CF_UPLOAD_FILE_OFN_TITLE">Send file to conversation</string>
-  <string id="IDS_CF_UPLOAD_FILE_OFN_FILTER">All Files</string>
-  <string id="IDS_CF_UPLOAD_FILE_ERROR">An error occurred while trying to create the open file dialog! Error: %d</string>
-  <string id="IDS_CF_UPLOAD_PROGRESS_FMT"><![CDATA[Uploading <b>%s</b> (%s); %s elapsed...]]></string>
-  <string id="IDS_CF_UPLOAD_SUCCESS_FMT"><![CDATA[Successfully uploaded <b>%s</b>]]></string>
-  <string id="IDS_CF_UPLOAD_FAILURE_FMT"><![CDATA[Failed to upload <b>%s</b>! Error: %s]]></string>
+  <string id="IDS_CF_SAVECHAT_TITLE">Guardar conversación</string>
+  <string id="IDS_CF_SAVECHAT_FILTER">Archivos HTML</string>
+  <string id="IDS_CF_SAVECHAT_ERROR">Ha ocurrido un error mientras se intentaba guardar la conversación de chat a %s; Número de error: %d. Por favor, póngase en contacto con el soporte de Kayako.</string>
+  <string id="IDS_CF_SAVECHAT_DONE"><![CDATA[Se ha guardado correctamente el historial de la conversación de chat en <b>%s</b>.]]></string>
+  <string id="IDS_CF_EMAIL_DONE">El historial de la conversación de chat se ha enviado a los destinatarios.</string>
+  <string id="IDS_CF_DIALOG_ERROR">Se ha producido un error al intentar crear el diálogo! Error: %d</string>
+  <string id="IDS_CF_CLOSECONFIRM">La sesión de chat con %s no se ha iniciado o aún está activa. Está seguro de que desea abandonar el chat?</string>
+  <string id="IDS_CF_CLOSECONFIRM_STAFF">La sesión de chat con %s no se ha iniciado o aún está activa. Está seguro de que desea abandonar el chat?</string>
+  <string id="IDS_CF_EMAILPROMPT">Desea enviar la conversación por email antes de abandonar el chat?</string>
+  <string id="IDS_CF_INTERNALERROR">Se ha producido un error interno</string>
+  <string id="IDS_CF_STATUSPENDING">Sincronizando la conversación.</string>
+  <string id="IDS_CF_TIMEOUT">Parece que %s ha cerrado la ventana de chat, o se han producido errores de red. La conversación de chat ha terminado.</string>
+  <string id="IDS_CF_FAILEDOUTGOING_WARNING">Aviso: no se ha procesado el evento de tipo %d. Mensaje de error: '%s'</string>
+  <string id="IDS_CF_TYPINGNOTIFICATION">%s está escribiendo...</string>
+  <string id="IDS_CF_NEWMSGNOTIFICATION_HTML"><![CDATA[<b>Ha recibido un nuevo mensaje.</b><br>Haga click para verlo.]]></string>
+  <string id="IDS_CF_UPLOADFILE_ERROR">Escritorio Kayako no ha podido subir al servidor el archivo '%s.'  Su ordenador puede tener poca memoria, o puede haberse producido un problema de permisos al acceder al archivo.</string>
+  <string id="IDS_CF_CANNED_INTERNERR">Se ha producido un error interno mientras se intentaba ejecutar la respuesta enlatada!</string>
+  <string id="IDS_CF_CANNED_NOACTIONS">Esa respuesta enlatada no contiene ninguna acción!</string>
+  <string id="IDS_CF_UPLOAD_FILE_CANCEL">Cancelar</string>
+  <string id="IDS_CF_UPLOAD_FILE_STARTING">Iniciando subida...</string>
+  <string id="IDS_CF_UPLOAD_FILE_FMT">Subiendo '%s' (%s)</string>
+  <string id="IDS_CF_UPLOAD_FILE_OFN_TITLE">Enviar archivo a la conversación</string>
+  <string id="IDS_CF_UPLOAD_FILE_OFN_FILTER">Todos los archivos</string>
+  <string id="IDS_CF_UPLOAD_FILE_ERROR">Se ha producido un error al intentar abrir el cuadro de diálogo de abrir archivo! Error: %d</string>
+  <string id="IDS_CF_UPLOAD_PROGRESS_FMT"><![CDATA[Subiendo <b>%s</b> (%s); %s realizado...]]></string>
+  <string id="IDS_CF_UPLOAD_SUCCESS_FMT"><![CDATA[Se ha subido correctamente <b>%s</b>]]></string>
+  <string id="IDS_CF_UPLOAD_FAILURE_FMT"><![CDATA[Ha fallado la subida <b>%s</b>! Error: %s]]></string>
 
   <!-- FILE SIZE LABEL -->
   <string id="IDS_FSL_OK">OK</string>
-  <string id="IDS_FSL_SEMILARGE">Medium-sized</string>
-  <string id="IDS_FSL_LARGE">Large</string>
-  <string id="IDS_FSL_TOOLARGE">Too large!</string>
-  <string id="IDS_FSL_NOFILE">Please choose an existing file...</string>
+  <string id="IDS_FSL_SEMILARGE">Mediano</string>
+  <string id="IDS_FSL_LARGE">Grande</string>
+  <string id="IDS_FSL_TOOLARGE">Demasiado grande!</string>
+  <string id="IDS_FSL_NOFILE">Por favor seleccione un archivo existente...</string>
   
   <!-- PUSH CODE DIALOG -->
-  <string id="IDS_PCD_TITLE">Push Code</string>
-  <string id="IDS_PCD_LABEL1">&amp;Language:</string>
-  <string id="IDS_PCD_CUT">C&amp;ut</string>
-  <string id="IDS_PCD_COPY">&amp;Copy</string>
-  <string id="IDS_PCD_PASTE">&amp;Paste</string>
-  <string id="IDS_PCD_SELECTALL">&amp;Select All</string>
-  <string id="IDS_PCD_CONFIRMCLOSE">You have entered source code.  Are you sure you wish to close the dialog without sending the code to the chat session?</string>
-  <string id="IDS_PCD_LINECOL_FMT">Line: %d Column: %d; Total Lines: %d</string>
+  <string id="IDS_PCD_TITLE">Enviar código fuente</string>
+  <string id="IDS_PCD_LABEL1">&amp;Lenguaje:</string>
+  <string id="IDS_PCD_CUT">C&amp;ortar</string>
+  <string id="IDS_PCD_COPY">&amp;Copiar</string>
+  <string id="IDS_PCD_PASTE">&amp;Pegar</string>
+  <string id="IDS_PCD_SELECTALL">&amp;Seleccionar todo</string>
+  <string id="IDS_PCD_CONFIRMCLOSE">Ha introducido código fuente. Está seguro de que desea cerrar este diálogo sin enviar el código a la sesión de chat?</string>
+  <string id="IDS_PCD_LINECOL_FMT">Línea: %d Columna: %d; Líneas totales: %d</string>
   
   <!-- PUSH URL DIALOG -->
-  <string id="IDS_PUD_TITLE">Push HTTP or FTP URL</string>
-  <string id="IDS_PUD_TEXT">Enter the HTTP or FTP URL to send:</string>
+  <string id="IDS_PUD_TITLE">Enviar enlace HTTP o FTP</string>
+  <string id="IDS_PUD_TEXT">Introduzca el enlace (URL) HTTP o FTP que se enviará:</string>
   
   <!-- PUSH IMAGE DIALOG -->
-  <string id="IDS_PID_TITLE">Push Image</string>
-  <string id="IDS_PID_LOCAL_RADIO">Upload an image &amp;file from your computer</string>
-  <string id="IDS_PID_BROWSE">&amp;Browse...</string>
-  <string id="IDS_PID_REMOTE_RADIO">Choose an image file from the &amp;web</string>
-  <string id="IDS_PID_OPEN_IMAGE_TITLE">Choose Image File</string>
-  <string id="IDS_PID_OPEN_IMAGE_FILTER">Image Files</string>
+  <string id="IDS_PID_TITLE">Enviar imagen</string>
+  <string id="IDS_PID_LOCAL_RADIO">Subir una imagen desde su ordenador</string>
+  <string id="IDS_PID_BROWSE">&amp;Buscar...</string>
+  <string id="IDS_PID_REMOTE_RADIO">Seleccione un archivo de imagen en la &amp;web</string>
+  <string id="IDS_PID_OPEN_IMAGE_TITLE">Seleccione archivo de imagen</string>
+  <string id="IDS_PID_OPEN_IMAGE_FILTER">Archivos de imagen</string>
 
   <!-- PUSH FILE DIALOG -->
-  <string id="IDS_PFD_TITLE">Push File</string>
-  <string id="IDS_PFD_BROWSE">&amp;Browse...</string>
+  <string id="IDS_PFD_TITLE">Enviar archivo</string>
+  <string id="IDS_PFD_BROWSE">&amp;Buscar...</string>
   
   <!-- EMAIL CHAT CONVERSATION DIALOG -->
-  <string id="IDS_ECCD_TITLE">Email Chat Conversation</string>
-  <string id="IDS_ECCD_LABEL1">Enter the email address(es) you wish to send the conversation to, separated by semicolons:</string>
-  <string id="IDS_ECCD_LABEL2">Subject (optional):</string>
-  <string id="IDS_ECCD_LABEL3">Enter your optional notes about the chat conversation. This will be sent as part of the email message:</string>
-  <string id="IDS_ECCD_INVALIDEMAILMSGTITLE">Invalid Email Address(es) Found</string>
-  <string id="IDS_ECCD_INVALIDEMAILMSGHEADER">The following invalid email address(es) were found:</string>
-  <string id="IDS_ECCD_INVALIDEMAILMSGFOOTER">Would you like to send the conversation anyways?</string>
-  <string id="IDS_ECCD_NOADDRESSESMSG">You must enter at least one email address.</string>
-  <string id="IDS_ECCD_NOVALIDADDRESSESMSG">You must enter at least one valid email address.  To send the conversation to multiple people, separate their addresses with a semicolon (;)</string>
+  <string id="IDS_ECCD_TITLE">Enviar conversación de chat por email</string>
+  <string id="IDS_ECCD_LABEL1">Introduzca las direcciones de correo electrónico a las que quiere enviar la conversación, separadas por punto y coma:</string>
+  <string id="IDS_ECCD_LABEL2">Asunto (opcional):</string>
+  <string id="IDS_ECCD_LABEL3">Introduzca opcionalmente notas sobre la conversación de chat; se enviarán como parte del mensaje de correo electrónico:</string>
+  <string id="IDS_ECCD_INVALIDEMAILMSGTITLE">Se han detectado direcciones de email no válidas</string>
+  <string id="IDS_ECCD_INVALIDEMAILMSGHEADER">Se han encontrado las siguientes direcciones de correo electrónico no válidas:</string>
+  <string id="IDS_ECCD_INVALIDEMAILMSGFOOTER">Desea enviar la conversación de todas maneras?</string>
+  <string id="IDS_ECCD_NOADDRESSESMSG">Debe introducir al menos una dirección de correo electrónico.</string>
+  <string id="IDS_ECCD_NOVALIDADDRESSESMSG">Debe introducir al menos una dirección de correo electrónico válida. Para enviar la conversación a múltiples destinatarios, separe las direcciones con punto y coma (;)</string>
   <!-- CHOOSE CHAT DIALOG -->
-  <string id="IDS_CCD_TITLE_JOIN">Join Chat (%s)</string>
-  <string id="IDS_CCD_TITLE_ACCEPT">Accept Chat (%s)</string>
-  <string id="IDS_CCD_FRAME1">Available Chats</string>
-  <string id="IDS_CCD_COL1">Department</string>
-  <string id="IDS_CCD_COL2">Subject</string>
-  <string id="IDS_CCD_COL3">Duration</string>
-  <string id="IDS_CCD_NOCHAT">No chat has been selected!</string>
-  <string id="IDS_CCD_PENDING">Pending</string>
-  <string id="IDS_CCD_ASOBSERVER">Join chat as an &amp;observer</string>
+  <string id="IDS_CCD_TITLE_JOIN">Unirse al chat (%s)</string>
+  <string id="IDS_CCD_TITLE_ACCEPT">Aceptar chat (%s)</string>
+  <string id="IDS_CCD_FRAME1">Chats disponibles</string>
+  <string id="IDS_CCD_COL1">Departamento</string>
+  <string id="IDS_CCD_COL2">Asunto</string>
+  <string id="IDS_CCD_COL3">Duración</string>
+  <string id="IDS_CCD_NOCHAT">No se ha seleccionado ningún chat!</string>
+  <string id="IDS_CCD_PENDING">Pendiente</string>
+  <string id="IDS_CCD_ASOBSERVER">Unirse al chat como &amp;observador</string>
   <!-- CUSTOM TOOLBAR -->
-  <string id="IDS_CUSTOMTOOLBARITEMDLG_EDITCAPTION">Edit Bookmark</string>
-  <string id="IDS_CUSTOMTOOLBARITEMDLG_ADDCAPTION">Add Bookmark</string>
-  <string id="IDS_CUSTOMTOOLBARITEMDLG_ITEMFRAME">Bookmark</string>
-  <string id="IDS_CUSTOMTOOLBARITEMDLG_CAPTIONLABEL">Caption:</string>
-  <string id="IDS_CUSTOMTOOLBARITEMDLG_URLLABEL">URL:</string>
-  <string id="IDS_CUSTOMTOOLBARDLG_CAPTION">Manage Bookmarks</string>
-  <string id="IDS_CUSTOMTOOLBARDLG_FRAME">Bookmarks</string>
-  <string id="IDS_CUSTOMTOOLBARDLG_NAMEHEADER">Name</string>
-  <string id="IDS_CUSTOMTOOLBARDLG_URLHEADER">URL</string>
-  <string id="IDS_CUSTOMTOOLBARDLG_ADD">&amp;Add...</string>
-  <string id="IDS_CUSTOMTOOLBARDLG_EDIT">&amp;Edit...</string>
-  <string id="IDS_CUSTOMTOOLBARDLG_REMOVE">&amp;Remove</string>
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_EDITCAPTION">Editar favorito</string>
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_ADDCAPTION">Añadir favorito</string>
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_ITEMFRAME">Favorito</string>
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_CAPTIONLABEL">Nombre:</string>
+  <string id="IDS_CUSTOMTOOLBARITEMDLG_URLLABEL">Dirección(URL):</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_CAPTION">Administrar favoritos</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_FRAME">Favoritos</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_NAMEHEADER">Nombre</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_URLHEADER">Dirección(URL)</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_ADD">&amp;Añadir...</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_EDIT">&amp;Editar...</string>
+  <string id="IDS_CUSTOMTOOLBARDLG_REMOVE">Elimina&amp;r</string>
   <!-- OPTIONS DIALOG -->
-  <string id="IDS_PROPSHEET_TITLE">Escritorio Kayako Settings</string>
-  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_CAP">Restart Escritorio Kayako</string>
-  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_TXT">Some of the settings you have changed require Escritorio Kayako to be restarted before taking effect.</string>
+  <string id="IDS_PROPSHEET_TITLE">Configuración de Escritorio Kayako</string>
+  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_CAP">Reiniciar Escritorio Kayako</string>
+  <string id="IDS_PROPSHEET_MSG_NEEDSRESTART_TXT">Algunas de las opciones modificadas requieren que Escritorio Kayako se reinicie para ser efectivas.</string>
   
   <!-- GENERAL SETTINGS -->
   <string id="IDS_PROPPAGE_GENERAL">General</string>
-  <string id="IDS_GENERAL_FRAME1">Startup</string>
-  <string id="IDS_GENERAL_AUTOSTART">Automatically start Escritorio Kayako with &amp;Windows</string>
-  <string id="IDS_GENERAL_AUTOUPDATE">Automatically check for product updates (recommended)</string>
-  <string id="IDS_GENERAL_FRAME2">Data Retrieval</string>
-  <string id="IDS_GENERAL_USESTREAMING">Use HTTP &amp;streaming</string>
-  <string id="IDS_GENERAL_USEINTERVAL">Fetch data on an &amp;interval</string>
-  <string id="IDS_GENERAL_REFRESH1">Refresh &amp;visitor data every:</string>
-  <string id="IDS_GENERAL_REFRESH2">second(s)</string>
-  <string id="IDS_GENERAL_FRAME3">Prompts</string>
-  <string id="IDS_GENERAL_LABEL3">To reset all user prompts to their default states, press the 'Reset Prompts' button below.</string>
-  <string id="IDS_GENERAL_RESETPROMPTS">&amp;Reset Prompts</string>
-  <string id="IDS_GENERAL_PROMPTSHAVEBEENRESET">All user prompts have been reset to their default states.</string>
-  <string id="IDS_GENERAL_AUTOUPDATE_RECOMMENDED">It is strongly recommended that you enable automatic product updates to ensure that you are always running the latest version of the software. Would you like to disable it anyway?</string>
+  <string id="IDS_GENERAL_FRAME1">Inicio</string>
+  <string id="IDS_GENERAL_AUTOSTART">Iniciar automáticamente Escritorio Kayako al arrancar &amp;Windows</string>
+  <string id="IDS_GENERAL_AUTOUPDATE">Buscar actualizaciones automáticamente (recomendado)</string>
+  <string id="IDS_GENERAL_FRAME2">Descarga de datos</string>
+  <string id="IDS_GENERAL_USESTREAMING">Usar &amp;streaming HTTP</string>
+  <string id="IDS_GENERAL_USEINTERVAL">Bajar los datos a &amp;intervalos determinados</string>
+  <string id="IDS_GENERAL_REFRESH1">Recargar los datos de los &amp;visitantes cada:</string>
+  <string id="IDS_GENERAL_REFRESH2">segundo(s)</string>
+  <string id="IDS_GENERAL_FRAME3">Avisos</string>
+  <string id="IDS_GENERAL_LABEL3">Para resetear todos los avisos a su estado por defecto, pulse el botón 'Resetear avisos'.</string>
+  <string id="IDS_GENERAL_RESETPROMPTS">&amp;Resetear avisos</string>
+  <string id="IDS_GENERAL_PROMPTSHAVEBEENRESET">Todos los avisos han vuelto a su estado por defecto.</string>
+  <string id="IDS_GENERAL_AUTOUPDATE_RECOMMENDED">Se recomienda encarecidamente que active las actualizaciones automáticas para asegurarse de que trabaja siempre con la última versión del software. Desea deshabilitarlas de todas maneras?</string>
   
   <!-- ACCOUNTS -->
-  <string id="IDS_PROPPAGE_ACCOUNTS">Accounts</string>
-  <string id="IDS_ACCOUNTS_CHANGED_NEED_RECONNECT_CAPTION">Account Connection</string>
+  <string id="IDS_PROPPAGE_ACCOUNTS">Cuentas</string>
+  <string id="IDS_ACCOUNTS_CHANGED_NEED_RECONNECT_CAPTION">Conexión de cuenta</string>
   <string id="IDS_ACCOUNTS_CHANGES_NEED_RECONNECT">
-You have made changes to an account that you're currently connected to.
-To apply the changes, Escritorio Kayako must disconnect from and then reconnect to this account.
+Ha realizado cambios en una cuenta que se halla conectada actualmente.
+Para aplicar los cambios, Escritorio Kayako debe reconectar esta cuenta.
 
-Would you still like to apply the changes?
+Sigue queriendo aplicar los cambios?
   </string>
-  <string id="IDS_ACCOUNTS_FRAME1">Accounts</string>
-  <string id="IDS_ACCOUNTS_AUTOLOGIN">Auto Login</string>
-  <string id="IDS_ACCOUNTS_ACCOUNTNAME">Account Name</string>
+  <string id="IDS_ACCOUNTS_FRAME1">Cuentas</string>
+  <string id="IDS_ACCOUNTS_AUTOLOGIN">Inicio sesión automático</string>
+  <string id="IDS_ACCOUNTS_ACCOUNTNAME">Nombre de la cuenta</string>
   <string id="IDS_ACCOUNTS_URL">URL</string>
-  <string id="IDS_ACCOUNTS_USER">User</string>
-  <string id="IDS_ACCOUNTS_ADD">&amp;Add...</string>
-  <string id="IDS_ACCOUNTS_EDIT">&amp;Edit</string>
-  <string id="IDS_ACCOUNTS_DELETE">&amp;Delete</string>
-  <string id="IDS_ACCOUNTS_IMPORT">&amp;Import...</string>
-  <string id="IDS_ACCOUNTS_EXPORT">E&amp;xport...</string>
-  <string id="IDS_ACCOUNTS_ERR_NOACCOUNTS_CAP">No Account Added</string>
-  <string id="IDS_ACCOUNTS_ERR_NOACCOUNTS_MSG">Are you sure you want to continue without adding an account?</string>
-  <string id="IDS_ACCOUNTS_DONTREMEMBERPASS_MSG">You have chosen not to save the password for this account.  You will be required to enter it manually each time you log in.
+  <string id="IDS_ACCOUNTS_USER">Usuario</string>
+  <string id="IDS_ACCOUNTS_ADD">&amp;Añadir...</string>
+  <string id="IDS_ACCOUNTS_EDIT">&amp;Editar</string>
+  <string id="IDS_ACCOUNTS_DELETE">Eliminar(&amp;D)</string>
+  <string id="IDS_ACCOUNTS_IMPORT">&amp;Importar...</string>
+  <string id="IDS_ACCOUNTS_EXPORT">E&amp;xportar...</string>
+  <string id="IDS_ACCOUNTS_ERR_NOACCOUNTS_CAP">No se ha añadido ninguna cuenta</string>
+  <string id="IDS_ACCOUNTS_ERR_NOACCOUNTS_MSG">Está seguro de que desea continuar sin añadir ninguna cuenta?</string>
+  <string id="IDS_ACCOUNTS_DONTREMEMBERPASS_MSG">Ha seleccionado no guardar la contraseña de esta cuenta. Se le solicitará la contraseña cada vez que inicie sesión.
   
-Do you still wish to continue?</string>
+Desea continuar?</string>
   <string id="IDS_ACCOUNTDLG_TITLE">Escritorio Kayako - %s</string>
-  <string id="IDS_ACCOUNTDLG_ACCOUNTDETAILS">Account Details</string>
-  <string id="IDS_ACCOUNTDLG_ADD">Create New Account</string>
-  <string id="IDS_ACCOUNTDLG_EDIT">Edit Account</string>
+  <string id="IDS_ACCOUNTDLG_ACCOUNTDETAILS">Detalles de cuenta</string>
+  <string id="IDS_ACCOUNTDLG_ADD">Crear nueva cuenta</string>
+  <string id="IDS_ACCOUNTDLG_EDIT">Editar cuenta</string>
   <string id="IDS_ACCOUNTDLG_ACCOUNTNAME">Set a name for this account:</string>
   <string id="IDS_ACCOUNTDLG_URL">Enter the base URL of your server-side installation:</string>
   <string id="IDS_ACCOUNTDLG_URLEXAMPLE">Example: http://domain.com/support/</string>
