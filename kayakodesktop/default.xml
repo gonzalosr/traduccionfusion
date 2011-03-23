@@ -324,7 +324,7 @@ Escritorio Kayako usará este número para determinar el color apropiado del ico
   <string id="IDS_TRAYICON_TITLE">Escritorio Kayako</string>
   <string id="IDS_TRAYICON_NOCONNS_VISTAPLUS">No hay conexiones conectadas</string>
   <string id="IDS_TRAYICON_CONN_FMT_XP">%s (%s): %s, En línea: %s, Visitantes: %d, Chats: %d pendientes, %d activos</string>
-  <string id="IDS_TRAYICON_CONN_FMT_VISTAPLUS">%s (%s) ha iniciado sesión como '%s' para %s
+  <string id="IDS_TRAYICON_CONN_FMT_VISTAPLUS">%s (%s) ha iniciado sesión como '%s' durante %s
 Visitantes: %d
 Chats pendientes: %d
 Chats activos: %d</string>
@@ -419,7 +419,7 @@ Asunto: %s</string>
   <string id="IDS_SVR_CHAT_ERROR">Ha ocurrido un error interno mientras se intentaba iniciar una sesión de chat con el visitante.</string>
   
   <!-- MONITOR -->
-  <string id="IDS_MON_CHATTERID">ID chateador</string>
+  <string id="IDS_MON_CHATTERID">ID interlocutor</string>
   <string id="IDS_MON_STATUSIND">Indicador de estado</string>
   <string id="IDS_MON_STATUS">Estado</string>
   <string id="IDS_MON_REPEATVISITOR">Repetir indicator de visitante</string>
@@ -504,7 +504,7 @@ y no se muestran en el mapa.</string>
   <string id="IDS_INFO_SEARCHENGINE">Motoro búsqueda</string>
   <string id="IDS_INFO_SEARCHQUERY">Palabras clave</string>
   <string id="IDS_INFO_URL">URL</string>
-  <string id="IDS_INFO_CHATID">ID chateador</string>
+  <string id="IDS_INFO_CHATID">ID interlocutor</string>
   <string id="IDS_INFO_FULLNAME">Nombre</string>
   <string id="IDS_INFO_DATE">Fecha</string>
   <string id="IDS_INFO_STAFFNAME">Nombre operador</string>
@@ -670,12 +670,12 @@ y no se muestran en el mapa.</string>
   <!-- GENERAL SETTINGS -->
   <string id="IDS_PROPPAGE_GENERAL">General</string>
   <string id="IDS_GENERAL_FRAME1">Inicio</string>
-  <string id="IDS_GENERAL_AUTOSTART">Iniciar automáticamente Escritorio Kayako al arrancar &amp;Windows</string>
+  <string id="IDS_GENERAL_AUTOSTART">Iniciar Escritorio Kayako al arrancar &amp;Windows</string>
   <string id="IDS_GENERAL_AUTOUPDATE">Buscar actualizaciones automáticamente (recomendado)</string>
   <string id="IDS_GENERAL_FRAME2">Descarga de datos</string>
   <string id="IDS_GENERAL_USESTREAMING">Usar &amp;streaming HTTP</string>
   <string id="IDS_GENERAL_USEINTERVAL">Bajar los datos a &amp;intervalos determinados</string>
-  <string id="IDS_GENERAL_REFRESH1">Recargar los datos de los &amp;visitantes cada:</string>
+  <string id="IDS_GENERAL_REFRESH1">Recargar los datos cada:</string>
   <string id="IDS_GENERAL_REFRESH2">segundo(s)</string>
   <string id="IDS_GENERAL_FRAME3">Avisos</string>
   <string id="IDS_GENERAL_LABEL3">Para resetear todos los avisos a su estado por defecto, pulse el botón 'Resetear avisos'.</string>
@@ -715,10 +715,10 @@ Desea continuar?</string>
   <string id="IDS_ACCOUNTDLG_URL">Introduzca la URL base de la aplicación Kayako del servidor:</string>
   <string id="IDS_ACCOUNTDLG_URLEXAMPLE">Ejemplo: http://dominio.com/soporte/</string>
   <string id="IDS_ACCOUNTDLG_USERCREDENTIALS">Credenciales de usuario</string>
-  <string id="IDS_ACCOUNTDLG_USERNAME">Nombre de usuario:</string>
+  <string id="IDS_ACCOUNTDLG_USERNAME">Usuario:</string>
   <string id="IDS_ACCOUNTDLG_PASSWORD1">Contraseña:</string>
-  <string id="IDS_ACCOUNTDLG_PASSWORD2">Confirmación contraseña:</string>
-  <string id="IDS_ACCOUNTDLG_SAVEPASSWORD">Guardar mi contraseña</string>
+  <string id="IDS_ACCOUNTDLG_PASSWORD2">Confirmación:</string>
+  <string id="IDS_ACCOUNTDLG_SAVEPASSWORD">Guardar contraseña</string>
   <string id="IDS_ACCOUNTDLG_TABCOLOR">Color de pestaña</string>
   <string id="IDS_ACCOUNTDLG_OVERRIDESTATUS">Cuando se inicie sesión automáticamente, usar este estado:</string>
   <string id="IDS_ACCOUNTDLG_AUTOLOGIN">Iniciar sesión automáticamente en esta cuenta al arrancar</string>
@@ -754,12 +754,12 @@ Desea continuar?</string>
   <!-- CHAT -->
   <string id="IDS_PROPPAGE_CHAT">Chat</string>
   <string id="IDS_CHAT_FRAME1">Chat</string>
-  <string id="IDS_CHAT_PROMPTEMAIL">Preguntar si se desea enviar la conversación por &amp;email al terminar</string>
+  <string id="IDS_CHAT_PROMPTEMAIL">Preguntar si se envía el chat por &amp;email al terminar</string>
   <string id="IDS_CHAT_TIMESTAMPS">Mostrar sellos de &amp;tiempo en la conversación de chat</string>
-  <string id="IDS_CHAT_MARKBUSY1">Poner automáticamente como ocupado cuando estoy chateando con:</string>
+  <string id="IDS_CHAT_MARKBUSY1">Ocupado cuando estoy chateando con:</string>
   <string id="IDS_CHAT_MARKBUSY2">visitante(s)</string>
   <string id="IDS_CHAT_MARKBUSYPHONE">Poner como ocu&amp;pado cuando estoy al teléfono</string>
-  <string id="IDS_CHAT_MARKAWAY1">Poner como &amp;Ausente cuando estoy inactivo durante:</string>
+  <string id="IDS_CHAT_MARKAWAY1">&amp;Ausente cuando estoy inactivo durante:</string>
   <string id="IDS_CHAT_MARKAWAY2">minuto(s)</string>
   <string id="IDS_CHAT_POLL1">Sincronizar chat cada:</string>
   <string id="IDS_CHAT_POLL2">segundo(s)</string>
@@ -816,19 +816,19 @@ Desea continuar?</string>
   <string id="IDS_PROPPAGE_ONSITE">OnSite</string>
   <string id="IDS_ONSITE_AUTOIPDETECTFAIL_TEXT">Ha ocurrido un error interno mientras se intentaba detectar automáticamente su dirección IP. Por favor, introdúzcala manualmente.</string>
   <string id="IDS_ONSITE_FRAME1">P2P</string>
-  <string id="IDS_ONSITE_LABEL1">Tiempo de espera Pa&amp;sivo:</string>
+  <string id="IDS_ONSITE_LABEL1">Tiempo espera Pa&amp;sivo:</string>
   <string id="IDS_ONSITE_LABEL2">minuto(s)</string>
-  <string id="IDS_ONSITE_LABEL3">Tiempo de espe&amp;ra de acoplamiento:</string>
+  <string id="IDS_ONSITE_LABEL3">Tiempo espe&amp;ra acoplamiento:</string>
   <string id="IDS_ONSITE_LABEL4">segundos</string>
-  <string id="IDS_ONSITE_LABEL5">Ran&amp;go de escaneo de puertos:</string>
+  <string id="IDS_ONSITE_LABEL5">Ran&amp;go escaneo puertos:</string>
   <string id="IDS_ONSITE_LABEL6">puerto(s)</string>
   <string id="IDS_ONSITE_FRAME2">Conexión directa</string>
   <string id="IDS_ONSITE_LABEL7">&amp;IP externa:</string>
   <string id="IDS_ONSITE_AUTODETECT">&amp;Autodetectar</string>
   <string id="IDS_ONSITE_AUTODETECTING">Detectando...</string>
-  <string id="IDS_ONSITE_LABEL8">&amp;Número de puerto:</string>
+  <string id="IDS_ONSITE_LABEL8">&amp;Número puerto:</string>
   <string id="IDS_ONSITE_PORTCHECK">&amp;Test de puerto</string>
-  <string id="IDS_ONSITE_LABEL9">&amp;Tiempo de espera:</string>
+  <string id="IDS_ONSITE_LABEL9">&amp;Tiempo espera:</string>
   <string id="IDS_ONSITE_LABEL10">segundos</string>
   <string id="IDS_ONSITE_FRAME3">Avanzado</string>
   <string id="IDS_ONSITE_ADVANCED">Configuración a&amp;vanzada...</string>
@@ -890,7 +890,7 @@ Es posible que necesite reinstalar Escritorio Kayako.</string>
   <string id="IDS_PROPPAGE_DISPLAY">Pantalla</string>
   <string id="IDS_DISPLAY_FRAME1">Pantalla</string>
   <string id="IDS_DISPLAY_AUTOHIDESS">Minimizar automáticamente Escritorio Kayako al iniciar</string>
-  <string id="IDS_DISPLAY_AUTOHIDEINFO">Ocultar automáticamente información de visitantes en modo navegador</string>
+  <string id="IDS_DISPLAY_AUTOHIDEINFO">Auto ocultar info de visitantes en modo navegación</string>
   <string id="IDS_DISPLAY_FRAME2">Lista de visitantes</string>
   <string id="IDS_DISPLAY_GROUPVISITORS">Mostrar visitantes en grupos</string>
   <string id="IDS_DISPLAY_EDITCOLUMNS">Editar columnas</string>
@@ -937,7 +937,7 @@ Es posible que necesite reinstalar Escritorio Kayako.</string>
   <string id="IDS_ALERTS_PHONE">Alertas telefónicas</string>
   <string id="IDS_ALERTS_FRAME2">Otras</string>
   <string id="IDS_ALERTS_SUPPRESS">&amp;Suprimir todas las alertas cuando estoy ausente u ocupado</string>
-  <string id="IDS_ALERTS_LABEL1">Mostrar alertas emergentes en pantalla durante</string>
+  <string id="IDS_ALERTS_LABEL1">Mostrar alertas en pantalla durante</string>
   <string id="IDS_ALERTS_LABEL2">segundo(s)</string>
   <string id="IDS_ALERTS_BADTTL">El 'tiempo de vida' debe estar entre 5 segundos y 10 minutos (600 segundos)</string>
   <string id="IDS_ALERTS_OFN_TITLE">Seleccionar archivo de sonido</string>
