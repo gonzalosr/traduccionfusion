@@ -1298,124 +1298,124 @@ Haga click sobre este mensaje para ver su configuración.</string>
   <string id="IDS_CALLTYPE_UNKNOWN">Desconocidas</string>
   
   <!-- NETWORK MESSAGES -->
-  <string id="IDS_NETERR_LOGINFAILED_LOG">Login to '%s' failed!
-    Reason: %s</string>
-  <string id="IDS_NETERR_LOGINFAILED_BALLOON_TITLE">%s: Login Failure!</string>
-  <string id="IDS_NETERR_LOGINFAILED_BALLOON_TEXT">Login to %s failed! Error: %s</string>
-  <string id="IDS_NET_LOGIN_LOG">Successfully logged in to '%s' with user name %s.
-    Session ID: %s
-    Staff Session ID: %s
-    SWIFT version: %s</string>
-  <string id="IDS_NETERR_LOGOUTFAILED_LOG">Logout from '%s' failed!
-    Reason: %s</string>
-  <string id="IDS_NETERR_LOGOUTFAILED_BALLOON_TITLE">%s: Logout Failure!</string>
-  <string id="IDS_NETERR_LOGOUTFAILED_BALLOON_TEXT">Logout from %s failed! Error: %s</string>
-  <string id="IDS_NET_LOGOUT_LOG">Successfully logged out from '%s'</string>
-  <string id="IDS_NETERR_UPDATEFAILED_BALLOON_TITLE">%s: Update Failure!</string>
-  <string id="IDS_NETERR_UPDATEFAILED_BALLOON_TEXT">Data update for %s failed! Error: %s</string>
-  <string id="IDS_NETERR_UPDATEFAILED_RETRY_STATUSBAR">Warning: Unable to update data for account '%s'; retry #%d...</string>
-  <string id="IDS_NETERR_UPDATEFAILED_FINALRETRY_STATUSBAR">Warning: All attempts to update data for account '%s' have failed. Giving up!</string>
-  <string id="IDS_NETERR_UPDATEFAILED_LOG">Unable to update data from server for account '%s'; Error: '%s'</string>
-  <string id="IDS_NETERR_UPDATEFAILED_RETRY_LOG">Unable to update data from server for account '%s'; Error: '%s'. Retrying: #%d...</string>
-  <string id="IDS_NETERR_UPDATEFAILED_FINALRETRY_LOG">Final attempt to update data from server for account '%s' failed. Error: '%s'. Giving up!</string>
-  <string id="IDS_NETERR_CHATUPDATEFAILED_LOG">Unable to retrieve chat update data from server for account '%s'; Error: '%s'</string>
-  <string id="IDS_NETERR_STAFFCHATFAILED_BALLOON_TITLE">%s: Unable to start chat</string>
-  <string id="IDS_NETERR_STAFFCHATFAILED_BALLOON_TEXT">Unable to start chat with %s: %s</string>
-  <string id="IDS_NETERR_STAFFCHATFAILED_LOG">Unable to start staff chat with '%s' for account '%s'; Error: '%s'</string>
+  <string id="IDS_NETERR_LOGINFAILED_LOG">Ha fallado el inicio de sesión en '%s'!
+    Razón: %s</string>
+  <string id="IDS_NETERR_LOGINFAILED_BALLOON_TITLE">%s: Fallo de inicio de sesión!</string>
+  <string id="IDS_NETERR_LOGINFAILED_BALLOON_TEXT">Ha fallado el inicio de sesión en %s! Error: %s</string>
+  <string id="IDS_NET_LOGIN_LOG">Ha iniciado la sesión correctamente en '%s' con el nombre de usuario %s.
+    ID sesión: %s
+    ID sesión operador: %s
+    Versión SWIFT: %s</string>
+  <string id="IDS_NETERR_LOGOUTFAILED_LOG">Ha fallado el cierre de sesión desde '%s'!
+    Razón: %s</string>
+  <string id="IDS_NETERR_LOGOUTFAILED_BALLOON_TITLE">%s: Error de cierre de sesión!</string>
+  <string id="IDS_NETERR_LOGOUTFAILED_BALLOON_TEXT">Ha fallado el cierre de sesión desde %s! Error: %s</string>
+  <string id="IDS_NET_LOGOUT_LOG">Se ha cerrado la sesión correctamente desde '%s'</string>
+  <string id="IDS_NETERR_UPDATEFAILED_BALLOON_TITLE">%s: Fallo de actualización!</string>
+  <string id="IDS_NETERR_UPDATEFAILED_BALLOON_TEXT">Ha fallado la actualización de datos desde %s! Error: %s</string>
+  <string id="IDS_NETERR_UPDATEFAILED_RETRY_STATUSBAR">Aviso: Imposible actualizar los datos de la cuenta '%s'; reintento #%d...</string>
+  <string id="IDS_NETERR_UPDATEFAILED_FINALRETRY_STATUSBAR">Aviso: Todos los intentos de actualizar los datos de la cuenta '%s' han fallado. Me rindo!</string>
+  <string id="IDS_NETERR_UPDATEFAILED_LOG">No ha podido actualizado los datos del servidor para la cuenta '%s'; Error: '%s'</string>
+  <string id="IDS_NETERR_UPDATEFAILED_RETRY_LOG">Imposible actualizar los datos del servidor para la cuenta '%s'; Error: '%s'. Reintentando: #%d...</string>
+  <string id="IDS_NETERR_UPDATEFAILED_FINALRETRY_LOG">El último intento de actualizar los datos del servidor para la cuenta '%s' ha fracasado. Error: '%s'. Me rindo!</string>
+  <string id="IDS_NETERR_CHATUPDATEFAILED_LOG">Imposible recuperar la actualización de datos delchat desde el servidor para la cuenta '%s'; Error: '%s'</string>
+  <string id="IDS_NETERR_STAFFCHATFAILED_BALLOON_TITLE">%s: Imposible iniciar chat</string>
+  <string id="IDS_NETERR_STAFFCHATFAILED_BALLOON_TEXT">Imposible iniciar char con %s: %s</string>
+  <string id="IDS_NETERR_STAFFCHATFAILED_LOG">Imposible iniciar chat de operador con '%s' para la cuenta '%s'; Error: '%s'</string>
   
   <!--XMLWEB-->
-  <string id="IDS_XMLWEBSUCCESS">Operation successful</string>
-  <string id="IDS_XMLWEBOPENTIMEO">Connection to the server timed out</string>
-  <string id="IDS_XMLWEBCONNFAIL">Failed to connect to server!</string>
-  <string id="IDS_XMLWEBCOMMFAIL">Failed to communicate with server!</string>
+  <string id="IDS_XMLWEBSUCCESS">Operación realizada</string>
+  <string id="IDS_XMLWEBOPENTIMEO">La conexión con el servidor se ha terminado</string>
+  <string id="IDS_XMLWEBCONNFAIL">No se ha podido conectar con el servidor!</string>
+  <string id="IDS_XMLWEBCOMMFAIL">No se puede comunicar con el servidor!</string>
   <string id="IDS_XMLWEBINVALRESP">
-    Received unexpected response from server (invalid header)!
+    Se ha recibido una respuesta inesperada desde el servidor (cabecera no válida)!
 
-    Data: (%s)
+    Datos: (%s)
   </string>
   <string id="IDS_XMLWEBNOTOK">
-    The server returned an error response.
+    El servidor ha devuelto un mensaje de error.
 
-    Data: (%s)
+    Datos: (%s)
   </string>
-  <string id="IDS_XMLWEBREQUESTFAIL">The HTTP request failed because of an internal error.</string>
+  <string id="IDS_XMLWEBREQUESTFAIL">La petición HTTP ha fallado debido a un error interno.</string>
   <string id="IDS_XMLWEBMD5MISMATCH">
-    Received data from server that does not match locally computed MD5 sum!
+    Los datos recibidos del servidor no coinciden con la suma MD5!
 
-    Data: (%s)
+    Datos: (%s)
   </string>
-  <string id="IDS_XMLWEBSESSIONEXP">The session has expired.</string>
-  <string id="IDS_XMLWEBAUTHFAIL">Authentication has failed!</string>
-  <string id="IDS_XMLWEBINTERNERR">An internal error has occurred.</string>
-  <string id="IDS_XMLWEBUNKNOWNERR">Unknown error</string>
-  <string id="IDS_XMLWEBCONNECTING">Connecting</string>
-  <string id="IDS_XMLWEBREQUESTINGDATA">Requesting data</string>
-  <string id="IDS_XMLWEBREQUESTDOWNLOADING">Downloading</string>
-  <string id="IDS_XMLWEBPARSING">Parsing response</string>
-  <string id="IDS_XMLWEBDECOMPRESSING">Decompressing data</string>
-  <string id="IDS_XMLWEBFAILEDBADSTREAMDATA">Invalid stream data.</string>
-  <string id="IDS_XMLWEBFAILEDBADDATA">Failed: Bad MD5 sum</string>
-  <string id="IDS_XMLWEBFAILEDINVALIDHEADER">Failed: Invalid header</string>
-  <string id="IDS_XMLWEBFAILEDOUTOFMEMORY">Failed: Out of memory</string>
-  <string id="IDS_XMLWEBFAILEDCOMMERROR">Failed: Communication error</string>
-  <string id="IDS_XMLWEBFAILEDCONNERROR">Failed: Unable to connect</string>
-  <string id="IDS_XMLWEBSUCCEEDED">Done</string>
-  <string id="IDS_XMLWEBFAILEDAUTHFAIL">Authentication failed</string>
-  <string id="IDS_XMLWEBFAILEDSESSIONEXP">Session expired</string>
-  <string id="IDS_XMLWEBCANCELED">The operation was canceled.</string>
-  <string id="IDS_XMLWEBNOEXTENDEDERROR">&lt;No extended error information available&gt;</string>
-  <string id="IDS_XMLWEBERROR403">The permissions on the application folder are misconfigured on the server.</string>
-  <string id="IDS_XMLWEBERROR404">File not found. Is this the correct URL, or does the server support this application?</string>
-  <string id="IDS_XMLWEBERROR500">Internal server error. The application or web server may be misconfigured.</string>
-  <string id="IDS_XMLWEBERRORDEFAULT">HTTP Error %d</string>
-  <string id="IDS_XMLWEB_ERROR_NONE">Operation succeeded</string>
-  <string id="IDS_XMLWEB_ERROR_CANCELED">Operation aborted by user</string>
-  <string id="IDS_XMLWEB_ERROR_INITFAILED">Failed to initialize library</string>
-  <string id="IDS_XMLWEB_ERROR_OUTOFMEMORY">Out of memory</string>
-  <string id="IDS_XMLWEB_ERROR_MALFORMEDURL">Malformed URL</string>
-  <string id="IDS_XMLWEB_ERROR_PORTFAILED">Failed to use specified network interface</string>
-  <string id="IDS_XMLWEB_ERROR_PROXYRESOLVEFAILED">Failed to resolve proxy hostname or proxy connection error</string>
-  <string id="IDS_XMLWEB_ERROR_HOSTRESOLVEFAILED">Failed to resolve destination hostname</string>
-  <string id="IDS_XMLWEB_ERROR_CONNECTFAILED">Connection failed</string>
-  <string id="IDS_XMLWEB_ERROR_OPERATIONTIMEOUT">Operation timeout</string>
-  <string id="IDS_XMLWEB_ERROR_SENDFAILED">Transport data send failure</string>
-  <string id="IDS_XMLWEB_ERROR_RECVFAILED">Transport data receive failure</string>
-  <string id="IDS_XMLWEB_ERROR_EMPTYRESPONSE">Empty response</string>
-  <string id="IDS_XMLWEB_ERROR_POSTFAILED">Internal error when making HTTP POST</string>
-  <string id="IDS_XMLWEB_ERROR_TOOMANYREDIRECTS">Too many HTTP redirects</string>
-  <string id="IDS_XMLWEB_ERROR_FILEINCOMPLETE">Transfer incomplete</string>
-  <string id="IDS_XMLWEB_ERROR_SSLINITFAILED">Failed to initialize SSL</string>
-  <string id="IDS_XMLWEB_ERROR_SSLCONNECTFAILED">SSL handshake failure</string>
-  <string id="IDS_XMLWEB_ERROR_SSLSERVERCERTFAILED">Remote SSL certificate is invalid</string>
-  <string id="IDS_XMLWEB_ERROR_SSLCLIENTCERTFAILED">Local SSL certificate is invalid</string>
-  <string id="IDS_XMLWEB_ERROR_SSLCIPHERFAILED">Failed to use specified SSL cipher</string>
-  <string id="IDS_XMLWEB_ERROR_SSLPEERCACERTFAILED">Peer cert failed to be authenticated</string>
-  <string id="IDS_XMLWEB_ERROR_SSLBADCERTFILE">Invalid SSL certification or file not found</string>
-  <string id="IDS_XMLWEB_ERROR_UNKNOWN">Unknown error</string>
+  <string id="IDS_XMLWEBSESSIONEXP">La sesión ha expirado.</string>
+  <string id="IDS_XMLWEBAUTHFAIL">Ha fallado la autenticación!</string>
+  <string id="IDS_XMLWEBINTERNERR">Ha ocurrido un error interno.</string>
+  <string id="IDS_XMLWEBUNKNOWNERR">Error desconocido</string>
+  <string id="IDS_XMLWEBCONNECTING">Conectando</string>
+  <string id="IDS_XMLWEBREQUESTINGDATA">solicitando datos</string>
+  <string id="IDS_XMLWEBREQUESTDOWNLOADING">Descargando</string>
+  <string id="IDS_XMLWEBPARSING">Parseando respuesta</string>
+  <string id="IDS_XMLWEBDECOMPRESSING">Descomprimiendo datos</string>
+  <string id="IDS_XMLWEBFAILEDBADSTREAMDATA">Datos de stream no válidos.</string>
+  <string id="IDS_XMLWEBFAILEDBADDATA">Fallo: Suma MD5 incorrecta</string>
+  <string id="IDS_XMLWEBFAILEDINVALIDHEADER">Fallo: Cabecera no válida</string>
+  <string id="IDS_XMLWEBFAILEDOUTOFMEMORY">Fallo: Sin memoria</string>
+  <string id="IDS_XMLWEBFAILEDCOMMERROR">Fallo: Error de comunicación</string>
+  <string id="IDS_XMLWEBFAILEDCONNERROR">Fallo: Imposible conectar</string>
+  <string id="IDS_XMLWEBSUCCEEDED">Hecho</string>
+  <string id="IDS_XMLWEBFAILEDAUTHFAIL">Fallo de autenticación</string>
+  <string id="IDS_XMLWEBFAILEDSESSIONEXP">La sesión ha expirado</string>
+  <string id="IDS_XMLWEBCANCELED">La operación se ha cancelado.</string>
+  <string id="IDS_XMLWEBNOEXTENDEDERROR">&lt;No hay información extendida disponible sobre el error&gt;</string>
+  <string id="IDS_XMLWEBERROR403">Los permisos del directorio de la aplicación están mal configurados en el servidor.</string>
+  <string id="IDS_XMLWEBERROR404">Archivo no encontrado. Es esta la URL correcta, o soporta el servidor esta aplicación?</string>
+  <string id="IDS_XMLWEBERROR500">Error interno del servidor. La aplicación o el servidor web puede estar desconfigurado.</string>
+  <string id="IDS_XMLWEBERRORDEFAULT">Error HTTP %d</string>
+  <string id="IDS_XMLWEB_ERROR_NONE">Operación realizada</string>
+  <string id="IDS_XMLWEB_ERROR_CANCELED">Operación cancelada por el usuario</string>
+  <string id="IDS_XMLWEB_ERROR_INITFAILED">Ha fallado la inicialización de la librería</string>
+  <string id="IDS_XMLWEB_ERROR_OUTOFMEMORY">Sin memoria</string>
+  <string id="IDS_XMLWEB_ERROR_MALFORMEDURL">URL mal formada</string>
+  <string id="IDS_XMLWEB_ERROR_PORTFAILED">No se puede usar el interfaz web especificado</string>
+  <string id="IDS_XMLWEB_ERROR_PROXYRESOLVEFAILED">No se ha podido resolver el nombre del servidor proxy o se ha producido un error en la conexión con el proxy</string>
+  <string id="IDS_XMLWEB_ERROR_HOSTRESOLVEFAILED">Imposible resolver el nombre de servidor de destino</string>
+  <string id="IDS_XMLWEB_ERROR_CONNECTFAILED">Conexión errónea</string>
+  <string id="IDS_XMLWEB_ERROR_OPERATIONTIMEOUT">Tiempo de espera agotado</string>
+  <string id="IDS_XMLWEB_ERROR_SENDFAILED">Fallo en el envío del transporte de datos</string>
+  <string id="IDS_XMLWEB_ERROR_RECVFAILED">Fallo en la recepción del transporte de datos</string>
+  <string id="IDS_XMLWEB_ERROR_EMPTYRESPONSE">Respuesta vacía</string>
+  <string id="IDS_XMLWEB_ERROR_POSTFAILED">Error interno al realizar un HTTP POST</string>
+  <string id="IDS_XMLWEB_ERROR_TOOMANYREDIRECTS">Demasiadas redirecciones HTTP</string>
+  <string id="IDS_XMLWEB_ERROR_FILEINCOMPLETE">Transferencia incompleta</string>
+  <string id="IDS_XMLWEB_ERROR_SSLINITFAILED">Imposible inicializar SSL</string>
+  <string id="IDS_XMLWEB_ERROR_SSLCONNECTFAILED">Error en el handshake SSL</string>
+  <string id="IDS_XMLWEB_ERROR_SSLSERVERCERTFAILED">El certificado SSL remoto no es válido</string>
+  <string id="IDS_XMLWEB_ERROR_SSLCLIENTCERTFAILED">El certificado SSL local no es válido</string>
+  <string id="IDS_XMLWEB_ERROR_SSLCIPHERFAILED">No se ha porido utilizar el cifrado SSL especificado</string>
+  <string id="IDS_XMLWEB_ERROR_SSLPEERCACERTFAILED">El certificado del peer no se ha podido autenticar</string>
+  <string id="IDS_XMLWEB_ERROR_SSLBADCERTFILE">Certificación SSL no válida o archivo no encontrado</string>
+  <string id="IDS_XMLWEB_ERROR_UNKNOWN">Error desconocido</string>
   
   <!-- CRASHMAN -->
-  <string id="IDS_CRASHMAN_TITLE">Escritorio Kayako - Fatal Error</string>
-  <string id="IDS_CRASHMAN_DESCRIPTION">We're sorry, Escritorio Kayako encountered a serious problem and must shut down.
+  <string id="IDS_CRASHMAN_TITLE">Escritorio Kayako - Error fatal</string>
+  <string id="IDS_CRASHMAN_DESCRIPTION">Lo sentimos, Escritorio Kayako ha encontrado un error y debe finalizar.
   
-To help us diagnose and repair this problem, you can send a crash report. The crash report is only for debugging and contains no private or personal data.</string>
-  <string id="IDS_CRASHMAN_REPROSTEPS">If possible, provide steps to reproduce the problem:</string>
-  <string id="IDS_CRASHMAN_RESTARTAPP">&amp;Restart Escritorio Kayako and restore session(s)</string>
-  <string id="IDS_CRASHMAN_IGNORE">&amp;Close</string>
-  <string id="IDS_CRASHMAN_SENDREPORT">&amp;Send Report</string>
-  <string id="IDS_CRASHMAN_SENDEX">Send E&amp;xtended Information</string>
-  <string id="IDS_CRASHMAN_SENDEXDESC">Extended information is not required, but will usually make diagnosis much easier.</string>
+Para ayudarnos a diagnosticar y reparar este problema, puede enviarnos un informe de errores. Este informe servirá únicamente para solucionar dichos errores y no contiene datos privados ni personales.</string>
+  <string id="IDS_CRASHMAN_REPROSTEPS">Si es posible, especifique los pasos realizados para reproducir el problema:</string>
+  <string id="IDS_CRASHMAN_RESTARTAPP">&amp;Reiniciar Escritorio Kayako y reanudar la(s) sesione(s)</string>
+  <string id="IDS_CRASHMAN_IGNORE">&amp;Cerrar</string>
+  <string id="IDS_CRASHMAN_SENDREPORT">&amp;Enviar informe</string>
+  <string id="IDS_CRASHMAN_SENDEX">&amp;Enviar información Adicional</string>
+  <string id="IDS_CRASHMAN_SENDEXDESC">La información adicional no es imprescindible, pero puede ayudar mucho a solucionar los problemas.</string>
   
   <!-- SCREENCAP -->
-  <string id="IDS_SCREENCAP_DIRECTIONS_CAP">Escritorio Kayako - Screen Capture</string>
-  <string id="IDS_SCREENCAP_DIRECTIONS">Directions:
+  <string id="IDS_SCREENCAP_DIRECTIONS_CAP">Escritorio Kayako - Captura de pantalla</string>
+  <string id="IDS_SCREENCAP_DIRECTIONS">Instrucciones:
   
-    Use your cursor to select the area you wish to capture. Hold the Ctrl key for extra precision.
+    Use su cursor para seleccionar el área que desea capturar. Mantenga pulsada la tecla Ctrl para precisión adicional.
 
-    To accept the selection press Enter, or press Esc to cancel.
+    Para aceptar la selección presione Enter, o pulse Esc para cancelar.
   </string>
   
   <!-- SETTINGS IMPORT/EXPORT -->
-  <string id="IDS_SETTINGS_IMPEX_TITLE">Import/Export Settings</string>
-  <string id="IDS_SETTINGS_IMPEX_FILTER">Escritorio Kayako Setting Files</string>
+  <string id="IDS_SETTINGS_IMPEX_TITLE">Importar/Exportar configuración</string>
+  <string id="IDS_SETTINGS_IMPEX_FILTER">Archivos de configuración de Escritorio Kayako</string>
   
 </languagepack>
