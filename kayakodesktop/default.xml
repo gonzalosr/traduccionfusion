@@ -887,217 +887,217 @@ Si no está seguro de cómo activar las conexiones internas desde internet a su 
   
 Es posible que necesite reinstalar Escritorio Kayako.</string>
   <!-- DISPLAY -->
-  <string id="IDS_PROPPAGE_DISPLAY">Display</string>
-  <string id="IDS_DISPLAY_FRAME1">Display</string>
-  <string id="IDS_DISPLAY_AUTOHIDESS">Auto-hide Escritorio Kayako on startup</string>
-  <string id="IDS_DISPLAY_AUTOHIDEINFO">Auto-hide visitor information in browser mode</string>
-  <string id="IDS_DISPLAY_FRAME2">Visitor List</string>
-  <string id="IDS_DISPLAY_GROUPVISITORS">Show visitors in groups</string>
-  <string id="IDS_DISPLAY_EDITCOLUMNS">Edit Columns</string>
-  <string id="IDS_DISPLAY_COLUMNSDLG_CAP">Visitor List Columns</string>
-  <string id="IDS_DISPLAY_DEPARTMENT">Department</string>
-  <string id="IDS_DISPLAY_TOTALTIME">Total Time</string>
-  <string id="IDS_DISPLAY_CURRENTPAGE">Current Page</string>
-  <string id="IDS_DISPLAY_CITY">City</string>
-  <string id="IDS_DISPLAY_REGION">Region</string>
-  <string id="IDS_DISPLAY_COUNTRY">Country</string>
-  <string id="IDS_DISPLAY_STATUS">Status</string>
-  <string id="IDS_DISPLAY_OPERATOR">Operator</string>
-  <string id="IDS_DISPLAY_WAITTIME">Wait Time</string>
-  <string id="IDS_DISPLAY_REFERRER">Referrer</string>
-  <string id="IDS_DISPLAY_LASTVISIT">Last Visit</string>
-  <string id="IDS_DISPLAY_LASTCHAT">Last Chat</string>
-  <string id="IDS_DISPLAY_FIELDS">Data Fields</string>
-  <string id="IDS_DISPLAY_INDICATORS">Indicators Icons</string>
-  <string id="IDS_DISPLAY_NOTES">Notes</string>
-  <string id="IDS_DISPLAY_SEARCHENGINE">Search Engine</string>
-  <string id="IDS_DISPLAY_BROWSER">Browser Type</string>
-  <string id="IDS_DISPLAY_ADCAMPAIGN">Ad Campaign</string>
-  <string id="IDS_DISPLAY_REPEATVISITOR">Repeat Visitor</string>
-  <string id="IDS_DISPLAY_HISTORY">Chat History</string>
+  <string id="IDS_PROPPAGE_DISPLAY">Pantalla</string>
+  <string id="IDS_DISPLAY_FRAME1">Pantalla</string>
+  <string id="IDS_DISPLAY_AUTOHIDESS">Minimizar automáticamente Escritorio Kayako al iniciar</string>
+  <string id="IDS_DISPLAY_AUTOHIDEINFO">Ocultar automáticamente información de visitantes en modo navegador</string>
+  <string id="IDS_DISPLAY_FRAME2">Lista de visitantes</string>
+  <string id="IDS_DISPLAY_GROUPVISITORS">Mostrar visitantes en grupos</string>
+  <string id="IDS_DISPLAY_EDITCOLUMNS">Editar columnas</string>
+  <string id="IDS_DISPLAY_COLUMNSDLG_CAP">Columnas de lista de visitantes</string>
+  <string id="IDS_DISPLAY_DEPARTMENT">Departamento</string>
+  <string id="IDS_DISPLAY_TOTALTIME">Tiempo total</string>
+  <string id="IDS_DISPLAY_CURRENTPAGE">Página actual</string>
+  <string id="IDS_DISPLAY_CITY">Localidad</string>
+  <string id="IDS_DISPLAY_REGION">Región</string>
+  <string id="IDS_DISPLAY_COUNTRY">País</string>
+  <string id="IDS_DISPLAY_STATUS">Estado</string>
+  <string id="IDS_DISPLAY_OPERATOR">Operador</string>
+  <string id="IDS_DISPLAY_WAITTIME">Tiempo de espera</string>
+  <string id="IDS_DISPLAY_REFERRER">Origen</string>
+  <string id="IDS_DISPLAY_LASTVISIT">Última visita</string>
+  <string id="IDS_DISPLAY_LASTCHAT">Último chat</string>
+  <string id="IDS_DISPLAY_FIELDS">Campos datos</string>
+  <string id="IDS_DISPLAY_INDICATORS">Iconos indicadores</string>
+  <string id="IDS_DISPLAY_NOTES">Notas</string>
+  <string id="IDS_DISPLAY_SEARCHENGINE">Motor búsqueda</string>
+  <string id="IDS_DISPLAY_BROWSER">Tipo de navegador</string>
+  <string id="IDS_DISPLAY_ADCAMPAIGN">Campaña</string>
+  <string id="IDS_DISPLAY_REPEATVISITOR">Visitante repetido</string>
+  <string id="IDS_DISPLAY_HISTORY">Historial de chat</string>
   <string id="IDS_DISPLAY_VARIABLES">Variables</string>
-  <string id="IDS_DISPLAY_FRAME4">Visitor Map</string>
-  <string id="IDS_DISPLAY_LABEL3">Style:</string>
-  <string id="IDS_DISPLAY_MAPSTYLE1">Default</string>
-  <string id="IDS_DISPLAY_MAPSTYLE2">Simplistic</string>
-  <string id="IDS_DISPLAY_MAPSTYLE3">Simplistic (Saturated)</string>
-  <string id="IDS_DISPLAY_SAVEMAPSTATE">Remember map zoom location</string>
-  <string id="IDS_DISPLAY_FRAME5">Default Visitor View</string>
-  <string id="IDS_DISPLAY_GRID">List</string>
-  <string id="IDS_DISPLAY_MAP">Map</string>
+  <string id="IDS_DISPLAY_FRAME4">Mapa de visitantes</string>
+  <string id="IDS_DISPLAY_LABEL3">Estilo:</string>
+  <string id="IDS_DISPLAY_MAPSTYLE1">Por defecto</string>
+  <string id="IDS_DISPLAY_MAPSTYLE2">Sencillo</string>
+  <string id="IDS_DISPLAY_MAPSTYLE3">Sencillo (Saturado)</string>
+  <string id="IDS_DISPLAY_SAVEMAPSTATE">Recordar zoom del mapa</string>
+  <string id="IDS_DISPLAY_FRAME5">Vista de visitantes por defecto</string>
+  <string id="IDS_DISPLAY_GRID">Lista</string>
+  <string id="IDS_DISPLAY_MAP">Mapa</string>
   
   <!-- ALERT SETTINGS -->
-  <string id="IDS_PROPPAGE_ALERTS">Alerts</string>
-  <string id="IDS_ALERTS_FRAME1">Alerts</string>
-  <string id="IDS_ALERTS_VISITOR">&amp;Visitor alerts</string>
-  <string id="IDS_ALERTS_CHAT">&amp;Chat alerts</string>
-  <string id="IDS_ALERTS_STAFF">S&amp;taff alerts</string>
-  <string id="IDS_ALERTS_MESSAGE">&amp;Message alerts</string>
-  <string id="IDS_ALERTS_CUSTOM">C&amp;ustom alerts</string>
-  <string id="IDS_ALERTS_PHONE">&amp;Phone alerts</string>
-  <string id="IDS_ALERTS_FRAME2">Other</string>
-  <string id="IDS_ALERTS_SUPPRESS">&amp;Suppress all alerts when I'm Away or Busy</string>
-  <string id="IDS_ALERTS_LABEL1">S&amp;how popup alerts on the screen for</string>
-  <string id="IDS_ALERTS_LABEL2">second(s)</string>
-  <string id="IDS_ALERTS_BADTTL">The 'time to live' must be between 5 seconds and 10 minutes (600 seconds)</string>
-  <string id="IDS_ALERTS_OFN_TITLE">Choose sound file</string>
-  <string id="IDS_ALERTS_OFN_FILTER">Audio files (WAV)</string>
+  <string id="IDS_PROPPAGE_ALERTS">Alertas</string>
+  <string id="IDS_ALERTS_FRAME1">Alertas</string>
+  <string id="IDS_ALERTS_VISITOR">Alertas de &amp;visitantes</string>
+  <string id="IDS_ALERTS_CHAT">Alertas de &amp;Chat</string>
+  <string id="IDS_ALERTS_STAFF">Alerta&amp;s de operador</string>
+  <string id="IDS_ALERTS_MESSAGE">Alertas de &amp;Mensaje</string>
+  <string id="IDS_ALERTS_CUSTOM">Alertas personalizadas</string>
+  <string id="IDS_ALERTS_PHONE">Alertas telefónicas</string>
+  <string id="IDS_ALERTS_FRAME2">Otras</string>
+  <string id="IDS_ALERTS_SUPPRESS">&amp;Suprimir todas las alertas cuando estoy ausente u ocupado</string>
+  <string id="IDS_ALERTS_LABEL1">Mostrar alertas emergentes en pantalla durante</string>
+  <string id="IDS_ALERTS_LABEL2">segundo(s)</string>
+  <string id="IDS_ALERTS_BADTTL">El 'tiempo de vida' debe estar entre 5 segundos y 10 minutos (600 segundos)</string>
+  <string id="IDS_ALERTS_OFN_TITLE">Seleccionar archivo de sonido</string>
+  <string id="IDS_ALERTS_OFN_FILTER">Archivos de sonido (WAV)</string>
   
   <!-- HOTKEYS -->
-  <string id="IDS_PROPPAGE_HOTKEYS">Hotkeys</string>
-  <string id="IDS_HOTKEYS_LABEL1">Select the action you wish to set the hotkey for, place focus in the Hotkey field, and type the combination of keys you wish to associate with that action.</string>
-  <string id="IDS_HOTKEYS_FRAME1">Hotkeys</string>
-  <string id="IDS_HOTKEYS_FRAME2">Canned Response Hotkeys</string>
-  <string id="IDS_HOTKEYS_LABEL2">Select an account:</string>
-  <string id="IDS_HOTKEYS_EDITCANNED">&amp;Manage</string>
-  <string id="IDS_HOTKEYS_ACTIONS">Actions</string>
-  <string id="IDS_HOTKEYS_NONE">None</string>
-  <string id="IDS_HOTKEYS_CANNED">(Canned Response)</string>
-  <string id="IDS_HOTKEYS_1">Server: Accept All Pending Chats</string>
-  <string id="IDS_HOTKEYS_2">App: Tabs - Previous</string>
-  <string id="IDS_HOTKEYS_3">App: Tabs - Next</string>
-  <string id="IDS_HOTKEYS_4">App: Tabs - Close Current</string>
-  <string id="IDS_HOTKEYS_5">Server: Tickets</string>
-  <string id="IDS_HOTKEYS_6">Server: Knowledgebase</string>
-  <string id="IDS_HOTKEYS_7">App: Log In All</string>
-  <string id="IDS_HOTKEYS_8">App: Log Out All</string>
-  <string id="IDS_HOTKEYS_9">Server: Refresh</string>
-  <string id="IDS_HOTKEYS_10">Server: Proactive Chat (Alert)</string>
-  <string id="IDS_HOTKEYS_11">Server: Proactive Chat (Inline)</string>
-  <string id="IDS_HOTKEYS_12">Chat: Leave</string>
-  <string id="IDS_HOTKEYS_13">Chat: Save</string>
-  <string id="IDS_HOTKEYS_14">Chat: Print</string>
-  <string id="IDS_HOTKEYS_15">Chat: Email</string>
-  <string id="IDS_HOTKEYS_16">Phone: Answer Call</string>
-  <string id="IDS_HOTKEYS_17">App: Event Log</string>
-  <string id="IDS_HOTKEYS_18">Web: Back</string>
-  <string id="IDS_HOTKEYS_19">Web: Forward</string>
-  <string id="IDS_HOTKEYS_20">Web: Stop</string>
-  <string id="IDS_HOTKEYS_21">Web: Refresh</string>
-  <string id="IDS_HOTKEYS_22">Web: New Tab</string>
-  <string id="IDS_HOTKEYS_23">Chat: Take Screenshot</string>
-  <string id="IDS_HOTKEYS_24">App: Quit Escritorio Kayako</string>
-  <string id="IDS_HOTKEYS_25">Web: Address Bar</string>
-  <string id="IDS_HOTKEYS_MSG_ASSIGNED_CAP">Hotkey Already Assigned!</string>
-  <string id="IDS_HOTKEYS_MSG_ASSIGNED_TXT">The hotkey you entered has already been assigned to another action. If you continue, the previous action will be unassigned. Proceed?</string>
-  <string id="IDS_HOTKEYS_MSG_ACCOUNTOFFLINE">This account must be online in order to manage its canned response hotkeys.</string>
-  <string id="IDS_HOTKEYS_MSG_NOCANNEDRESPONSES">No canned responses could be found for this account.</string>
+  <string id="IDS_PROPPAGE_HOTKEYS">Atajos</string>
+  <string id="IDS_HOTKEYS_LABEL1">Seleccione la acción a la que quiere asociar el atajo de teclado, ponga el foco en el campo de atajo, y pulse la combinación de teclas que desea asociar con esa acción.</string>
+  <string id="IDS_HOTKEYS_FRAME1">Atajos</string>
+  <string id="IDS_HOTKEYS_FRAME2">Atajos de respuestas enlatadas</string>
+  <string id="IDS_HOTKEYS_LABEL2">Seleccione una cuenta:</string>
+  <string id="IDS_HOTKEYS_EDITCANNED">&amp;Administrar</string>
+  <string id="IDS_HOTKEYS_ACTIONS">Acciones</string>
+  <string id="IDS_HOTKEYS_NONE">Ninguna</string>
+  <string id="IDS_HOTKEYS_CANNED">(Respuesta enlatada)</string>
+  <string id="IDS_HOTKEYS_1">Servidor: Aceptar todos los chats pendientes</string>
+  <string id="IDS_HOTKEYS_2">App: Pestañas - Anterior</string>
+  <string id="IDS_HOTKEYS_3">App: Pestañas - Siguiente</string>
+  <string id="IDS_HOTKEYS_4">App: Pestañas - Cerrar actual</string>
+  <string id="IDS_HOTKEYS_5">Servidor: Tickets</string>
+  <string id="IDS_HOTKEYS_6">Servidor: Base de conocimiento</string>
+  <string id="IDS_HOTKEYS_7">App: Iniciar sesión en todas las cuentas</string>
+  <string id="IDS_HOTKEYS_8">App: Cerrar sesión en todas las cuentas</string>
+  <string id="IDS_HOTKEYS_9">Servidor: Recargar</string>
+  <string id="IDS_HOTKEYS_10">Servidor: Chat proactivo (Alerta)</string>
+  <string id="IDS_HOTKEYS_11">Servidor: Chat proactivo (en página)</string>
+  <string id="IDS_HOTKEYS_12">Chat: Abandonar</string>
+  <string id="IDS_HOTKEYS_13">Chat: Guardar</string>
+  <string id="IDS_HOTKEYS_14">Chat: Imprimir</string>
+  <string id="IDS_HOTKEYS_15">Chat: Enviar por email</string>
+  <string id="IDS_HOTKEYS_16">Teléfono: Responder llamada</string>
+  <string id="IDS_HOTKEYS_17">App: Registro de eventos</string>
+  <string id="IDS_HOTKEYS_18">Web: Atrás</string>
+  <string id="IDS_HOTKEYS_19">Web: Adelante</string>
+  <string id="IDS_HOTKEYS_20">Web: Parar</string>
+  <string id="IDS_HOTKEYS_21">Web: Recargar</string>
+  <string id="IDS_HOTKEYS_22">Web: Nueva pestaña</string>
+  <string id="IDS_HOTKEYS_23">Chat: Capturar pantalla</string>
+  <string id="IDS_HOTKEYS_24">App: Cerrar Escritorio Kayako</string>
+  <string id="IDS_HOTKEYS_25">Web: Barra de direcciones</string>
+  <string id="IDS_HOTKEYS_MSG_ASSIGNED_CAP">Atajo ya asignado!</string>
+  <string id="IDS_HOTKEYS_MSG_ASSIGNED_TXT">El atajo introducido ya ha sido asignado a otra acción. Si continúa, la acción previamente asignada se desasignará. Proceder?</string>
+  <string id="IDS_HOTKEYS_MSG_ACCOUNTOFFLINE">Esta cuenta debe estar conectada para poder administrar los atajos de sus respuestas enlatadas.</string>
+  <string id="IDS_HOTKEYS_MSG_NOCANNEDRESPONSES">No se han encontrado respuestas enlatadas en esta cuenta.</string>
   <!-- SPELLING -->
-  <string id="IDS_PROPPAGE_SPELLING">Spelling</string>
-  <string id="IDS_SPELLING_FRAME1">Spelling</string>
-  <string id="IDS_SPELLING_ENABLE">Check spelling as I type</string>
-  <string id="IDS_SPELLING_IGNORE">Ignore words...</string>
-  <string id="IDS_SPELLING_IGNORE_INITCAP">...with Initial Capitalization</string>
-  <string id="IDS_SPELLING_IGNORE_UPPER">...in UPPER case</string>
-  <string id="IDS_SPELLING_IGNORE_MIXED">...in MiXeD case</string>
-  <string id="IDS_SPELLING_IGNORE_NUMBERS">...with numbers</string>
-  <string id="IDS_SPELLING_FRAME2">Dictionary Settings</string>
-  <string id="IDS_SPELLING_NODICTS">No dictionaries found!</string>
+  <string id="IDS_PROPPAGE_SPELLING">Ortografía</string>
+  <string id="IDS_SPELLING_FRAME1">Ortografía</string>
+  <string id="IDS_SPELLING_ENABLE">Comprobar ortografía según se escribe</string>
+  <string id="IDS_SPELLING_IGNORE">Ignorar palabras...</string>
+  <string id="IDS_SPELLING_IGNORE_INITCAP">...con Mayúscula Inicial</string>
+  <string id="IDS_SPELLING_IGNORE_UPPER">...todo en MAYÚSCULAS</string>
+  <string id="IDS_SPELLING_IGNORE_MIXED">...con mayúsculas MeZClaDaS</string>
+  <string id="IDS_SPELLING_IGNORE_NUMBERS">...con números</string>
+  <string id="IDS_SPELLING_FRAME2">Configuración de diccionario</string>
+  <string id="IDS_SPELLING_NODICTS">No se han encontrado diccionarios!</string>
   <!-- LANGUAGE -->
-  <string id="IDS_PROPPAGE_LANGUAGE">Language</string>
-  <string id="IDS_LANGUAGE_FRAME1">Language</string>
-  <string id="IDS_LANGUAGE_LABEL1">Choose your language from the list below:</string>
-  <string id="IDS_LANGUAGE_MSG_NOPACKS_CAP">No language packs found!</string>
-  <string id="IDS_LANGUAGE_MSG_NOPACKS_TXT">Escritorio Kayako could not find any installed language packs!</string>
+  <string id="IDS_PROPPAGE_LANGUAGE">Idioma</string>
+  <string id="IDS_LANGUAGE_FRAME1">Idioma</string>
+  <string id="IDS_LANGUAGE_LABEL1">Elija su idioma de la lista:</string>
+  <string id="IDS_LANGUAGE_MSG_NOPACKS_CAP">No se han encontrado paquetes de idioma!</string>
+  <string id="IDS_LANGUAGE_MSG_NOPACKS_TXT">Escritorio Kayako no ha podido encontrar ningún paquete de idioma instalado!</string>
   <!-- ABOUT -->
-  <string id="IDS_PROPPAGE_ABOUT">About</string>
-  <string id="IDS_ABOUT_FRAME1">Version Information</string>
+  <string id="IDS_PROPPAGE_ABOUT">Sobre el programa</string>
+  <string id="IDS_ABOUT_FRAME1">Información de versión</string>
   <string id="IDS_ABOUT_LABEL2">Copyright © 2010
 Kayako Infotech Ltd.
   </string>
-  <string id="IDS_ABOUT_FRAME2">Copyright Notice</string>
+  <string id="IDS_ABOUT_FRAME2">Aviso de Copyright</string>
   <string id="IDS_ABOUT_LABEL3">This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law.</string>
 
   <!-- KAYAKOMSGBOX -->
-  <string id="IDS_ABORT">&amp;Abort</string>
-  <string id="IDS_RETRY">&amp;Retry</string>
-  <string id="IDS_IGNORE">&amp;Ignore</string>
-  <string id="IDS_YES">&amp;Yes</string>
+  <string id="IDS_ABORT">Cancel&amp;ar</string>
+  <string id="IDS_RETRY">&amp;Reintentar</string>
+  <string id="IDS_IGNORE">&amp;Ignorar</string>
+  <string id="IDS_YES">&amp;Sí</string>
   <string id="IDS_NO">&amp;No</string>
-  <string id="IDS_DONTSHOW">&amp;Don't show this again</string>
+  <string id="IDS_DONTSHOW">&amp;No mostrar de nuevo</string>
   
   <!-- HOTKEYCTRL -->
-  <string id="IDS_HOTKEYCTRL_LABEL1">Press hotkeys:</string>
-  <string id="IDS_HOTKEYCTRL_LABEL2">Currently assigned to:</string>
-  <string id="IDS_HOTKEYCTRL_ASSIGN">&amp;Assign</string>
-  <string id="IDS_HOTKEYCTRL_REMOVE">&amp;Remove</string>
-  <string id="IDS_HOTKEYCTRL_NONE">None</string>
+  <string id="IDS_HOTKEYCTRL_LABEL1">Pulsar atajo:</string>
+  <string id="IDS_HOTKEYCTRL_LABEL2">Actualmente asignado a:</string>
+  <string id="IDS_HOTKEYCTRL_ASSIGN">&amp;Asignar</string>
+  <string id="IDS_HOTKEYCTRL_REMOVE">&amp;Eliminar</string>
+  <string id="IDS_HOTKEYCTRL_NONE">Ninguno</string>
   
   <!-- CANNED HOTKEY DIALOG -->
-  <string id="IDS_CANNEDHOTKEYDLG_TITLE">Canned Response Hotkeys</string>
-  <string id="IDS_CANNEDHOTKEYDLG_LABEL1">Canned Responses:</string>
+  <string id="IDS_CANNEDHOTKEYDLG_TITLE">Atajo de respuesta enlatada</string>
+  <string id="IDS_CANNEDHOTKEYDLG_LABEL1">Respuestas enlatadas:</string>
   
   <!-- AVATAR DIALOG -->
-  <string id="IDS_AVATARDLG_TITLE">Choose Your Avatar</string>
-  <string id="IDS_AVATARDLG_LABEL1">Please choose the image you would like to use.</string>
-  <string id="IDS_AVATARDLG_CHOOSECUSTOM">Custom Image...</string>
-  <string id="IDS_AVATARDLG_OFNFILTER">Image Files</string>
-  <string id="IDS_AVATARDLG_ERROR_FILETOOLARGE">The file is too large. Please make sure it does not exceed %d%s.</string>
+  <string id="IDS_AVATARDLG_TITLE">Seleccione su avatar</string>
+  <string id="IDS_AVATARDLG_LABEL1">Por favor, seleccione la imagen que desea usar.</string>
+  <string id="IDS_AVATARDLG_CHOOSECUSTOM">Imagen personalizada...</string>
+  <string id="IDS_AVATARDLG_OFNFILTER">Archivos de imagen</string>
+  <string id="IDS_AVATARDLG_ERROR_FILETOOLARGE">El archivo es demasiado grande. Por favor, asegúrese de que no excede %d%s.</string>
   
   <!-- EVENT LOG -->
-  <string id="IDS_EVENTLOGWNDTITLE">Escritorio Kayako Event Log</string>
-  <string id="IDS_EVENTLOGMENU">Menu</string>
-  <string id="IDS_EVENTLOGCOL1">Timestamp</string>
-  <string id="IDS_EVENTLOGCOL2">Event</string>
-  <string id="IDS_SAVELOGNOITEMSMESSAGE">There are no items in the log to save.</string>
-  <string id="IDS_SAVELOGNOITEMSMESSAGETITLE">%app% - Event Log Empty</string>
-  <string id="IDS_SAVELOGTITLE">%app% - Save Event Log</string>
-  <string id="IDS_SAVELOGERRORMSG">%app% was unable to save the event log to file!</string>
-  <string id="IDS_SAVELOGERRORMSGTITLE">%app - Save Event Log Error</string>
-  <string id="IDS_EVENTLOGCLEARMSG">Are you sure you want to clear all the items in the Event Log?  It is not possible to recover them once this is done.</string>
-  <string id="IDS_EVENTLOGCLEARMSGTITLE">%app% - Clear Log Confirmation</string>
-  <string id="IDS_EVENTLOGNOITEMSMSG">The log is already empty.</string>
-  <string id="IDS_EVENTLOGNOITEMSMSGTITLE">Empty Log</string>
-  <string id="IDS_ELM_LOG">&amp;Log</string>
-  <string id="IDS_ELM_LOG_SAVELOG">&amp;Save Log...</string>
-  <string id="IDS_ELM_LOG_CLEAR">&amp;Clear Log</string>
-  <string id="IDS_ELM_LOG_CLOSE">C&amp;lose</string>
-  <string id="IDS_ELM_MS_LOG">Log Menu</string>
-  <string id="IDS_ELM_MS_LOG_SAVELOG">Save the current log data to a file on disk</string>
-  <string id="IDS_ELM_MS_LOG_CLEAR">Clear all items in the log</string>
-  <string id="IDS_ELM_MS_LOG_CLOSE">Close this window</string>
+  <string id="IDS_EVENTLOGWNDTITLE">Registro de eventos de Escritorio Kayako</string>
+  <string id="IDS_EVENTLOGMENU">Menú</string>
+  <string id="IDS_EVENTLOGCOL1">Sello de tiempo</string>
+  <string id="IDS_EVENTLOGCOL2">Evento</string>
+  <string id="IDS_SAVELOGNOITEMSMESSAGE">No hay elementos a guardar en el registro.</string>
+  <string id="IDS_SAVELOGNOITEMSMESSAGETITLE">%app% - Registro de eventos vacío</string>
+  <string id="IDS_SAVELOGTITLE">%app% - Guardar registro de eventos</string>
+  <string id="IDS_SAVELOGERRORMSG">%app% no ha podido guardar el registro de eventos a un archivo!</string>
+  <string id="IDS_SAVELOGERRORMSGTITLE">%app - Error de guardado de registro de eventos</string>
+  <string id="IDS_EVENTLOGCLEARMSG">Está seguro de que desea borrar todos los elementos del registro de eventos?  No es posible recuperarlos después.</string>
+  <string id="IDS_EVENTLOGCLEARMSGTITLE">%app% - Confirmación de borrado de registro</string>
+  <string id="IDS_EVENTLOGNOITEMSMSG">El registro ya está vacío.</string>
+  <string id="IDS_EVENTLOGNOITEMSMSGTITLE">Registro vacío</string>
+  <string id="IDS_ELM_LOG">Registro</string>
+  <string id="IDS_ELM_LOG_SAVELOG">Guardar Regi&amp;stro...</string>
+  <string id="IDS_ELM_LOG_CLEAR">Borrar registro</string>
+  <string id="IDS_ELM_LOG_CLOSE">C&amp;errar</string>
+  <string id="IDS_ELM_MS_LOG">Menú de registro</string>
+  <string id="IDS_ELM_MS_LOG_SAVELOG">Guardar los datos del registro a un archivo en el disco</string>
+  <string id="IDS_ELM_MS_LOG_CLEAR">Borrar todos los elementos del registro</string>
+  <string id="IDS_ELM_MS_LOG_CLOSE">Cerrar esta ventana</string>
 
   <!--  KSPELL -->
   <string id="IDS_SPELLERRORDLG_ERROR">Error:</string>
-  <string id="IDS_SPELLERRORDLG_SUGGESTIONS">Suggestions:</string>
-  <string id="IDS_SPELLERRORDLG_IGNORE">&amp;Ignore</string>
-  <string id="IDS_SPELLERRORDLG_CORRECT">&amp;Correct</string>
-  <string id="IDS_SPELLERRORDLG_ADD">&amp;Add</string>
-  <string id="IDS_SPELLCHECKERROR">Dictionary Error</string>
-  <string id="IDS_DICTLOADFAIL">No spell check dictionaries could be found. Your dictionaries may have been corrupted.
+  <string id="IDS_SPELLERRORDLG_SUGGESTIONS">Sugerencias:</string>
+  <string id="IDS_SPELLERRORDLG_IGNORE">&amp;Ignorar</string>
+  <string id="IDS_SPELLERRORDLG_CORRECT">&amp;Corregir</string>
+  <string id="IDS_SPELLERRORDLG_ADD">&amp;Añadir</string>
+  <string id="IDS_SPELLCHECKERROR">Error de diccionario</string>
+  <string id="IDS_DICTLOADFAIL">No se han encontrado diccionarios de ortografía. Sus diccionarios pueden haberse corrompido.
 
-Please reinstall the dictionary package in order to use spell checking. Spell checking will be temporarily disabled.
+Por favor, reinstale el paquete de diccionarios para usar el correctos ortográfico. La corrección ortográfica se deshabilitará temporalmente.
   </string>
-  <string id="IDS_SPELLCHECKINITFAIL">The dictionary "%s" could not be loaded successfully. Your dictionary may have been corrupted.
+  <string id="IDS_SPELLCHECKINITFAIL">El diccionario "%s" no se ha podido cargar correctamente. Es posible que se haya corrompido.
 
-Please reinstall the dictionary package in order to use spell checking. Spell checking will be temporarily disabled.
+Por favor, reinstale el paquete de diccionarios para poder usar la Please reinstall the dictionary package in order to use spell checking. Spell checking will be temporarily disabled.
   </string>
 
   <!-- WIZARD -->
-  <string id="IDS_WIZARD_CANCEL">&amp;Cancel</string>
-  <string id="IDS_WIZARD_BACK">&lt; &amp;Back</string>
-  <string id="IDS_WIZARD_NEXT">&amp;Next &gt;</string>
-  <string id="IDS_WIZARD_FINISH">&amp;Finish</string>
+  <string id="IDS_WIZARD_CANCEL">&amp;Cancelar</string>
+  <string id="IDS_WIZARD_BACK">&lt; Atrás</string>
+  <string id="IDS_WIZARD_NEXT">Siguiente &gt;</string>
+  <string id="IDS_WIZARD_FINISH">Terminar</string>
 
   <!-- PORT CHECK -->
-  <string id="IDS_PORTCHECK">Test</string>
-  <string id="IDS_PORTCHECKTESTING">Testing...</string>
-  <string id="IDS_PORTCHECKTITLE">Port Test</string>
-  <string id="IDS_PORTCHECKOPEN">Port %d is connectible.</string>
-  <string id="IDS_PORTCHECKCLOSED">Port %d is closed or not connectible. Please check that it is forwarded properly or notify your network administrator.</string>
-  <string id="IDS_PORTCHECKERROR">There was a network error while checking the port.</string>
-  <string id="IDS_PORTCHECKINTERNALERROR">An internal error occurred when trying to start the port check.</string>
+  <string id="IDS_PORTCHECK">Comprobar</string>
+  <string id="IDS_PORTCHECKTESTING">Comprobando...</string>
+  <string id="IDS_PORTCHECKTITLE">Comprobar puerto</string>
+  <string id="IDS_PORTCHECKOPEN">El puerto %d está abierto.</string>
+  <string id="IDS_PORTCHECKCLOSED">El puerto %d está cerrado o no acepta conexiones. Por favor, asegúrese de que está correctamente enrutado o notifíquelo a su administrador de red.</string>
+  <string id="IDS_PORTCHECKERROR">Se ha producido un error de red mientras se comprobaba el puerto.</string>
+  <string id="IDS_PORTCHECKINTERNALERROR">Se ha producido un error interno mientras se intentaba iniciar la comprobación de puertos.</string>
   
   <!-- CHAT RELATED -->
-  <string id="IDS_INVALID_CHAT_EVENT_TYPE">Invalid chat event type for event '%s'</string>
+  <string id="IDS_INVALID_CHAT_EVENT_TYPE">Evento de chat no válido para el evento '%s'</string>
   
   <!-- VOIP PHONE -->
   
   <!-- CONTACTS -->
-  <string id="IDS_VOIP_DEF_GROUP">Contacts</string>
+  <string id="IDS_VOIP_DEF_GROUP">Contactos</string>
   
   <!-- STATUSES -->
-  <string id="IDS_VOIP_STATUS_AVAILABLE">Available</string>
+  <string id="IDS_VOIP_STATUS_AVAILABLE">Disponible</string>
   <string id="IDS_VOIP_STATUS_AVAILABLE_TT">Accept all incoming calls</string>
   <string id="IDS_VOIP_STATUS_PRIVATE">Private</string>
   <string id="IDS_VOIP_STATUS_PRIVATE_TT">Accept calls from staff members only</string>
