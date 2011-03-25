@@ -200,7 +200,7 @@ Escritorio Kayako usará este número para determinar el color apropiado del ico
   <string id="IDS_RIBBON_SERVER_VIS_ACCEPTALLCHATS_TT">Acepta todas las peticiones de chat pendientes simultáneamente</string>
   <string id="IDS_RIBBON_SERVER_VIS_REJECTALLCHATS">Rechazar todos los chats</string>
   <string id="IDS_RIBBON_SERVER_VIS_REJECTALLCHATS_TT">Rechaza todas las peticiones de chat pendientes simultáneamente</string>
-  <string id="IDS_RIBBON_SERVER_VIS_PROACTIVECHAT">Abordar</string>
+  <string id="IDS_RIBBON_SERVER_VIS_PROACTIVECHAT">Captar</string>
   <string id="IDS_RIBBON_SERVER_VIS_PROACTIVECHAT_TT">Iniciar un chat proactivo con el visitante seleccionado actualmente</string>
   <string id="IDS_RIBBON_SERVER_VIS_PROACTIVECHAT_INLINE_TT">Iniciar un chat en la página en la que el usuario está navegando actualmente sin pedir permiso</string>
   <string id="IDS_RIBBON_SERVER_VIS_PROACTIVECHAT_ALERT_TT">Avisar al usuario de que desea iniciar un chat usando una ventana flotante</string>
@@ -386,7 +386,7 @@ Asunto: %s</string>
   <string id="IDS_POPUP_MESSAGE_TITLE">%s: Mensaje de %s</string>
   
   <!-- SERVERVIEW -->
-  <string id="IDS_SVR_CM_PROACTIVECHAT">Abordar</string>
+  <string id="IDS_SVR_CM_PROACTIVECHAT">Captar</string>
   <string id="IDS_SVR_CM_ENGAGE_INLINE">En línea (no avisar de sesión de chat)</string>
   <string id="IDS_SVR_CM_ENGAGE_ALERT">Alerta (aviso flotante de chat)</string>
   <string id="IDS_SVR_CM_ACCEPTCHAT">&amp;Aceptar chat</string>

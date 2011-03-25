@@ -15,7 +15,7 @@
  */
 
 $__LANG = array(
-	'maintenance' => 'Maintenance',
-	'moveattachments' => 'Move Attachments',
+	'maintenance' => 'Mantenimiento',
+	'moveattachments' => 'Mover adjuntos',
 );
 ?>
