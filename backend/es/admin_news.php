@@ -15,18 +15,18 @@
  */
 
 $__LANG = array(
-	'news' => 'News',
-	'importexport' => 'Import/Export',
-	'tabexport' => 'Export',
-	'tabimport' => 'Import',
-	'export' => 'Export',
-	'import' => 'Import',
-	'tgroupany' => '-- All Groups --',
-	'filtertgroup' => 'Filter By Template Group',
-	'desc_filtertgroup' => 'You can filter the export results to a specific template group by selecting one from the available options.',
-	'importemails' => 'Email Addresses (Seperate multiple values using ,)',
-	'generationdate' => 'XML Generated On: %s',
-	'titlesubscriberimport' => 'Imported "%d" Subscriber(s)',
-	'msgsubscriberimport' => SWIFT_PRODUCT . ' has successfully imported "%d" news subscriber(s).',
+	'news' => 'Noticias',
+	'importexport' => 'Importar/Exportar',
+	'tabexport' => 'Exportar',
+	'tabimport' => 'Importar',
+	'export' => 'Exportar',
+	'import' => 'Importar',
+	'tgroupany' => '-- Todos los grupos --',
+	'filtertgroup' => 'Filtrar por grupo de plantillas',
+	'desc_filtertgroup' => 'Puede filtrar los resultados de la exportación a un grupo de plantillas específico seleccionando una de las opciones disponibles.',
+	'importemails' => 'Direcciones de email (Separe múltiples valores usando ,)',
+	'generationdate' => 'XML generado el: %s',
+	'titlesubscriberimport' => 'Se ha(n) importado "%d" suscriptor(es)',
+	'msgsubscriberimport' => SWIFT_PRODUCT . ' ha importado correctamente "%d" suscriptor(es).',
 );
 ?>
