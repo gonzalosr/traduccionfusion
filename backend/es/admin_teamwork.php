@@ -15,33 +15,33 @@
  */
 
 $__LANG = array (
-	'teamwork' => 'Teamwork',
+	'teamwork' => 'Trabajo en equipo',
 
 	// Import from v3
-	'desc_managestatuswarn' => '<font color="red">Note: If you delete any of the following statuses: <i>Not Started, In Progress, Completed, Awaiting Info</i> or <i>Deferred</i>, it will cause problems when using SyncWorks to synchronize with Microsoft Outlook.</font>',
-	'desc_prioritydisplayorder' => 'If there are multiple priorities within an area, they are sorted using the display order (ascending) specified here.',
-	'desc_categorydisplayorder' => 'If there are multiple categories within an area, they are sorted using the display order (ascending) specified here.',
+	'desc_managestatuswarn' => '<font color="red">Nota: Si elimina alguno de los siguientes estados: <i>No iniciado, En curso, Terminado, Esperando info</i> o <i>Aplazado</i>, se producirán problemas con la sincronización entre SyncWorks y Microsoft Outlook.</font>',
+	'desc_prioritydisplayorder' => 'Si hay múltiples prioridades en un área, se ordenarán usando el orden de visualización (ascendente) especificado aquí.',
+	'desc_categorydisplayorder' => 'Si hay múltiples categorías en un área, se ordenarán usando el orden de visualización (ascendente) especificado aquí.',
 
 	// Global
-	'displayorder' => 'Display Order',
-	'task' => 'Task',
-	'event' => 'Event',
-	'contact' => 'Contact',
+	'displayorder' => 'Orden de visualización',
+	'task' => 'Tarea',
+	'event' => 'Evento',
+	'contact' => 'Contacto',
 
 	// Manage Status
-	'managestatus' => 'Manage Statuses',
-	'statustitle' => 'Status Title',
-	'statuslist' => 'Status List',
-	'statustype' => 'Status Type',
-	'statusmuldelconfirm' => 'Teamwork status(es) deleted successfully',
+	'managestatus' => 'Administrar estados',
+	'statustitle' => 'Nombre estado',
+	'statuslist' => 'Lista estados',
+	'statustype' => 'Tipo estado',
+	'statusmuldelconfirm' => 'Estado(s) de trabajo en equipo eliminado(s) correctamente',
 
 	// Insert Status
-	'insertstatus' => 'Insert Status',
-	'statuscolorcode' => 'Status Color',
-	'desc_statuscolorcode' => 'Wherever this status appears, it will be formatted with the color specified here.',
-	'desc_statustype' => 'Specify the status type. The status will appear only under the selected area of SWIFTPRODUCT.',
-	'desc_statustitle' => 'Enter a title for the status.',
-	'desc_statusdisplayorder' => 'If there are multiple statuses within an area, they are sorted using the display order (ascending) specified here.',
+	'insertstatus' => 'Insertar estado',
+	'statuscolorcode' => 'Color de estado',
+	'desc_statuscolorcode' => 'Siempre que aparezca este estado se pondrá en el color seleccionado aquí.',
+	'desc_statustype' => 'Especifique el tipo de estado. El estado aparecerá únicamente en el área seleccionada de ' . SWIFT_PRODUCT . '.',
+	'desc_statustitle' => 'Introduzca un nombre para el estado.',
+	'desc_statusdisplayorder' => 'Si hay múltiples estados en un area, se ordenarán según el orden de visualización (ascendente) especificado aquí.',
 	'statusdetails' => 'Status Details',
 	'statusinsertconfirm' => 'Teamwork status "%s" inserted successfully',
 
@@ -81,7 +81,7 @@ $__LANG = array (
 	'insertlabel' => 'Insert Label',
 	'labeldetails' => 'Label Details',
 	'desc_labeltitle' => 'Enter a title for the label.',
-	'desc_labeltype' => 'Specify the label type. The label will appear only under the selected area of SWIFTPRODUCT.',
+	'desc_labeltype' => 'Especifique el tipo de etiqueta. La etiqueta aparecerá únicamente en el área seleccionada de ' . SWIFT_PRODUCT . '.',
 	'desc_labeldisplayorder' => 'If there are multiple labels within an area, they are sorted using the display order (ascending) specified here.',
 	'labelcolorcode' => 'Label Color',
 	'desc_labelcolorcode' => 'Wherever this label appears, it will be formatted with the color specified here.',
@@ -103,7 +103,7 @@ $__LANG = array (
 	'insertcategory' => 'Insert Category',
 	'categorydetails' => 'Category Details',
 	'desc_categorytitle' => 'Enter a title for the category.',
-	'desc_categorytype' => 'Specify the category type.  The category will appear only under the selected area of SWIFTPRODUCT.',
+	'desc_categorytype' => 'Especifique el tipo de categoría. La categoría aparecerá únicamente en el área seleccionada de ' . SWIFT_PRODUCT . '.',
 	'desc_catdisplayorder' => 'Enter the Display Order for this Category. All Items are sorted in Ascending Order.',
 	'catinsertconfirm' => 'Teamwork category "%s" inserted successfully',
 

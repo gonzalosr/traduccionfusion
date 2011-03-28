@@ -396,7 +396,7 @@ $__LANG = array (
 	'module_tickets' => 'Tickets',
 	'module_bugs' => 'Bugs',
 	'module_knowledgebase' => 'Biblioteca',
-	'module_parser' => 'Mail Parser',
+	'module_parser' => 'Procesador de correo',
 	'module_livechat' => 'Chat',
 	'module_issues' => 'Problemas',
 	'module_troubleshooter' => 'Asistente',
@@ -432,7 +432,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 		25 => array ('GeoIP', 'bar_geoip.gif', MODULE_CORE, '/Base/GeoIP/Manage'),
 		13 => array ('Chat', 'bar_livesupport.gif', MODULE_LIVECHAT),
 		3 => array ('RingRoute', 'bar_ringroute.gif', MODULE_RINGROUTE),
-		4 => array ('Parser de email', 'bar_mailparser.gif', MODULE_PARSER),
+		4 => array ('Procesador de correo', 'bar_mailparser.gif', MODULE_PARSER),
 		5 => array ('Tickets', 'bar_tickets.gif', MODULE_TICKETS),
 		29 => array ('Flujo de trabajo', 'bar_workflow.gif', MODULE_TICKETS, '/Tickets/Workflow/Manage'),
 		30 => array ('Valoraciones', 'bar_benchmarks.gif', MODULE_TICKETS, '/Base/Benchmark/Manage'),
@@ -495,7 +495,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				5 => array ('Recoge-todo', '/Parser/CatchAll/Manage'),
 				6 => array ('Bloqueos de bucle', '/Parser/LoopBlock/Manage'),
 				7 => array ('Reglas de bucle', '/Parser/LoopRule/Manage'),
-				9 => array ('Parser Log', '/Parser/ParserLog/Manage'),
+				9 => array ('Log de procesador', '/Parser/ParserLog/Manage'),
 			),
 
 		5 => array (
@@ -607,7 +607,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 	// Log stuff
 	if (SWIFT_PRODUCT == 'Fusion' || SWIFT_PRODUCT == 'Resolve')
 	{
-		$_adminBarItemContainer[9][2] = array ('Log del Parser', '/Parser/ParserLog/Manage');
+		$_adminBarItemContainer[9][2] = array ('Log de procesador', '/Parser/ParserLog/Manage');
 	}
 
 	if (SWIFT_PRODUCT == 'Fusion' || SWIFT_PRODUCT == 'Engage')

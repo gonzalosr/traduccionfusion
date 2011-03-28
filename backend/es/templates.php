@@ -348,7 +348,7 @@ $__LANG = array (
 	'template_downloads' => 'Descargas',
 	'template_knowledgebase' => 'Biblioteca',
 	'template_tickets' => 'Tickets',
-	'template_parser' => 'Parser de correo',
+	'template_parser' => 'Procesador de correo',
 	'template_purchase' => 'Comprador de tickets',
 
 	// ======= LOGINSHARE =======
