@@ -83,7 +83,7 @@ $__LANG = array (
 	'exportassql' => 'SQL',
 	'exportaspdf' => 'PDF',
 	'view' => 'Ver',
-	'dashboard' => 'Panel de control',
+	'dashboard' => 'Panel',
 	'help' => 'Ayuda',
 	'size' => 'Tamaño',
 	'home' => 'Inicio',
@@ -641,7 +641,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 	$_adminLinkContainer = array (
 
 		1 => array (
-				0 => array ('Panel de control', '/Core/Dashboard/Index'),
+				0 => array ('Panel', '/Core/Dashboard/Index'),
 				1 => array ('Configuración', '/Base/Settings/Index'),
 				),
 
@@ -697,7 +697,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 	$_staffLinkContainer = array (
 
 		1 => array (
-				0 => array ('Panel de control', '/Core/Dashboard/Index'),
+				0 => array ('Panel', '/Core/Dashboard/Index'),
 				1 => array ('Preferencias', '/Base/Preferences/ViewPreferences'),
 				2 => array ('Notificaciones', '/Base/Notification/Manage', 'staff_canviewnotifications'),
 				3 => array ('Comentarios', '/Base/Comment/Manage', 'staff_canviewcomments'),

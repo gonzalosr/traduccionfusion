@@ -15,7 +15,7 @@
  */
 
 $__LANG = array (
-	'dashboard' => 'Panel de control',
+	'dashboard' => 'Panel',
 	'preferences' => 'Preferencias',
 	'privatemessages' => 'Mensajes privados',
 

@@ -23,7 +23,7 @@ $__LANG = array (
 
 	// Staff Dashboard
 	'overview' => 'Visión general (Sin resolver)',
-	'dashboard' => 'Panel de control',
+	'dashboard' => 'Panel',
 	'quickinsert' => 'Inserción rápida',
 	'ticket' => 'Ticket',
 	'contact' => 'Contacto',
@@ -122,7 +122,7 @@ $__LANG = array (
 	'dashlastlogin' => 'Último acceso:',
 	'dashversion' => 'versión',
 	'dashproduct' => 'producto',
-	'dashdashboard' => 'Panel de control',
+	'dashdashboard' => 'Panel',
 	'dproduct' => 'Producto:',
 	'dversion' => 'Versión: ',
 	'dbuildtype' => 'Tipo de Build: ',
