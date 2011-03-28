@@ -492,9 +492,9 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				2 => array ('Reglas', '/Parser/Rule/Manage'),
 				3 => array ('Líneas de corte', '/Parser/Breakline/Manage'),
 				4 => array ('Bloqueados', '/Parser/Ban/Manage'),
-				5 => array ('Catch-All', '/Parser/CatchAll/Manage'),
-				6 => array ('Loop Blockages', '/Parser/LoopBlock/Manage'),
-				7 => array ('Loop Rules', '/Parser/LoopRule/Manage'),
+				5 => array ('Recoge-todo', '/Parser/CatchAll/Manage'),
+				6 => array ('Bloqueos de bucle', '/Parser/LoopBlock/Manage'),
+				7 => array ('Reglas de bucle', '/Parser/LoopRule/Manage'),
 				9 => array ('Parser Log', '/Parser/ParserLog/Manage'),
 			),
 
@@ -512,7 +512,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				0 => array ('Configuración', '/Tickets/SettingsManager/SLA'),
 				1 => array ('Planes', '/Tickets/SLA/Manage'),
 				2 => array ('Programaciones', '/Tickets/Schedule/Manage'),
-				3 => array ('Vacaciones', '/Tickets/Holiday/Manage'),
+				3 => array ('Festivos', '/Tickets/Holiday/Manage'),
 				4 => array ('Importar/Exportar', '/Tickets/HolidayManager/Index'),
 			),
 
@@ -559,7 +559,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				3 => array ('Especialidades', '/LiveChat/Skill/Manage'),
 				4 => array ('Bloqueados', '/LiveChat/Ban/Manage'),
 				5 => array ('Enrutamiento de mensajes', '/LiveChat/MessageRouting/Index'),
-				6 => array ('Estado online', '/LiveChat/OnlineStatus/Index'),
+				6 => array ('Estado conectado', '/LiveChat/OnlineStatus/Index'),
 			),
 
 		19 => array (
@@ -655,7 +655,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				),
 
 		3 => array (
-				0 => array ('Admnistrar departamentos', '/Base/Department/Manage'),
+				0 => array ('Administrar departamentos', '/Base/Department/Manage'),
 				1 => array ('Insertar departamento', '/Base/Department/Insert'),
 				2 => array ('Ver permisos de acceso', '/Base/Department/AccessOverview'),
 				),
