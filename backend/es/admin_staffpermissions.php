@@ -351,8 +351,8 @@ $__LANG = array (
 	'nw_entab' => 'Puede ver la pestaña de noticias',
 
 	// Knowledgebase
-	'mod_knowledgebase' => 'Base de conocimiento',
-	'kb_entab' => 'Puede ver la pestaña de base de conocimiento',
+	'mod_knowledgebase' => 'Biblioteca',
+	'kb_entab' => 'Puede ver la pestaña de biblioteca',
 
 	// Teamwork
 	'mod_teamwork' => 'Trabajo en equipo',

@@ -15,7 +15,7 @@
  */
 
 $__LANG = array(
-	'knowledgebase' => 'Base de conocimiento',
+	'knowledgebase' => 'Biblioteca',
 	'categories' => 'Categorías',
 	'insertcategory' => 'Insertar categoría',
 	'insertarticle' => 'Nuevo artículo',
@@ -38,7 +38,7 @@ $__LANG = array(
 	'displayorder' => 'Orden de visualización',
 	'desc_displayorder' => 'Este es el orden de visualización por defecto. La lista se ordena de forma ascendente.',
 	'parentcategory' => 'Categoría superior',
-	'desc_parentcategory' => 'La categoría bajo la que se añadirá la categoría de base de conocimiento. Puede organizar las categorías de forma jerárquica sin límite de niveles.',
+	'desc_parentcategory' => 'La categoría bajo la que se añadirá la categoría de biblioteca. Puede organizar las categorías de forma jerárquica sin límite de niveles.',
 	'parentcategoryitem' => '- Categoría superior -',
 	'taboptions' => 'Opciones',
 	'tabpermissionsuser' => 'Permisos: usuarios',
@@ -56,7 +56,7 @@ $__LANG = array(
 	'as_creationdate' => 'Fecha de creación',
 	'as_rating' => 'Valoración',
 	'articlesortorder' => 'Orden de los artículos',
-	'desc_articlesortorder' => 'Seleccione cómo desea ordenar los artículos dentro de esta categoría de base de conocimiento.',
+	'desc_articlesortorder' => 'Seleccione cómo desea ordenar los artículos dentro de esta categoría de biblioteca.',
 	'allowcomments' => 'Permitir comentarios',
 	'desc_allowcomments' => 'Seleccione si desea permitir comentarios para los artículos de esta categoría.',
 	'desc_allowcommentsarticle' => 'Seleccione si desea permitir comentarios sobre este artículo.',
@@ -66,10 +66,10 @@ $__LANG = array(
 	'desc_ispublished' => 'Especifique si esta categoría debe marcarse como publicada. Las categorías no publicadas no son visibles ni para los usuarios ni para los operadores.',
 	'editcategory' => 'Editar categoría',
 
-	'titlekbcategoryinsert' => 'Se ha insertado la categoría de base de conocimiento "%s"',
-	'msgkbcategoryinsert' => SWIFT_PRODUCT . ' ha insertado la categoría de base de conocimiento de nombre "%s".',
-	'titlekbcategoryupdate' => 'Se ha actualizado la categoría de base de conocimiento "%s"',
-	'msgkbcategoryupdate' => SWIFT_PRODUCT . ' ha actualizado la categoría de base de conocimiento de nombre "%s".',
+	'titlekbcategoryinsert' => 'Se ha insertado la categoría de biblioteca "%s"',
+	'msgkbcategoryinsert' => SWIFT_PRODUCT . ' ha insertado la categoría de biblioteca de nombre "%s".',
+	'titlekbcategoryupdate' => 'Se ha actualizado la categoría de biblioteca "%s"',
+	'msgkbcategoryupdate' => SWIFT_PRODUCT . ' ha actualizado la categoría de biblioteca de nombre "%s".',
 
 	'insertarticle' => 'Insertar artículo',
 	'publish' => 'Publicar',
@@ -84,10 +84,10 @@ $__LANG = array(
 	'articlecategories' => 'Categorías',
 	'desc_articlecategories' => '',
 
-	'titlekbarticleinsert' => 'Se ha insertado el artículo de base de conocimiento "%s"',
-	'msgkbarticleinsert' => SWIFT_PRODUCT . ' ha creado el artículo de base de conocimiento "%s" correctamente.',
-	'titlekbarticleupdate' => 'Se ha actualizado el artículo de base de conocimiento "%s" correctamente',
-	'msgkbarticleupdate' => SWIFT_PRODUCT . ' ha actualizado el artículo de base de conocimiento "%s" correctamente.',
+	'titlekbarticleinsert' => 'Se ha insertado el artículo de biblioteca "%s"',
+	'msgkbarticleinsert' => SWIFT_PRODUCT . ' ha creado el artículo de biblioteca "%s" correctamente.',
+	'titlekbarticleupdate' => 'Se ha actualizado el artículo de biblioteca "%s" correctamente',
+	'msgkbarticleupdate' => SWIFT_PRODUCT . ' ha actualizado el artículo de biblioteca "%s" correctamente.',
 	'manage' => 'Administrar',
 	'author' => 'Autor',
 	'creationdate' => 'Fecha de creación',
@@ -109,7 +109,7 @@ $__LANG = array(
 	'ftdate' => 'Fecha',
 
 	'view' => 'Ver',
-	'tabviewall' => 'Ver base de conocimiento',
+	'tabviewall' => 'Ver biblioteca',
 	'mostpopular' => 'Más populares',
 	'recentarticles' => 'Artículos recientes',
 	'tabarticle' => 'Ver artículo',

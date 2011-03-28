@@ -15,7 +15,7 @@
  */
 
 $__LANG = array (
-	'knowledgebase' => 'Base de conocimiento',
+	'knowledgebase' => 'Biblioteca',
 	'managecategories' => 'Administrar categorías',
 	'managequestions' => 'Administrar artículos',
 	'insertcategory' => 'Insertar categoría',
@@ -31,15 +31,15 @@ $__LANG = array (
 	'filter' => 'Filtrar',
 	'viewarticles' => 'Ver artículos',
 	'kbparentcat' => 'Categoría superior',
-	'catdeleteconfirm' => 'Eliminadas (%s) categorías de base de conocimiento',
-	'kbcatdelconfirmmsg' => 'Está seguro de que desea eliminar esta categoría de base de conocimiento? Eliminar una categoría provocará el borrado definitivo de todas las subcategorías y artículos contenidos en ella. Esta acción es irreversible!',
+	'catdeleteconfirm' => 'Eliminadas (%s) categorías de biblioteca',
+	'kbcatdelconfirmmsg' => 'Está seguro de que desea eliminar esta categoría de biblioteca? Eliminar una categoría provocará el borrado definitivo de todas las subcategorías y artículos contenidos en ella. Esta acción es irreversible!',
 	'filtertgroupid' => 'Grupos de plantillas',
 	'desc_filtertgroupid' => 'Seleccione el grupo de plantillas para filtrar la lista de categorías, Sólo se mostrarán las categorías bajo el grupo de plantillas seleccionado.',
 
 	// Insert Category
 	'catdetails' => 'Detalles de categoría',
 	'cattitle' => 'Nombre de categoría',
-	'desc_cattitle' => 'Nombre de la categoría de base de conocimiento; (<i>p.ej. "Preguntas previas a la compra" o "Preguntas frecuentes sobre el sistema"</i>).',
+	'desc_cattitle' => 'Nombre de la categoría de biblioteca; (<i>p.ej. "Preguntas previas a la compra" o "Preguntas frecuentes sobre el sistema"</i>).',
 	'catdisplayorder' => 'Orden de visualización',
 	'desc_catdisplayorder' => 'El orden en el que se mostrará esta categoría entre las demás categorías (ascendente).',
 	'parentcategory' => 'Categoría superior',
@@ -47,14 +47,14 @@ $__LANG = array (
 	'cattype' => 'Tipo de categoría',
 	'desc_cattype' => '<i>Pública:</i> Visible para usuarios y operadores.<br><br><i>Privada:</i> Visible sólo para operadores a través de su panel de control.',
 	'templategroups' => 'Grupos de plantillas',
-	'desc_templategroups' => 'Los grupos de plantillas bajo las que se mostrará esta categoría de base de conocimiento.',
-	'kbcatinsertconfirm' => 'La categoría "%s" de base de conocimiento se ha insertado correctamente',
+	'desc_templategroups' => 'Los grupos de plantillas bajo las que se mostrará esta categoría de biblioteca.',
+	'kbcatinsertconfirm' => 'La categoría "%s" de biblioteca se ha insertado correctamente',
 
 	// Edit Category
 	'updatecategory' => 'Actualizar categoría',
-	'invalidkbcat' => 'Categoría de base de conocimiento no válida',
+	'invalidkbcat' => 'Categoría de biblioteca no válida',
 	'editcategory' => 'Editar categoría',
-	'kbcatupdateconfirm' => 'Categoría de base de conocimiento "%s" actualizada correctamente',
+	'kbcatupdateconfirm' => 'Categoría de biblioteca "%s" actualizada correctamente',
 	'errornoparent' => 'ERROR: Categoría superior no válida',
 
 	// Manage Articles
@@ -88,15 +88,15 @@ $__LANG = array (
 	'desc_qparentcategory' => 'Esta es la categoría en la que se insertará el artículo.',
 	'insertquestion' => 'Insertar artículo',
 	'selectlink' => 'ERROR: Es necesario seleccionar al menos una categoría',
-	'kbarticleinsertconfirm' => 'Artículo de base de conocimiento "%s" insertado correctamente',
-	'dlarticledelconfirm' => 'Artículo de base de conocimiento eliminado correctamente',
-	'dlarticlesdelconfirm' => 'Artículos de la base de conocimiento eliminados correctamente',
+	'kbarticleinsertconfirm' => 'Artículo de biblioteca "%s" insertado correctamente',
+	'dlarticledelconfirm' => 'Artículo de biblioteca eliminado correctamente',
+	'dlarticlesdelconfirm' => 'Artículos de la biblioteca eliminados correctamente',
 
 	// Edit Question
 	'updatequestion' => 'Actualizar artículo',
 	'editquestion' => 'Editar artículo',
-	'invalidkbarticle' => 'Artículo de base de conocimiento no válido',
-	'kbarticleupdateconfirm' => 'Artículo de base de conocimiento "%s" actualizado correctamente',
+	'invalidkbarticle' => 'Artículo de biblioteca no válido',
+	'kbarticleupdateconfirm' => 'Artículo de biblioteca "%s" actualizado correctamente',
 	'articleoptions' => 'Opciones del artículo',
 	'deletearticle' => 'Eliminar artículo',
 	'exportpdf' => 'Exportar a PDF',
@@ -114,12 +114,12 @@ $__LANG = array (
 	'xmllinkend' => '#### END LINK DATA ####',
 	'exportparentcat' => 'Categoría superior (Sólo artículos)',
 	'import' => 'Importar',
-	'importbase de conocimiento' => 'Importar base de conocimiento',
+	'importbiblioteca' => 'Importar biblioteca',
 	'importxml' => 'Importar',
-	'kbfile' => 'Archivo XML de base de conocimiento',
-	'desc_kbfile' => 'Por favor, seleccione el archivo XML de base de conocimiento desde el que se importarán los datos.',
+	'kbfile' => 'Archivo XML de biblioteca',
+	'desc_kbfile' => 'Por favor, seleccione el archivo XML de biblioteca desde el que se importarán los datos.',
 	'importfileerror' => 'ERROR: La importación ha fallado porque el archivo no se ha podido subir al servidor',
-	'importconfirm' => 'Los datos de la base de conocimiento se han importado correctamente',
+	'importconfirm' => 'Los datos de la biblioteca se han importado correctamente',
 
 	// Comments
 	'comments' => 'Comentarios',
