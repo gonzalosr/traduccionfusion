@@ -42,7 +42,7 @@ $__LANG = array (
 	'desc_statustype' => 'Especifique el tipo de estado. El estado aparecerá únicamente en el área seleccionada de ' . SWIFT_PRODUCT . '.',
 	'desc_statustitle' => 'Introduzca un nombre para el estado.',
 	'desc_statusdisplayorder' => 'Si hay múltiples estados en un area, se ordenarán según el orden de visualización (ascendente) especificado aquí.',
-	'statusdetails' => 'Status Details',
+	'statusdetails' => 'Detalles de estado',
 	'statusinsertconfirm' => 'Teamwork status "%s" inserted successfully',
 
 	// Edit Status
