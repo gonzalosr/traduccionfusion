@@ -15,7 +15,7 @@
  */
 
 $__LANG = array(
-	'troubleshooter' => 'Solucionador',
+	'troubleshooter' => 'Asistente',
 	'categories' => 'Categorías',
 	'titletrcatmismatch' => 'La categoría "%s" ya existe',
 	'msgtrcatmismatch' => SWIFT_PRODUCT . ' no puede insertar la categoría "%s" porque ya existe otra categoría con el mismo nombre.',
@@ -26,10 +26,10 @@ $__LANG = array(
 	'insertcategory' => 'Insertar categoría',
 	'editcategory' => 'Editar categoría',
 
-	'titletrcategoryinsert' => 'Se ha insertado la categoría de solucionador "%s"',
-	'msgtrcategoryinsert' => SWIFT_PRODUCT . ' ha insertado correctamente la categoría de solucionador "%s".',
-	'titletrcategoryupdate' => 'Se ha actualizado la categoria de solucionador "%s"',
-	'msgtrcategoryupdate' => SWIFT_PRODUCT . ' ha actualizado correctamente la categoría de solucionador "%s".',
+	'titletrcategoryinsert' => 'Se ha insertado la categoría de asistente "%s"',
+	'msgtrcategoryinsert' => SWIFT_PRODUCT . ' ha insertado correctamente la categoría de asistente "%s".',
+	'titletrcategoryupdate' => 'Se ha actualizado la categoria de asistente "%s"',
+	'msgtrcategoryupdate' => SWIFT_PRODUCT . ' ha actualizado correctamente la categoría de asistente "%s".',
 	
 	'trcategory' => 'Categoría',
 	'desc_trcategory' => '',
@@ -63,7 +63,7 @@ $__LANG = array(
 	 * ---------------------------------------------
 	 */
 	'titletrstepinsert' => 'Insertado paso "%s"',
-	'msgtrstepinsert' => SWIFT_PRODUCT . ' ha creado correctamente el paso de solucionador "%s".',
+	'msgtrstepinsert' => SWIFT_PRODUCT . ' ha creado correctamente el paso de asistente "%s".',
 	'titletrstepupdate' => 'Actualizado paso "%s"',
 	'msgtrstepupdate' => SWIFT_PRODUCT . ' ha actualizado correctamente el paso "%s".',
 	'insertstep' => 'Insertar paso',
@@ -115,8 +115,8 @@ $__LANG = array(
 	 * VIEW ALL
 	 * ---------------------------------------------
 	 */
-	'tabviewall' => 'Solucionador',
-	'troubleshooterdesc' => 'Los asistentes del solucionador le guiarán a través de una serie de pasos para diagnosticar y resolver problemas comunes. Comience seleccionando una categoría.',
+	'tabviewall' => 'Asistente',
+	'troubleshooterdesc' => 'Los asistentes del asistente le guiarán a través de una serie de pasos para diagnosticar y resolver problemas comunes. Comience seleccionando una categoría.',
 	'trattachments' => 'Adjuntos',
 	'trnextsteps' => 'Siguientes pasos',
 	'trnext' => 'Siguiente &raquo;',

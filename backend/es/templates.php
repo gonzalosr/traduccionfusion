@@ -343,7 +343,7 @@ $__LANG = array (
 	// ======= Category List =======
 	'template_general' => 'General',
 	'template_chat' => 'Soporte chat',
-	'template_troubleshooter' => 'Solucionador',
+	'template_troubleshooter' => 'Asistente',
 	'template_news' => 'Noticias',
 	'template_downloads' => 'Descargas',
 	'template_knowledgebase' => 'Base de conocimiento',

@@ -28,7 +28,7 @@ $__LANG = array (
 	'benchmarkchathistory' => 'Historial de chat',
 	'benchmarkknowledgebase' => 'Base de conocimiento',
 	'benchmarkdownloads' => 'Descargas',
-	'benchmarktroubleshooter' => 'Solucionador',
+	'benchmarktroubleshooter' => 'Asistente',
 	'benchmarknews' => 'Noticias',
 
 	'staffvisibilitycustom' => 'Restringir modificación de valoración a determinados equipos de operadores?',

@@ -300,18 +300,18 @@ $__LANG = array (
 	* ###############################################
 	*/
 	// Troubleshooter Permissions
-	'mod_troubleshooter' => 'Solucionador',
-	'tr_entab' => 'Puede ver la pestaña del solucionador',
+	'mod_troubleshooter' => 'Asistente',
+	'tr_entab' => 'Puede ver la pestaña del asistente',
 	'tsmanagecategories' => 'Puede administrar categorías',
 	'tsmanagesteps' => 'Puede administrar pasos',
 	'tsinsertcategory' => 'Puede insertar categorías',
 	'tseditcategory' => 'Puede editar categorías',
 	'tsdeletecategory' => 'Puede eliminar categorías',
-	'tsaddstep' => 'Puede añadir pasos en solucionador',
+	'tsaddstep' => 'Puede añadir pasos en asistente',
 	'tseditstep' => 'Puede editar un paso existente',
-	'tsdeletestep' => 'Puede eliminar paso de solucionador',
-	'tsexport' => 'Puede exportar datos del solucionador',
-	'tsimport' => 'Puede importar datos del solucionador',
+	'tsdeletestep' => 'Puede eliminar paso de asistente',
+	'tsexport' => 'Puede exportar datos del asistente',
+	'tsimport' => 'Puede importar datos del asistente',
 
 	// Tickets
 	'mod_tickets' => 'Tickets',
