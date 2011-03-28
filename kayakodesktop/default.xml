@@ -313,7 +313,7 @@ Escritorio Kayako usará este número para determinar el color apropiado del ico
   <string id="IDS_RIBBON_WEB_LINKS_ADMINCP">Panel de control de administración</string>
   <string id="IDS_RIBBON_WEB_LINKS_STAFFCP">Panel de control de operadores</string>
   <string id="IDS_RIBBON_WEB_LINKS_TICKETS">Tickets</string>
-  <string id="IDS_RIBBON_WEB_LINKS_KB">Base de conocimiento</string>
+  <string id="IDS_RIBBON_WEB_LINKS_KB">Biblioteca</string>
   
   <string id="IDS_RIBBON_XFER_STAFFGROUP_NOGROUPS">No hay grupos de operadores</string>
   <string id="IDS_RIBBON_XFER_DEPARTMENT_NODEPTS">No hay departamentos</string>
@@ -958,7 +958,7 @@ Es posible que necesite reinstalar Escritorio Kayako.</string>
   <string id="IDS_HOTKEYS_3">App: Pestañas - Siguiente</string>
   <string id="IDS_HOTKEYS_4">App: Pestañas - Cerrar actual</string>
   <string id="IDS_HOTKEYS_5">Servidor: Tickets</string>
-  <string id="IDS_HOTKEYS_6">Servidor: Base de conocimiento</string>
+  <string id="IDS_HOTKEYS_6">Servidor: Biblioteca</string>
   <string id="IDS_HOTKEYS_7">App: Iniciar sesión en todas las cuentas</string>
   <string id="IDS_HOTKEYS_8">App: Cerrar sesión en todas las cuentas</string>
   <string id="IDS_HOTKEYS_9">Servidor: Recargar</string>

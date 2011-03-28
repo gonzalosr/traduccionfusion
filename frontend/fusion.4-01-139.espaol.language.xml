@@ -115,7 +115,7 @@
 <phrase section="livechatclient" code="fieldrating"><![CDATA[Valoración:]]></phrase>
 <phrase section="livechatclient" code="fieldsubject"><![CDATA[Asunto:]]></phrase>
 <phrase section="default" code="file"><![CDATA[Archivo]]></phrase>
-<phrase section="default" code="filterkb"><![CDATA[Base de Conocimientos]]></phrase>
+<phrase section="default" code="filterkb"><![CDATA[Biblioteca]]></phrase>
 <phrase section="default" code="filternews"><![CDATA[Nuevas Categorias]]></phrase>
 <phrase section="default" code="generalinformation"><![CDATA[Información General]]></phrase>
 <phrase section="users" code="generaloptions"><![CDATA[Opciones Generales]]></phrase>
@@ -128,9 +128,9 @@
 <phrase section="default" code="invaliduserdisabled"><![CDATA[Imposible acceder. El usuario está desactivado]]></phrase>
 <phrase section="default" code="invaliduserexpired"><![CDATA[Imposible acceder. El usuario ha expirado]]></phrase>
 <phrase section="default" code="invalidusertgroupres"><![CDATA[Imposible acceder. El grupo de usuario no está autorizado a acceder a este grupo de plantillas.]]></phrase>
-<phrase section="tickets" code="irsloading"><![CDATA[Cargando las sugerencias de la base de conocimientos...]]></phrase>
-<phrase section="tickets" code="irsnoresults"><![CDATA[No se han encontrado articulos relevantes en la base de conocimientos.]]></phrase>
-<phrase section="tickets" code="irssuggestions"><![CDATA[Sugerencias de la base de conocimientos]]></phrase>
+<phrase section="tickets" code="irsloading"><![CDATA[Cargando las sugerencias de la biblioteca...]]></phrase>
+<phrase section="tickets" code="irsnoresults"><![CDATA[No se han encontrado articulos relevantes en la biblioteca.]]></phrase>
+<phrase section="tickets" code="irssuggestions"><![CDATA[Sugerencias de la biblioteca]]></phrase>
 <phrase section="livechatclient" code="istyping"><![CDATA[%s está escribiendo...]]></phrase>
 <phrase section="livechatclient" code="joinedchat"><![CDATA[Ahora está chateando con %s - %s]]></phrase>
 <phrase section="livechatclient" code="joinedchatdep"><![CDATA[Ahora está chateando con %s]]></phrase>
@@ -315,7 +315,7 @@ Un saludo,
 <phrase section="users" code="invalidorganization"><![CDATA[La organización no existe. Por favor contacte al soporte.]]></phrase>
 <phrase section="news" code="invalidsubscriberhash"><![CDATA[Hash de Suscriptor Incorrecto]]></phrase>
 <phrase section="users" code="invalidverifyhash"><![CDATA[Hash de verificación incorrecto o expirado]]></phrase>
-<phrase section="tickets" code="irsdesc"><![CDATA[Los siguientes articulos de la base de conocimientos pueden ser relevantes para lo que está buscando. Por favor, tome un momento para leerlos antes de enviar su ticket.]]></phrase>
+<phrase section="tickets" code="irsdesc"><![CDATA[Los siguientes articulos de la biblioteca pueden ser relevantes para lo que está buscando. Por favor, tome un momento para leerlos antes de enviar su ticket.]]></phrase>
 <phrase section="livechatclient" code="leavemessageconfirmheader"><![CDATA[¡Gracias por contactar con nosotros! Uno de nuestros operadores revisara su petición y le respondera en breve.]]></phrase>
 <phrase section="livechatclient" code="leavemessageheader"><![CDATA[Para ayudarnos a ofrecerle un mejor servicio, por favor indiquenos alguna información antes de enviar su mensaje.]]></phrase>
 <phrase section="livechatclient" code="livechatheader"><![CDATA[Para ayudarnos a ofrecerle un mejor servicio, por favor indiquenos alguna información antes de iniciar el chat.]]></phrase>
@@ -385,7 +385,7 @@ Un saludo,
 %1$s]]></phrase>
 <phrase section="users" code="regsuccessdesc"><![CDATA[Gracias por registrarse. Una copia de sus datos ha sido enviada a su direccion de correo. Por favor, utilice el formulario de Identificación para acceder.]]></phrase>
 <phrase section="default" code="requiredfieldempty"><![CDATA[Una de las casillas requeridas está vacia]]></phrase>
-<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Si usted no encuentra solución a su problema en nuestra base de conocimientos, puede enviar un ticket seleccionando el departamento adecuado.]]></phrase>
+<phrase section="tickets" code="selectdepartmentdesc"><![CDATA[Si usted no encuentra solución a su problema en nuestra biblioteca, puede enviar un ticket seleccionando el departamento adecuado.]]></phrase>
 <phrase section="livechatclient" code="staffnotacceptedchat"><![CDATA[Su mensaje no puede ser enviado. Por favor, espere que un operador atienda su solicitud de chat.]]></phrase>
 <phrase section="ticketemails" code="surveycta"><![CDATA[Para completar la encuesta, por favor haga click en el siguiente vinculo: ]]></phrase>
 <phrase section="tickets" code="surveydesc"><![CDATA[Le agradecemos que dedique unos segundos a completar la encuesta, su opinion es importante para nosotros y nos permite mejorar nuestra atención al cliente]]></phrase>
@@ -423,8 +423,8 @@ Un saludo,
 <phrase section="livechatclient" code="fieldchatstaff"><![CDATA[Operador:]]></phrase>
 <phrase section="ticketemails" code="thstaff"><![CDATA[Operador]]></phrase>
 <phrase section="default" code="defaulttimezone"><![CDATA[-- Zona Horaria Por Defecto --]]></phrase>
-<phrase section="default" code="widgetknowledgebase"><![CDATA[Base de Conocimientos]]></phrase>
-<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Base de Conocimientos]]></phrase>
+<phrase section="default" code="widgetknowledgebase"><![CDATA[Biblioteca]]></phrase>
+<phrase section="knowledgebase" code="knowledgebase"><![CDATA[Biblioteca]]></phrase>
 <phrase section="default" code="on"><![CDATA[el]]></phrase>
 <phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.granviaabogados.com" target="_blank" class="bottomfooterlink">Gran Vía Abogados Murcia</a> - Centro de soporte]]></phrase>
 <phrase section="default" code="poweredby"><![CDATA[Centro de Soporte - Gran Vía Abogados Murcia]]></phrase>
