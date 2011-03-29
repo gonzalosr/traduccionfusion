@@ -57,7 +57,7 @@ $__LANG = array (
 	'al_updateproperties' => 'Actualizadas las propiedades del ticket. Asunto: %s > %s, Nombre: %s > %s, Email: %s > %s',
 
 	'al_newforward' => 'Nuevo mensaje reenviado creado por %s (%s)',
-	'al_escalated' => 'Ticket cambiado de nivel según regla: %s',
+	'al_escalated' => 'Ticket priorizado según regla: %s',
 	'al_print' => 'Ticket imprimido por: %s',
 	'al_cleardraft' => 'Borrador de ticket eliminado por: %s',
 	'al_savedraft' => 'Borrador de ticket guardado por: %s',
