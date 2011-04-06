@@ -48,7 +48,7 @@ $__LANG = array (
 	'cronsearchengine' => 'Reconstrucción de índices de búsqueda',
 	'tickets' => 'Acciones de módulo tickets (Priorizaciones, limpiezas etc)',
 	'parser' => 'Recuperación correo POP3/IMAP',
-	'parsercleanup' => 'Limpieza procesador de correo',
+	'parsercleanup' => 'Limpieza Procesador de correo',
 	'livechat' => 'Limpieza de sistema de chat',
 	'newssync' => 'Sincronización de noticias',
 	// ======= BEGIN v3 IMPORT =======

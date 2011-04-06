@@ -495,7 +495,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				5 => array ('Recoge-todo', '/Parser/CatchAll/Manage'),
 				6 => array ('Bloqueos de bucle', '/Parser/LoopBlock/Manage'),
 				7 => array ('Reglas de bucle', '/Parser/LoopRule/Manage'),
-				9 => array ('Log de procesador', '/Parser/ParserLog/Manage'),
+				9 => array ('Log de Procesador', '/Parser/ParserLog/Manage'),
 			),
 
 		5 => array (
@@ -607,7 +607,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 	// Log stuff
 	if (SWIFT_PRODUCT == 'Fusion' || SWIFT_PRODUCT == 'Resolve')
 	{
-		$_adminBarItemContainer[9][2] = array ('Log de procesador', '/Parser/ParserLog/Manage');
+		$_adminBarItemContainer[9][2] = array ('Log de Procesador', '/Parser/ParserLog/Manage');
 	}
 
 	if (SWIFT_PRODUCT == 'Fusion' || SWIFT_PRODUCT == 'Engage')

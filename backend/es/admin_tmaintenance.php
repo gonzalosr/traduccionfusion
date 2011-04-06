@@ -34,7 +34,7 @@ $__LANG = array (
 	'indexseterror' => 'Nota: el método de búsqueda por defecto es "texto completo". Para usar el motor de búsqueda incorporado, cambie el <b>Tipo de búsqueda</b> en <i>Configuración > Tickets</i>.',
 	'rebuild' => 'Reconstruir',
 	'postperpass' => 'Tamaño de pasada',
-	'desc_postperpass' => 'Introduzca el número de respuestas de ticket que se procesarán en una sola pasada <i>(defecto = 100).</i><br/><br/>Debido a restricciones de memoria y procesador, no se recomienda que este valor sea superior a (100).<br/><br/><font color="cc3300">Nota: Durante el proceso de una pasada, el reloj <i>no</i> se actualizará, pero el proceso seguirá ejecutándose!</font>',
+	'desc_postperpass' => 'Introduzca el número de respuestas de ticket que se procesarán en una sola pasada <i>(defecto = 100).</i><br/><br/>Debido a restricciones de memoria y Procesador, no se recomienda que este valor sea superior a (100).<br/><br/><font color="cc3300">Nota: Durante el proceso de una pasada, el reloj <i>no</i> se actualizará, pero el proceso seguirá ejecutándose!</font>',
 	'reindexheader' => '<b>Proceso de reindexado</b>',
 	'totalposts' => 'Total de respuestas en la base de datos:',
 	'postsprocesed' => 'Número de respuestas procesadas:',
