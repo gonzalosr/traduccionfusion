@@ -309,7 +309,7 @@ Un saludo,
 
 
 %1$s]]></phrase>
-<phrase section="users" code="generatepasswordfooter"><![CDATA[Para más información o si usted cree esto se ha hecho sin ser solicitado, visite por favor nuestro servicio de ayuda haciendo clic en enlace de abajo.]]></phrase>
+<phrase section="users" code="generatepasswordfooter"><![CDATA[Para más información o si la petición se ha realizado sin ser solicitada por usted, visite por favor nuestro servicio de ayuda haciendo clic en enlace de abajo.]]></phrase>
 <phrase section="users" code="generatepasswordintro"><![CDATA[Su contraseña para acceder a nuestro centro de soporte ha sido reseteada y está especificada a continuación:]]></phrase>
 <phrase section="tickets" code="invalidattachments"><![CDATA[Su archivo adjunto ha sido rechazado (por tamaño o restricciones de extension): %s]]></phrase>
 <phrase section="users" code="invalidorganization"><![CDATA[La organización no existe. Por favor contacte al soporte.]]></phrase>
@@ -412,9 +412,9 @@ Un saludo,
 <phrase section="default" code="login"><![CDATA[Acceder]]></phrase>
 <phrase section="default" code="subscribe"><![CDATA[Suscribirse]]></phrase>
 <phrase section="ticketemails" code="surveydescription1"><![CDATA[Para mejorar la calidad de nuestro servicio, nos gustaría conocer su opinión.]]></phrase>
-<phrase section="livechatclient" code="proactivetitle"><![CDATA[Alguna duda?]]></phrase>
+<phrase section="livechatclient" code="proactivetitle"><![CDATA[¿Tiene una consulta?]]></phrase>
 <phrase section="livechatclient" code="proactivemsg"><![CDATA[Nuestros agentes estan listos para atenderle. Pulse &quot;Chatear Ahora&quot; para ser conectado con ellos instantáneamente.]]></phrase>
-<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Por favor, escriba su duda aquí]]></phrase>
+<phrase section="default" code="pleasetypeyourquestion"><![CDATA[Por favor, escriba su consulta aquí]]></phrase>
 <phrase section="default" code="nosearchresults"><![CDATA[No se han encontrado resultados]]></phrase>
 <phrase section="default" code="searchbutton"><![CDATA[BUSCAR]]></phrase>
 <phrase section="default" code="searchresults"><![CDATA[Resultados de búsqueda]]></phrase>
