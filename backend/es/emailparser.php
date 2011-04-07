@@ -94,7 +94,7 @@ $__LANG = array (
 	'errorlockfilefound' => '[ERROR]: Encontrado archivo de bloqueo! (./files/parser.lockfile). Se ha encontrado un archivo de bloqueo, que impide la ejecución. Si es una instancia de cron inactiva por favor elimine el archivo para continuar. Para eliminar el archivo manualmente por favor <a href="%s">haga click aquí</a>',
 	'lockfileexpired' => '[AVISO]: Se ha encontrado un archivo de bloqueo caducado (./files/parser.lockfile) de una sesión previa de cron. Eliminando automáticamente...',
 	'errtoobig' => 'Tamaño máximo de mensaje %s excedido; tamaño de mensaje: %s',
-	'autorespondernotsent' => ' (Autorrespuesta no enviada debido a configuración actual)',
+	'autorespondernotsent' => ' (acuse de recibo no enviada debido a configuración actual)',
 	// ======= END v3 CVS UPDATE IMPORT =======
 
 	'mailparser' => 'Procesador de correo',
@@ -140,9 +140,9 @@ $__LANG = array (
 	'desc_queuesignature' => 'Introduzca la firma de la cola. Esta firma se añadirá a todos los emails salientes en esta cola.',
 	'registrationrequired' => 'Necesario registro?',
 	'desc_registrationrequired' => 'Si se activa, solo usuarios <b>registrados</b> podrán crear nuevos tickets enviando un mensaje a esta dirección de email de cola. Los usuarios no registrados podrán enviar tickets a través del Centro de Soporte.',
-	'issueautoresponder' => 'Activar autorrespuesta nuevo ticket?',
+	'issueautoresponder' => 'Activar acuse de recibo nuevo ticket?',
 	'desc_issueautoresponder' => 'Si está activado, el sistema enviará un mensaje confirmando la recepción de un nuevo ticket.',
-	'replyautoresponder' => 'Activar autorrespuesta nueva respuesta?',
+	'replyautoresponder' => 'Activar acuse de recibo nueva respuesta?',
 	'desc_replyautoresponder' => 'Si está activado, el sistema enviará un mensaje confirmando la recepción de una nueva respuesta a un ticket existente.',
 
 	'ticketfields' => 'Campos de ticket',
@@ -240,7 +240,7 @@ $__LANG = array (
 	'reprocessemail' => 'Reprocesar email',
 
 	// Loop Cutter
-	'pr_loopcutter_prevents_autoresponder_desc' => ' (Autorrespuesta no enviada debido a control de bucles)',
+	'pr_loopcutter_prevents_autoresponder_desc' => ' (acuse de recibo no enviada debido a control de bucles)',
 	'pr_mangelooprules' => 'Reglas de bucles',
 	'pr_loopcontrolrules' => 'Reglas de control de bucles',
 	'pr_manageloopblockages' => 'Bloqueos de bucles',
@@ -259,8 +259,8 @@ $__LANG = array (
 	'pr_newloopcontrolrestoreafter_title' => 'Restaurar tras',
 	'pr_newloopcontrolrestoreafter_desc' => 'Es el tiempo tras el que se eliminará el bloqueo, en segundos.',
 	'pr_new_loop_control_rule_added_desc' => 'Añadida nueva regla de control de bucles.',
-	'pr_desc_loopblockages_filler' => 'A continuación hay una lista de bloqueos activos. Las direcciones de la lista activaron una o más reglas de control de bucles (<i>Procesador de correo >> Administrar reglas de bucles</i>).  Dependiendo de la configuración activa (<i>Configuración >> Procesador de correo >> Configuración de control de bucles</i>), el correo entrante desde estas direcciones será ignorado por ' . SWIFT_PRODUCT . ' y no se les enviarán mensajes de autorrespuesta.  Esta configuración será efectiva para cada bloqueo hasta que caduque.',
-	'pr_desc_looprules_filler' => 'A continuación hay una lista de reglas de control de bucles. Estas reglas impiden que se produzcan bucles de autorrespuesta u otras situaciones de flood de correo y todos los emails entrantes están sujetos a ellas. Si se activa una regla, la configuración (<i>Configuración >> Procesador de correo >> Configuración de control de bucles</i>) se aplicará. Esto permite que ' . SWIFT_PRODUCT . ' ignore los mensajes y/o no responda con una autorrespuesta. Los bloqueos creados por estas reglas se eliminan automáticamente tras un tiempo especificado.',
+	'pr_desc_loopblockages_filler' => 'A continuación hay una lista de bloqueos activos. Las direcciones de la lista activaron una o más reglas de control de bucles (<i>Procesador de correo >> Administrar reglas de bucles</i>).  Dependiendo de la configuración activa (<i>Configuración >> Procesador de correo >> Configuración de control de bucles</i>), el correo entrante desde estas direcciones será ignorado por ' . SWIFT_PRODUCT . ' y no se les enviarán mensajes de acuse de recibo.  Esta configuración será efectiva para cada bloqueo hasta que caduque.',
+	'pr_desc_looprules_filler' => 'A continuación hay una lista de reglas de control de bucles. Estas reglas impiden que se produzcan bucles de acuse de recibo u otras situaciones de flood de correo y todos los emails entrantes están sujetos a ellas. Si se activa una regla, la configuración (<i>Configuración >> Procesador de correo >> Configuración de control de bucles</i>) se aplicará. Esto permite que ' . SWIFT_PRODUCT . ' ignore los mensajes y/o no responda con una acuse de recibo. Los bloqueos creados por estas reglas se eliminan automáticamente tras un tiempo especificado.',
 	'pr_loop_rule_deleted' => 'Regla eliminada.',
 	'pr_loop_block_deleted' => 'Bloqueo eliminado.',
 	'invalidlooprule' => 'Regla de corte de bucles no válida. Asegúrese de que el registro existe en la base de datos.',
