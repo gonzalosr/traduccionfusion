@@ -492,7 +492,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				2 => array ('Reglas', '/Parser/Rule/Manage'),
 				3 => array ('Líneas de corte', '/Parser/Breakline/Manage'),
 				4 => array ('Bloqueados', '/Parser/Ban/Manage'),
-				5 => array ('Recoge-todo', '/Parser/CatchAll/Manage'),
+				5 => array ('Recoge-Todo', '/Parser/CatchAll/Manage'),
 				6 => array ('Bloqueos de bucle', '/Parser/LoopBlock/Manage'),
 				7 => array ('Reglas de bucle', '/Parser/LoopRule/Manage'),
 				9 => array ('Log de Procesador', '/Parser/ParserLog/Manage'),
