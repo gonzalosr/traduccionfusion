@@ -69,7 +69,6 @@ $__LANG = array (
 	'ticketlinks' => 'Enlaces',
 	'ticketbayes' => 'Categorías Bayesianas',
 	'ticketslaplans' => 'Planes SLA',
-    'ticketautocloserules' => 'Reglas de autocierre',
 	'ticketslaschedules' => 'Calendarios SLA',
 	'staff_ticketbilling' => 'Facturación de tickets',
 	'staff_tcanforward' => 'Puede reenviar tickets',
