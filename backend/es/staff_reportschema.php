@@ -96,7 +96,7 @@ $__LANG = array (
 	'tf_tickets.escalationlevelcount' => 'Contador de priorización de ticket',
 	'tf_tickets.resolutiondateline' => 'Hora de resolución de ticket',
 	'tf_tickets.wasreopened' => 'El ticket fue reabierto',
-	'tf_tickets.reopenedateline' => 'Hora en que fue reabierto',
+	'tf_tickets.reopendateline' => 'Hora en que fue reabierto',
 	'tf_tickets.resolutionseconds' => 'Segundos de resolución del ticket',
 	'tf_tickets.resolutionduedateline' => 'Hora de vencimiento de la resolución del ticket',
 	'tf_tickets.isresolved' => 'El ticket está resuelto',
@@ -122,9 +122,9 @@ $__LANG = array (
 	'tf_chatskilllinks.chatskillid' => 'ID especialidad de enlace de especialidad de chat',
 	'tf_chatskilllinks.staffid' => 'ID operador de enlace de especialidad de chat',
 	'tf_slaplans.isenabled' => 'Plan SLA activado',
-	'tf_slaplans.overduehours' => 'Horas vencido el Plan SLA',
+	'tf_slaplans.overduehrs' => 'Horas vencido el Plan SLA',
 	'tf_slaplans.resolutionhours' => 'Horas resolución Plan SLA',
-	'tf_slaplans.resolutionduehours' => 'Horas vencida la resolucion Plan SLA',
+	'tf_slaplans.resolutionduehrs' => 'Horas vencida la resolucion Plan SLA',
 	'tf_slaplans.title' => 'Nombre Plan SLA',
 	'tf_benchmarkresults.benchmarkresult' => 'Valoración',
 	'tf_benchmarkresults.staffid' => 'ID operador resultado valoración',
@@ -152,5 +152,4 @@ $__LANG = array (
 	'tab_useremails' => 'Emails de usuario',
 	'tab_tickettimetracks' => 'Facturación',
 );
-
 ?>
