@@ -37,6 +37,7 @@ $__LANG = array(
 	'sactivestaff' => '-- Operador activo --',
 	'tnavnextticket' => 'Siguiente ticket &raquo;',
 	'tnavprevticket' => '&laquo; Ticket anterior',
+	'tagaddtorecp' => 'Añadir a destinatarios',
 
 	/**
 	 * ---------------------------------------------
@@ -173,7 +174,7 @@ $__LANG = array(
 	'nt_sendmail' => 'Enviar email',
 	'nt_asuser' => 'Como usuario/telefónico',
 	'newticket_type' => 'Tipo',
-	'desc_newticket_type' => 'Seleccione el tipo de ticket que desea crear.<br /><br /><i>Enviar email:</i> Envía un email a una dirección de email (funciona como un cliente de correo electrónico)<br /><i>Como usuario/telefónico:</i> Crear un ticket o registrar una llamada telefónica entrante en la cuenta de un usuario.',
+	'desc_newticket_type' => 'Seleccione el tipo de ticket que desea crear.<br /><br /><i>Enviar email:</i> Envía un email a una dirección de email (funciona como un cliente de correo electrónico)<br /><i>Como usuario/telefónico:</i> Crea un ticket o registra una llamada telefónica entrante en la cuenta de un usuario.',
 	'nt_next' => 'Siguiente',
 	'tabnewticket' => 'Nuevo ticket',
 	'dispatchcreate' => 'Crear',
