@@ -7,11 +7,14 @@ Esta es una traducción ¡completa! (backend, frontend y Kayako Desktop) y un po
 
 Actualmente las versiones soportadas son: 
 
+Kayako Fusion:
 - 4.01.139
 - 4.01.204
 
-Descarga los archivos de cada una de ellas cambiando de branch arriba.
+Descarga los archivos de cada una de ellas cambiando de branch arriba. (actualmente el master es 4.01.204)
 
+Kayako Desktop:
+- 4.0.3.550-STABLE
 
 La traducción del Frontend está basada en la de SYS4NET (gracias SYS4NET!) que está en los foros de Kayako: http://forums.kayako.com/attachments/fusion-4-00-966-espaol-language-xml.1491/
 
@@ -33,6 +36,10 @@ C:\Program Files\Kayako\Desktop\lang, renombrando previamente el default.xml que
 
 
 CRÉDITOS
+
+Traducción realizada por:
+GonzaloSR 
+http://www.gonzalosr.com
 
 Esta traducción me ha llevado muchas horas, si te sirve invítame a un café: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2VDJTLCKMWLQS
 
