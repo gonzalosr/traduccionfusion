@@ -27,7 +27,6 @@ $__LANG = array (
 	'al_owner' => 'Reponsable de ticket cambiado de: %s a: %s', // DONE
 	'al_priority' => 'Prioridad de ticket cambiada de: %s a: %s', // DONE
 	'al_status' => 'Estado de ticket cambiado de: %s a: %s', // DONE
-	'al_statusautoclose' => 'Estado del ticket cambiado de: %s a: %s (por autocierre)', // DONE
 	'al_type' => 'Tipo de ticket cambiado de: %s a: %s', // DONE
 	'al_department' => 'Departamento del ticket cambiado de: %s a: %s', // DONE
 	'al_due' => 'Estableciendo vencimiento a: %s', // DONE
