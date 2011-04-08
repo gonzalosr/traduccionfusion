@@ -1,14 +1,41 @@
 Bienvenidos!
 
-Esta es una traducción ¡completa! y un poco libre del backend de operador y administración de Kayako fusion v4, comenzando por la versión 4.01.139
 
-También está la traducción del Frontend, basada en la de SYS4NET que está en los foros de Kayako: http://forums.kayako.com/attachments/fusion-4-00-966-espaol-language-xml.1491/ y actualizada para funcionar con la versión 4.01.139;
+DESCRIPCIÓN
 
-Para usar el frontend sólo hay que buscar la cadena "MI EMPRESA" e ir sustituyendo las referencias por las de tu empresa.
+Esta es una traducción ¡completa! (backend, frontend y Kayako Desktop) y un poco libre de Kayako fusion v4.
 
-Y la traducción completa de la aplicación Kayako Desktop.
+Actualmente las versiones soportadas son: 
 
-Debido a que los archivos van cambiando y no funcionan de una versión a otra, iré haciendo branches según cambie la versión de Fusion.
+- 4.01.139
+- 4.01.204
+
+Descarga los archivos de cada una de ellas cambiando de branch arriba.
+
+
+La traducción del Frontend está basada en la de SYS4NET (gracias SYS4NET!) que está en los foros de Kayako: http://forums.kayako.com/attachments/fusion-4-00-966-espaol-language-xml.1491/
+
+
+
+INSTALACIÓN
+
+-- BACKEND
+El directorio "es" que hay dentro del directorio "backend" debe copiarse completo en la ruta /instalacionfusion/__swift/locale/
+
+Hay que recordar que el código ISO es "es" y NO "ES-es". Si se pone otro código no funcionará, especialmente dará errores si no coinciden los códigos ISO del XML de Frontend y del backend.
+
+-- FRONTEND
+Para usar el frontend sólo hay que buscar la cadena "MI EMPRESA" e ir sustituyendo las referencias por las de tu empresa. Después importa el XML a tu instalación de Fusion.
+
+-- KAYAKO DESKTOP
+Para instalar el idioma en Kayako Desktop ejecuta el instalador del programa y a continuación copia el archivo default.xml a la ruta: 
+C:\Program Files\Kayako\Desktop\lang, renombrando previamente el default.xml que hay ahí a "en.xml".
+
+
+CRÉDITOS
 
 Esta traducción me ha llevado muchas horas, si te sirve invítame a un café: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2VDJTLCKMWLQS
 
+
+Gracias!
+GonzaloSR
