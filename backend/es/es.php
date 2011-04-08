@@ -505,7 +505,6 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				3 => array ('Prioridades', '/Tickets/Priority/Manage'),
 				4 => array ('Tipos de archivo', '/Tickets/FileType/Manage'),
 				5 => array ('Enlaces', '/Tickets/Link/Manage'),
-				8 => array ('Autocierre', '/Tickets/AutoClose/Manage'),
 				7 => array ('Mantenimiento', '/Tickets/Maintenance/Index'),
 			),
 
