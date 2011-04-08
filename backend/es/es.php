@@ -280,7 +280,7 @@ $__LANG = array (
 	'passworddontmatch' => 'La nueva contraseña no concuerda o está vacía',
 	'defaulttimezone' => '-- Zona horaria por defecto --',
 	'tagcloud' => 'Nube de etiquetas',
-	'searchmodeactive' => 'Búsqueda avanzada activa',
+	'searchmodeactive' => 'Resultados filtrados',
 	'titlesearchfailed' => '"0" Resultados encontrados',
 	'msgsearchfailed' => SWIFT_PRODUCT . ' no ha podido encontrar ningún registro que concuerde con los criterios especificados.',
 	'quickfilter' => 'Filtro rápido',
@@ -505,6 +505,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				3 => array ('Prioridades', '/Tickets/Priority/Manage'),
 				4 => array ('Tipos de archivo', '/Tickets/FileType/Manage'),
 				5 => array ('Enlaces', '/Tickets/Link/Manage'),
+				8 => array ('Autocierre', '/Tickets/AutoClose/Manage'),
 				7 => array ('Mantenimiento', '/Tickets/Maintenance/Index'),
 			),
 
