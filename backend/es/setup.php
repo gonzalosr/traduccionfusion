@@ -37,7 +37,6 @@ $__LANG = array (
 	'tickettypefeedback' => 'Comentarios',
 	'sladefaultschedule' => 'Programación por defecto',
 	'sladefaultplan' => 'Plan 12 horas por defecto',
-	'sautocloserule' => 'Regla de autocierre por defecto',
 	'defaultrule' => 'Regla por defecto',
 	'spam' => 'Spam',
 	'nospam' => 'No Spam',
