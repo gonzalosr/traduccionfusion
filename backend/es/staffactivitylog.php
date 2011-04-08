@@ -44,7 +44,7 @@ $__LANG = array (
 	'activityspamcomment' => 'Marcado comentario de %s (%s) como spam',
 	'activitynotspamcomment' => 'Marcado comentario de %s (%s) como no spam',
 
-	
+
 	// ======= BEGIN TROUBLESHOOTER =======
 	'activitydeletetroubleshootercategory' => 'Eliminado ©: %s',
 	'activityinserttrcategory' => 'Insertada categoría de Asistente: %s',
@@ -255,6 +255,11 @@ $__LANG = array (
 	'activityupdateescalation' => 'Actualizada regla de priorización: %s',
 	'activityinsertescalation' => 'Insertada regla de priorización: %s',
 	'activityescalationruledelete' => 'Eliminada regla de priorización: %s',
+	'activityautocloseinsert' => 'Insertada regla de autocierre: %s',
+	'activityautocloseupdate' => 'Actualizada regla de autocierre: %s',
+	'activityautoclosedelete' => 'Eliminada regla de autocierre: %s',
+	'activityautocloseenable' => 'Activada regla de autocierre: %s',
+	'activityautoclosedisable' => 'Deshabilitada regla de autocierre: %s',
 	'activityslaplaninsert' => 'Insertado plan SLA: %s',
 	'activityslaplanupdate' => 'Actualizado plan SLA: %s',
 	'activityslaplandelete' => 'Eliminado plan SLA: %s',
