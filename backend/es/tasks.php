@@ -51,6 +51,7 @@ $__LANG = array (
 	'parsercleanup' => 'Limpieza Procesador de correo',
 	'livechat' => 'Limpieza de sistema de chat',
 	'newssync' => 'Sincronización de noticias',
+	'ticketautoclose' => 'Autocierre de ticket',
 	// ======= BEGIN v3 IMPORT =======
 	'ticketfollowup' => 'Seguimiento de tickets',
 	// ======= END v3 IMPORT =======
