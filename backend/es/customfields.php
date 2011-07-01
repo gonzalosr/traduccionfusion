@@ -17,6 +17,8 @@
 $__LANG = array (
 	// ======= BEGIN NEW V4 LOCALES =======
 	'tabgeneral' => 'General',
+	'visibilitytype' => 'Visibilidad',
+	'desc_visibilitytype' => 'Especifique la visibilidad del grupo de campos personalizados. Los grupos privados no serán visibles en el centro de soporte.',
 	'insertcfgrouptitle' => 'Se ha insertado el grupo de campos personalizados "%s"',
 	'insertcfgroupmsg' => 'Se ha insertado correctamente el grupo de campos personalizados "<b>%s</b>" en la base de datos.<br><b>Nombre:</b> %s<br><b>Tipo:</b> %s<br><b>Orden de visualización:</b> %s',
 	'updatecfgrouptitle' => 'Se ha actualizado el grupo de campos personalizados "%s"',

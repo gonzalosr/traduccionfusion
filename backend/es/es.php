@@ -270,6 +270,7 @@ $__LANG = array (
 	'pwmedium' => 'Media',
 	'pwstrong' => 'Fuerte',
 	'pwverystrong' => 'Muy fuerte',
+	'pwunsafeword' => '¡Contraseña insegura!',
 	'staffpasswordpolicy' => '<span class="tabletitle">Política de contraseñas:</span> Longitud mínima de contraseña: %d, Mínimo de caracteres numéricos que debe incluir: %d, Número mínimo de símbolos: %d, Número mínimo de mayúsculas: %d',
 	'titlepwpolicy' => 'Error de política de contraseñas',
 	'msgpwpolicy' => 'La contraseña especificada no concuerda con los requisitos de la política de contraseñas.',
@@ -569,6 +570,7 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 
 		21 => array (
 				0 => array ('Configuración', '/KnowledgeBase/SettingsManager/Index'),
+				1 => array ('Mantenimiento', '/KnowledgeBase/Maintenance/Index'),
 			),
 
 		22 => array (

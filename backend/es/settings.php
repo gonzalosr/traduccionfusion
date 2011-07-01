@@ -384,6 +384,8 @@ $__LANG = array (
 	'desc_pr_conversion' => 'Si se activa, ' . SWIFT_PRODUCT . ' intentará convertir automáticamente el correo entrante al juego de caracteres por defecto del helpdesk (<i>p.ej. si el helpdesk usa UTF-8 y se recibe un email que usa ISO-8859-1, se convertirá a UTF-8 antes de añadirse al sistema</i>).',
 
 	// ======= TICKETS =======
+	't_cleanmailsubjects' => 'Activar limpiar asuntos de emails?',
+	'd_t_cleanmailsubjects' => 'Si se activa, se añadirá el identificador de ticket (separado por signo +) a la dirección alias de procedencia (ventas+ABC-123-4567@acme.com) en lugar de incluírlo en el asunto del email.<br /><br /><b>FUNCIÓN EXPERIMENTAL:</b> Esta función es experimental y no recomendamos su activación para uso en producción sin un testeo completo. Aunque los alias de email con el símbolo + son válidos, podrían no funcionar con algunos MTA.',
 	't_spamhandling' => 'Configuración de control de Spam',
 	't_spammovetotrash' => '¿Mover el spam a la basura?',
 	'd_t_spammovetotrash' => 'Si se activa, todos los tickets marcados como spam se moverán automáticamente a la basura.',
@@ -476,6 +478,10 @@ $__LANG = array (
 	'd_t_maxattach' => 'El número máximo de archivos que se pueden adjuntar a una respuesta de ticket. Si se permiten archivos particularmente grandes, se recomienda que se edite la opción <i>upload_max_filesize</i> del archivo php.ini (Archivo de configuración PHP) para reflejar este tamaño.',
 	't_slaresets' => 'Reiniciar contador de vencimiento tras respuesta de operador',
 	'd_t_slaresets' => 'Si se activa, el contador de tiempo de vencimiento de SLA se reiniciará automáticamente cuando un operador responda a un ticket. Se recalculará el tiempo de vencimiento cuando el usuario responda de nuevo al ticket.',
+	't_cstaffname' => 'Activar reemplazo del nombre del operador',
+	'd_t_cstaffname' => 'Permite reemplazar el nombre de operador que ven los usuarios en el centro de soporte por una palabra clave común como "Soporte"',
+	't_cdisplayname' => 'Nombre de operador de reemplazo',
+	'd_t_cdisplayname' => 'Especifique aquí la palabra clave que se mostrará si la opción anterior está activada.',
 	't_cthirdparty' => 'Los usuarios pueden ver respuestas de terceros',
 	'd_t_cthirdparty' => 'Si se activa, los usuarios podrán ver respuestas de terceros en el Centro de Soporte.',
 	't_cenattach' => 'Usuarios pueden subir adjuntos',

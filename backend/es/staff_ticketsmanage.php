@@ -38,6 +38,7 @@ $__LANG = array(
 	'tnavnextticket' => 'Siguiente ticket &raquo;',
 	'tnavprevticket' => '&laquo; Ticket anterior',
 	'tagaddtorecp' => 'Añadir a destinatarios',
+	'massreply' => 'Respuesta masiva',
 
 	/**
 	 * ---------------------------------------------
