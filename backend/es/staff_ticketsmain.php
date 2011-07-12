@@ -24,6 +24,7 @@ $__LANG = array(
 	'trash' => 'Basura',
 	'spam' => 'Spam',
 	'watch' => 'Vigilar',
+	'qticketpost' => 'Citar mensaje',
 
 	// Tree
 	'filtertickets' => 'Filtrar tickets',
