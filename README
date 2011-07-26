@@ -29,7 +29,10 @@ El directorio "es" que hay dentro del directorio "backend" del repositorio debe 
 Hay que recordar que el código ISO es "es" y NO "ES-es". Si se pone otro código no funcionará, especialmente dará errores si no coinciden los códigos ISO del XML de Frontend y del backend.
 
 -- FRONTEND (Zona de usuarios)
-Importa el XML a tu instalación de Fusion en la sección Languages del panel de administración. Recuerda que el código de idioma debe ser "es", codificación UTF-8.
+
+Hay dos versiones la versión "ticket" y la versión "consulta". La diferencia entre ambas consiste en que la "consulta" se sustituye el término ticket por consulta, para más facilidad si los usuarios no son muy técnicos. Hay que reconocerlo, ticket suena a supermercado.
+
+Importa el XML de tu elección a tu instalación de Fusion en la sección Languages del panel de administración. Recuerda que el código de idioma debe ser "es", codificación UTF-8.
 
 -- KAYAKO DESKTOP (Aplicación de escritorio para chats de Fusion)
 Para instalar el idioma en Kayako Desktop ejecuta el instalador del programa y a continuación copia el archivo default.xml a la ruta: 
