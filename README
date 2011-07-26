@@ -11,15 +11,12 @@ Kayako Fusion:
 - 4.01.139
 - 4.01.179
 - 4.01.204
-- 4.01.240 (sólo el backend, el frontend está en proceso)
+- 4.01.240
 
-Descarga los archivos de cada una de ellas cambiando de branch(rama) arriba y a continuación pulsa el botón "Downloads" que hay en la parte superior derecha. (actualmente la rama master es 4.01.204)
+Descarga los archivos de cada una de ellas cambiando de branch(rama) arriba y a continuación pulsa el botón "Downloads" que hay en la parte superior derecha. (actualmente la rama master es 4.01.240)
 
 Kayako Desktop:
 - 4.0.3.550-STABLE
-
-La traducción del Frontend está basada en la de SYS4NET (gracias SYS4NET!) que está en los foros de Kayako: http://forums.kayako.com/attachments/fusion-4-00-966-espaol-language-xml.1491/
-
 
 
 INSTALACIÓN
@@ -32,7 +29,7 @@ El directorio "es" que hay dentro del directorio "backend" del repositorio debe 
 Hay que recordar que el código ISO es "es" y NO "ES-es". Si se pone otro código no funcionará, especialmente dará errores si no coinciden los códigos ISO del XML de Frontend y del backend.
 
 -- FRONTEND (Zona de usuarios)
-Para usar el frontend sólo hay que buscar la cadena "MI EMPRESA" e ir sustituyendo las referencias por las de tu empresa. Después importa el XML a tu instalación de Fusion en la sección Languages del panel de administración.
+Importa el XML a tu instalación de Fusion en la sección Languages del panel de administración. Recuerda que el código de idioma debe ser "es", codificación UTF-8.
 
 -- KAYAKO DESKTOP (Aplicación de escritorio para chats de Fusion)
 Para instalar el idioma en Kayako Desktop ejecuta el instalador del programa y a continuación copia el archivo default.xml a la ruta: 
