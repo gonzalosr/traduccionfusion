@@ -49,6 +49,7 @@ $__LANG = array (
 	'reset' => 'Resetear',
 	'poweredby' => 'Software Helpdesk por Kayako %s',
 	'copyright' => 'Copyright &copy; 2001-%s Kayako',
+	'notifycsrfhash' => 'Detectado intento de CSRF. No se realizará la acción solicitada.',
 	'titlecsrfhash' => 'Hash CSRF no válido',
 	'msgcsrfhash' => SWIFT_PRODUCT . ' ha detectado un intento de Cross Site Request Forgery y no puede continuar con la acción solicitada.',
 	'invaliduser' => 'Usuario o contraseña no válidos',
@@ -94,6 +95,7 @@ $__LANG = array (
 	'winapp' => 'Winapp',
 	'pdainterface' => 'PDA Interface',
 	'kayakomobile' => 'Kayako Mobile',
+	'staffapi' => 'API operadores',
 	'bytes' => 'Bytes',
 	'kb' => 'KB',
 	'mb' => 'MB',
@@ -177,6 +179,7 @@ $__LANG = array (
 	'loggedinas' => 'Iniciada la sesión: ',
 	'tcustomize' => 'Personalizar...',
 	'reports' => 'Informes',
+	'notifydemomode' => 'Permiso denegado. El producto está en modo demo.',
 	'demomode' => 'No se puede realizar la acción en modo demo',
 	'titledemomode' => 'Imposible continuar',
 	'msgdemomode' => 'No se puede realizar la acción solicitada en modo demo',
@@ -187,6 +190,7 @@ $__LANG = array (
 	'uploadedimages' => 'Imágenes subidas',
 	'tabinsert' => 'Insertar',
 	'tabedit' => 'Editar',
+	'notifyfieldempty' => 'Uno de los campos imprescndibles está vacío',
 	'titlefieldempty' => 'Datos no válidos, imposible continuar.',
 	'msgfieldempty' => 'Uno de los campos necesarios está vacío o contiene datos no válidos. Por favor, asegúrese de que ha introducido toda la información necesaria en los campos en el formato adecuado.',
 	'save' => 'Guardar',
@@ -203,6 +207,7 @@ $__LANG = array (
 	'language' => 'Idioma',
 	'loginshare' => 'LoginShare',
 	'defaultloginshare' => SWIFT_PRODUCT.' LoginShare',
+	'licenselimit_unabletocreate' => 'No se puede crear un nuevo operador ya que ha alcanzado el límite permitido por su licencia',
 	'help' => 'Ayuda',
 	'name' => 'Nombre',
 	'value' => 'Valor',
@@ -282,6 +287,7 @@ $__LANG = array (
 	'defaulttimezone' => '-- Zona horaria por defecto --',
 	'tagcloud' => 'Nube de etiquetas',
 	'searchmodeactive' => 'Resultados filtrados',
+	'notifysearchfailed' => '"0" Resultados encontrados',
 	'titlesearchfailed' => '"0" Resultados encontrados',
 	'msgsearchfailed' => SWIFT_PRODUCT . ' no ha podido encontrar ningún registro que concuerde con los criterios especificados.',
 	'quickfilter' => 'Filtro rápido',
@@ -315,6 +321,7 @@ $__LANG = array (
 	'matchor' => 'O',
 	'strue' => 'Verdadero',
 	'sfalse' => 'Falso',
+	'notifynoperm' => 'Acción no permitida, permiso denegado.',
 	'titlenoperm' => 'Acción no permitida',
 	'msgnoperm' => SWIFT_PRODUCT.' no puede continuar; su usuario no tiene permiso para realizar esta acción.',
 	'cyesterday' => 'Ayer',
@@ -444,7 +451,6 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 		22 => array ('Descargas', 'bar_downloads.gif', MODULE_DOWNLOADS),
 		23 => array ('Noticias', 'bar_news.gif', MODULE_NEWS),
 		24 => array ('Asistente', 'bar_troubleshooter.gif', MODULE_TROUBLESHOOTER),
-		17 => array ('Informes', 'bar_reports.gif', MODULE_REPORTS),
 		31 => array ('Widgets', 'bar_widgets.gif', MODULE_BASE, '/Core/Widget/Manage'),
 		32 => array ('Módulos', 'bar_modules.gif', MODULE_BASE, '/Core/Module/Manage'),
 		9 => array ('Logs', 'bar_logs.gif', MODULE_BASE),
@@ -522,10 +528,6 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 				0 => array ('Configuración', '/Tickets/SettingsManager/Bayesian'),
 				1 => array ('Categorías', '/Tickets/BayesianCategory/Manage'),
 				2 => array ('Diagnósticos', '/Tickets/BayesianDiagnostics/Index'),
-		),
-
-		17 => array (
-				0 => array ('Configuración', '/Reports/SettingsManager/Index'),
 		),
 
 		9 => array (
@@ -762,10 +764,8 @@ if ($_SWIFT->Interface->GetInterface() == SWIFT_Interface::INTERFACE_ADMIN)
 
 		9 => array (
 				0 => array ('Administrar informes', '/Reports/Report/Manage'),
-				1 => array ('Nuevo informe', '/Reports/Report/Insert'),
-				2 => array ('Importar/Exportar', '/Reports/ReportManager/ImpEx'),
-				//2 => array ('Schedule', '/Reports/Schedule'),
-				//4 => array ('Saved Reports', '/Reports/SavedReports'),
+				1 => array ('Categorías', '/Reports/Category/Manage'),
+				2 => array ('Nuevo informe', ':UICreateWindow(\'/Reports/Report/InsertDialog/\', \'newreport\', \'Nuevo informe\', \'Cargando..\', 400, 240, true);'),
 				),
 	);
 

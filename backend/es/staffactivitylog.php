@@ -44,9 +44,16 @@ $__LANG = array (
 	'activityspamcomment' => 'Marcado comentario de %s (%s) como spam',
 	'activitynotspamcomment' => 'Marcado comentario de %s (%s) como no spam',
 
-
+	// ======= BEGIN REPORTS =======
+	'activitydeletereportcategory' => 'Eliminada categoría de informes: %s',
+	'activityinsertreportcategory' => 'Creada categoría de informes: %s',
+	'activityupdatereportcategory' => 'Actualizada categoría de informes: %s',
+	'activitydeletereport' => 'Eliminado informe: %s',
+	'activityupdatereport' => 'Actualizado informe: %s',
+	'activityinsertreport' => 'Creado informe: %s',
+	
 	// ======= BEGIN TROUBLESHOOTER =======
-	'activitydeletetroubleshootercategory' => 'Eliminado ©: %s',
+	'activitydeletetroubleshootercategory' => 'Eliminada categoría de Asistente: %s',
 	'activityinserttrcategory' => 'Insertada categoría de Asistente: %s',
 	'activityupdatetrcategory' => 'Actualizada categoría de Asistente: %s',
 	'activitydeletetrstep' => 'Eliminado paso de Asistente: %s',

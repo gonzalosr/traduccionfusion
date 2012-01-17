@@ -147,6 +147,9 @@ $__LANG = array(
 	'desc_tsresolutionlevel' => '',
 	'tsticketnotes' => 'Notas del ticket',
 	'desc_tsticketnotes' => '',
+	'tsgeneraloptions' => 'Opciones generales',
+	'tsdateoptions' => 'Opciones de fechas',
+	'tsmiscellaneous' => 'Otras opciones',
 
 	/**
 	 * ---------------------------------------------

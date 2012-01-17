@@ -15,6 +15,7 @@
  */
 
 $__LANG = array (
+	'duetimecleared' => '- SUPRIMIDO -',
 	// Activity Log
 	'log_newreply' => 'Respondido el ticket: #%s',
 	'log_forward' => 'Reenviado Ticket #%s a: %s',
@@ -22,6 +23,7 @@ $__LANG = array (
 
 	// Audit Log
 	'al_newticket' => 'Nuevo ticket creado por %s (%s), Asunto: %s', // DONE
+	'al_newticket_queue' => 'Nuevo ticket creado por %s (%s), Asunto: %s, Cola: %s', // DONE
 	'al_newreply' => 'Nueva respuesta creada por %s (%s)', // DONE
 	'al_watch' => 'Activada vigilancia de ticket: #%s por: %s', // DONE
 	'al_owner' => 'Reponsable de ticket cambiado de: %s a: %s', // DONE

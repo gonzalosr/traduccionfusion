@@ -36,7 +36,6 @@ $__LANG = array (
 	'tf_departments.departmenttype' => 'Tipo departamento',
 	'tf_departments.parentdepartmentid' => 'ID Departamento superior',
 	'tf_departments.departmentmodule' => 'Módulo de departamento',
-
 	'tf_departments.title' => 'Nombre departamento',
 	'tf_users.userid' => 'ID usuario',
 	'tf_users.usergroupid' => 'ID grupo usuarios',

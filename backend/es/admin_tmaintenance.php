@@ -27,6 +27,9 @@ $__LANG = array (
 	'desc_movetype' => 'Seleccione el tipo de traslado de adjuntos. Si desea trasladar los adjuntos de ficheros a la base de datos, se recomienda que revise la configuración de "max packet size" en la base de datos, para evitar corrupción o pérdida de datos.',
 	'attachmentsprocessed' => 'Adjuntos trasladados',
 	'totalattachments' => 'Adjuntos totales',
+	'tabproperties'=> 'Reconstruir propiedades',
+	'ticketsperpass' => 'Tamaño de pasada',
+	'desc_ticketsperpass' => 'Introduzca el número de respuestas de ticket que se procesarán en una sola pasada <i>(defecto = 100).</i><br/><br/>Debido a restricciones de memoria y Procesador, no se recomienda que este valor sea superior a (100).<br/><br/><font color="cc3300">Nota: Durante el proceso de una pasada, el reloj <i>no</i> se actualizará, pero el proceso seguirá ejecutándose!</font>',
 	// ======= END v4 LOCALES =======
 	'tickets' => 'Tickets',
 	'maintenance' => 'Mantenimiento',
@@ -37,7 +40,9 @@ $__LANG = array (
 	'desc_postperpass' => 'Introduzca el número de respuestas de ticket que se procesarán en una sola pasada <i>(defecto = 100).</i><br/><br/>Debido a restricciones de memoria y Procesador, no se recomienda que este valor sea superior a (100).<br/><br/><font color="cc3300">Nota: Durante el proceso de una pasada, el reloj <i>no</i> se actualizará, pero el proceso seguirá ejecutándose!</font>',
 	'reindexheader' => '<b>Proceso de reindexado</b>',
 	'totalposts' => 'Total de respuestas en la base de datos:',
+	'totaltickets' => 'Tickets totales en base de datos:',
 	'postsprocesed' => 'Número de respuestas procesadas:',
+	'ticketsprocessed' => 'Tickets procesados:',
 	'timeelapsed' => 'Tiempo transcurrido:',
 	'timeremaining' => 'Tiempo restante estimado:',
 );

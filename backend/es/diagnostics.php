@@ -40,6 +40,7 @@ $__LANG = array (
 	'licorganization' => 'Organización: ' ,
 	'licproductpackage' => 'Paquete: ',
 	'licstaffcount' => 'Número de operadores licencia: ',
+	'licexpirenever' => '- Nunca -',
 	// ======= END v4 LOCALES =======
 
 	// ======= BEGIN v3 IMPORT =======

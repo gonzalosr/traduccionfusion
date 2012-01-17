@@ -22,7 +22,8 @@ $__LANG = array (
 	// ======= TICKETS =======
 	'perm_'.MODULE_TICKETS => 'Permisos: tickets',
 	'perm_cansubmitticket' => 'Puede enviar ticket',
-	'perm_canchangepriorities' => 'Puede cambar propiedades de ticket',
+	'perm_canchangepriorities' => 'Puede cambiar propiedades de ticket',
+	'perm_sendautoresponder' => 'Debe enviar autorrespuesta',
 
 	// ======= NEWS =======
 	'perm_'.MODULE_NEWS => 'Permisos: noticias',

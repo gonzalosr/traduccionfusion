@@ -36,11 +36,13 @@ $__LANG = array (
 	'lschatstatus' => 'Estado de chat:',
 	'userwarningnoresponse' => 'La ventana de chat del cliente no responde. Si continúa recibiendo este mensaje, el cliente puede haber finalizado la sesión de chat, o la sesión puede haber caducado.',
 	'transferattempt' => 'Intentando transferrir el chat a "%s"',
+	'onsitelegacy' => 'Su versión de Kayako Desktop es demasiado antigua. Por favor, actualícela.',
 	'transferrejected' => '"%s" ha rechazado la solicitud de transferencia. Motivo: %s',
 	// ======= END v3 IMPORT =======
 
 	'staffchatnotonline' => 'Operador desconectado',
 	'staffnochatobjectcreate' => 'No se ha podido crear el objeto de chat',
+	'staffchatobjectnotfound' => 'Objeto de chat no válido. Ha sido imposible encontrar el objeto de chat con la ID de referencia: %s',
 	'livesupport' => 'Chat',
 	'adcampaign' => 'Campaña de anuncios',
 	'incomingchat' => 'Chat pendiente',
