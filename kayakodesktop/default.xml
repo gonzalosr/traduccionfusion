@@ -15,6 +15,7 @@
   <string id="IDS_APPLY">&amp;Aplicar</string>
   <string id="IDS_NOTAPPLICABLE">N/A</string>
   <string id="IDS_LOADING">Cargando...</string>
+  <string id="IDS_EMPTY">vacío</string>
   <!-- MAINFRAME -->
   <string id="IDS_MAINWND_TITLE">Escritorio Kayako (desconectado)</string>
   <string id="IDS_MAINWND_TITLE_CNX">%s - Escritorio Kayako</string>
@@ -115,6 +116,11 @@ Hay %d cuenta(s) con la sesión iniciada y %d sesiones de chat activas.  Se cerr
   <string id="IDS_MSG_CONFIRMBAN_TXT">Está a punto de realizar la siguiente expulsión definitiva: %s
 
 Desea continuar?</string>
+  <string id="IDS_MSG_NEWBROWSER_FAILED">Se ha producido un error al crear una nueva ventana de navegador.
+  
+GLE = 0x%08x</string>
+  <string id="IDS_MSG_PHONE_RECORDING_TOO_LARGE">La grabación de esta llamada no puede subirse al servidor debido al límite de tamaño de subidas del mismo. Por favor, consulte con su administrador de sistemas.</string>
+  <string id="IDS_MSG_PHONE_UPLOADING_RECORDINGS">Se están subiendo grabacion telefónicas al servidor. ¿Desea esperar a que terminen?</string>
   
   <!-- CHAT EVENT SUCCESS MESSAGES -->
   <string id="IDS_MSG_CHATREFUSE">%s: Ha rechazado el chat con %s</string>
@@ -275,12 +281,6 @@ Escritorio Kayako usará este número para determinar el color apropiado del ico
   <string id="IDS_RIBBON_SERVER_CHAT_TRANSFER_SKILLSET_ITEM_TT">Transferir el chat a cualquier operador con la habilidad '%s'</string>
   <string id="IDS_RIBBON_SERVER_CHAT_INVITE_STAFF_TT">Invitar a un operador concreto al chat</string>
   <string id="IDS_RIBBON_SERVER_CHAT_INVITE_STAFF_ITEM_TT">Invitar a %s al chat</string>
-  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_STAFFGROUP_TT">Invitar al chat a cualquier operador dentro de un grupo</string>
-  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_STAFFGROUP_ITEM_TT">Invitar al chat a cualquier operador dentro del grupo %s</string>
-  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_DEPARTMENT_TT">Invitar al chat a cualquier operador de un departamento</string>
-  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_DEPARTMENT_ITEM_TT">Invitar al chat a cualquier operador del departamento %s</string>
-  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_SKILLSET_TT">Invitar al chat a cualquier operador con un conjunto de habilidades específico</string>
-  <string id="IDS_RIBBON_SERVER_CHAT_INVITE_SKILLSET_ITEM_TT">Invitar al chat a cualquiera con la habilidad '%s'</string>
   <string id="IDS_RIBBON_SERVER_CHAT_CREATE_TICKET">Crear ticket</string>
   <string id="IDS_RIBBON_SERVER_CHAT_CREATE_TICKET_TT">Crear un ticket usando el historial de chat como primer mensaje.</string>
   <string id="IDS_RIBBON_SERVER_LINKS">Controles web</string>
@@ -794,7 +794,8 @@ Desea continuar?</string>
   <string id="IDS_VOIP_CON_ADV_FRAME2">Configuración de puertos</string>
   <string id="IDS_VOIP_CON_ADV_LABEL2">UDP:</string>
   <string id="IDS_VOIP_CON_ADV_LABEL3">RTP:</string>
-  <string id="IDS_VOIP_CON_ADV_TEST">Test</string>
+  <string id="IDS_VOIP_CON_ADV_FRAME3">Otro</string>
+  <string id="IDS_VOIP_CON_ADV_USERPORT">Usar rport</string>
   <string id="IDS_VOIP_DEV_FRAME3">Calidad de sonido</string>
   <string id="IDS_VOIP_DEV_LABEL3">Baja</string>
   <string id="IDS_VOIP_DEV_LABEL4">Alta</string>
@@ -804,6 +805,14 @@ Desea continuar?</string>
   <string id="IDS_VOIP_DEV_FRAME2">Tono de llamada</string>
   <string id="IDS_VOIP_DEV_RINGONDEFSPEAKER">Sonar siempre en los altavoces por defecto del sistema</string>
   <string id="IDS_VOIP_DEV_USECUSTRING">Usar tono de llamada personalizado</string>
+  <string id="IDS_VOIP_DEV_FRAME4">Codecs de audio</string>
+  <string id="IDS_VOIP_DEV_CONFIG_CODECS">Configurar codecs...</string>
+  <string id="IDS_VOIP_CODECS_DLG">Configuración de codecs de audio</string>
+  <string id="IDS_VOIP_CODECS_LABEL1">Codecs activados:</string>
+  <string id="IDS_VOIP_CODECS_LABEL2">Codecs desactivados:</string>
+  <string id="IDS_VOIP_CODECS_UP">&amp;Subir</string>
+  <string id="IDS_VOIP_CODECS_DOWN">&amp;Bajar</string>
+  <string id="IDS_VOIP_CODECS_NO_CODECS_ENABLED">Debe activar al menos un codec.</string>
   <string id="IDS_VOIP_LOG_FRAME1">Registro de eventos SIP</string>
   <string id="IDS_VOIP_LOG_ENABLELOGGING">Activar r&amp;egistro</string>
   <string id="IDS_VOIP_LOG_LABEL1">Archivo de registro:</string>
@@ -814,73 +823,17 @@ Desea continuar?</string>
   
   <!-- ONSITE SETTINGS -->
   <string id="IDS_PROPPAGE_ONSITE">OnSite</string>
-  <string id="IDS_ONSITE_AUTOIPDETECTFAIL_TEXT">Ha ocurrido un error interno mientras se intentaba detectar automáticamente su dirección IP. Por favor, introdúzcala manualmente.</string>
-  <string id="IDS_ONSITE_FRAME1">P2P</string>
-  <string id="IDS_ONSITE_LABEL1">Tiempo espera Pa&amp;sivo:</string>
-  <string id="IDS_ONSITE_LABEL2">minuto(s)</string>
-  <string id="IDS_ONSITE_LABEL3">Tiempo espe&amp;ra acoplamiento:</string>
-  <string id="IDS_ONSITE_LABEL4">segundos</string>
-  <string id="IDS_ONSITE_LABEL5">Ran&amp;go escaneo puertos:</string>
-  <string id="IDS_ONSITE_LABEL6">puerto(s)</string>
-  <string id="IDS_ONSITE_FRAME2">Conexión directa</string>
-  <string id="IDS_ONSITE_LABEL7">&amp;IP externa:</string>
-  <string id="IDS_ONSITE_AUTODETECT">&amp;Autodetectar</string>
-  <string id="IDS_ONSITE_AUTODETECTING">Detectando...</string>
-  <string id="IDS_ONSITE_LABEL8">&amp;Número puerto:</string>
-  <string id="IDS_ONSITE_PORTCHECK">&amp;Test de puerto</string>
-  <string id="IDS_ONSITE_LABEL9">&amp;Tiempo espera:</string>
-  <string id="IDS_ONSITE_LABEL10">segundos</string>
   <string id="IDS_ONSITE_FRAME3">Avanzado</string>
-  <string id="IDS_ONSITE_ADVANCED">Configuración a&amp;vanzada...</string>
-  <string id="IDS_ONSITE_VALIDATE_PASSIVETIMEOUT">El tiempo de espera pasivo debe estar entre 1 y 5 minutos.</string>
-  <string id="IDS_ONSITE_VALIDATE_PAIRINGTIMEOUT">El tiempo de espera de acoplamiento debe estar entre 1 y 60 segundos.</string>
-  <string id="IDS_ONSITE_VALIDATE_PORTRANGE">El rango de escaneo de puertos debe estar entre 1 y 65535.</string>
-  <string id="IDS_ONSITE_VALIDATE_PORT">El número de puerto externo debe estar entre 1 y 65535.</string>
-  <string id="IDS_ONSITE_VALIDATE_DIRECTTIMEOUT">El tiempo de espera directo debe estar entre 30 y 3600 segundos.</string>
-  
-  <!-- ONSITE SETTINGS TOOLTIPS -->
-  <string id="IDS_ONSITE_TT_PASSIVE_TITLE">Tiempo de espera pasivo</string>
-  <string id="IDS_ONSITE_TT_PASSIVE_TEXT">En modo P2P, el tiempo de espera pasivo especifica el número de minutos que el visor OnSite esperará para que el otro par realize una conexión antes de cancelar la sesión.</string>
-  <string id="IDS_ONSITE_TT_PAIRING_TITLE">Tiempo de espera de acoplamiento</string>
-  <string id="IDS_ONSITE_TT_PAIRING_TEXT">En modo P2P, especifica el número de segundos que el visor OnSite esperará después de que hayan fallado todos los intentos proactivos de realizar una conexión con el otro par.</string>
-  <string id="IDS_ONSITE_TT_PORTRANGE_TITLE">Rango de escaneo de puertos</string>
-  <string id="IDS_ONSITE_TT_PORTRANGE_TEXT">En modo P2P, el rango de escaneo de puertos especifica el número de puertos sobre el puerto observado del par que se intentarán usar como parte del acoplamiento.
-  
-Se recomienda que este valor se deje en tres (3).</string>
-  <string id="IDS_ONSITE_TT_EXTERNALIP_TITLE">IP externa/nombre del servidor</string>
-  <string id="IDS_ONSITE_TT_EXTERNALIP_TEXT">En modo de conexión directam la configuración de IP externa/nombre de servidor especifica la dirección IP o nombre del servidor quer se ven en internet. Habitualmente es la dirección IP de su router o puerta de enlace.
-  
-Si no está seguro de qué valor usar, pulse el botón 'Autodetectar'.</string>
-  <string id="IDS_ONSITE_TT_EXTERNALPORT_TITLE">Número de puerto externo</string>
-  <string id="IDS_ONSITE_TT_EXTERNALPORT_TEXT">En modo de conexión directa, especifica el número de puerto del router que ha sido enrutado dentro de la red interna al puerto del visor OnSite en su ordenador.
-  
-Si no está seguro de si el puerto está correctamente enrutado, inicie el visor OnSite en modo de conexión directa y pulse el botón 'Probar puerto'.</string>
-  <string id="IDS_ONSITE_TT_DIRECTTIMEOUT_TITLE">Tiempo de espera de conexión directa</string>
-  <string id="IDS_ONSITE_TT_DIRECTTIMEOUT_TEXT">En modo de conexión directa, el valor de tiempo de espera especifica cuanto tiempo se esperará a que el cliente conecte antes de desistir.</string>
+  <string id="IDS_ONSITE_ADVANCED">Configuración avanzada de &amp;Onsite...</string>
+
   <!-- ONSITE START SESSION -->
   <string id="IDS_ONSITE_SS_OSNOTSUPPORTED">El sistema operativo del usuario aún no es compatible con OnSite.</string>
   <string id="IDS_ONSITE_SS_DIALOG">Iniciar sesión OnSite con %s</string>
   <string id="IDS_ONSITE_SS_LABEL1">Seleccione los métodos que desea usar para conectar con el PC del usuario y pulse Iniciar para comenzar la sesión.</string>
-  <string id="IDS_ONSITE_SS_PEERTOPEER">Intentar conexión &amp;P2P (recomendado)</string>
-  <string id="IDS_ONSITE_SS_STANDARD">Intentar conexión &amp;directa</string>
-  <string id="IDS_ONSITE_SS_SETTINGS">Configuración...</string>
   <string id="IDS_ONSITE_SS_START">Inicia&amp;r...</string>
-  <string id="IDS_ONSITE_SS_BADSETTINGS">Debe seleccionar al menos un método de conexión.</string>
   <string id="IDS_ONSITE_SS_CONFIGSAVEFAIL">No se ha podido iniciar la sesión OnSite porque el archivo de configuración no se guardó correctamente. Número de error %d</string>
-  <string id="IDS_ONSITE_SS_SPAWNEXEFAIL">No se ha podido iniciar el visor OnSite. Número de error %d</string>
-  <string id="IDS_ONSITE_SS_NOLOCALIP">Ha activado la conexión inversa estándar, pero la dirección IP local no está configurada.
-  
-%s</string>
-  <string id="IDS_ONSITE_SS_STANDARD_ERROR">Pulse Aceptar para ver la configuración de OnSite.</string>
-  <!-- ONSITE START SESSION TOOLTIPS-->
-  <string id="IDS_ONSITE_TT_P2P_TITLE">Conexión P2P</string>
-  <string id="IDS_ONSITE_TT_P2P_TEXT">Cuando se selecciona este método de conexión, OnSite intentará establecer una conexión entre su ordenador y el del usuario sin necesidad de hacer reenvío de puertos o configurar el firewall.
-  
-Este método, sin embargo, depende del hardware de su red y de la del usuario. Se recomienda activar además la conexión directa como respaldo en caso de que no funcione el P2P.</string>
-  <string id="IDS_ONSITE_TT_STANDARD_TITLE">Conexión directa</string>
-  <string id="IDS_ONSITE_TT_STANDARD_TEXT">Cuando se selecciona este método de conexión, OnSite escuchará conexiones como un servidor estándar. El ordenador del usuario intentará entonces conectar directamente a su ordenador, el cual puede necesitar configuración de routers (enrutado de puertos) y cortafuegos.
-  
-Si no está seguro de cómo activar las conexiones internas desde internet a su ordenador, contacte con su administrador de red.</string>
+  <string id="IDS_ONSITE_SS_STANDARD_ERROR">Pulse OK para ver las opciones de OnSite.</string>
+
   <!-- ONSITE UTILITY -->
   <string id="IDS_ONSITE_NO_VIEWER">Escritorio Kayako no ha podido encontrar la aplicación OnSite. Es posible que necesite reinstalar Escritorio Kayako.</string>
   <string id="IDS_ONSITE_VIEWER_SPAWN_FAIL">Escritorio Kayako no ha podido iniciar la aplicación OnSite. (error: %d)
@@ -1026,7 +979,10 @@ Kayako Infotech Ltd.
   <!-- CANNED HOTKEY DIALOG -->
   <string id="IDS_CANNEDHOTKEYDLG_TITLE">Atajo de respuesta enlatada</string>
   <string id="IDS_CANNEDHOTKEYDLG_LABEL1">Respuestas enlatadas:</string>
-  
+
+  <!-- CANNED EDIT DIALOG -->
+  <string id="IDS_CANNEDEDITDLG_TITLE">Enviar respuesta enlatada</string>
+
   <!-- AVATAR DIALOG -->
   <string id="IDS_AVATARDLG_TITLE">Seleccione su avatar</string>
   <string id="IDS_AVATARDLG_LABEL1">Por favor, seleccione la imagen que desea usar.</string>
@@ -1079,15 +1035,6 @@ Por favor, reinstale el paquete de diccionarios para poder usar la Please reinst
   <string id="IDS_WIZARD_NEXT">Siguiente &gt;</string>
   <string id="IDS_WIZARD_FINISH">Terminar</string>
 
-  <!-- PORT CHECK -->
-  <string id="IDS_PORTCHECK">Comprobar</string>
-  <string id="IDS_PORTCHECKTESTING">Comprobando...</string>
-  <string id="IDS_PORTCHECKTITLE">Comprobar puerto</string>
-  <string id="IDS_PORTCHECKOPEN">El puerto %d está abierto.</string>
-  <string id="IDS_PORTCHECKCLOSED">El puerto %d está cerrado o no acepta conexiones. Por favor, asegúrese de que está correctamente enrutado o notifíquelo a su administrador de red.</string>
-  <string id="IDS_PORTCHECKERROR">Se ha producido un error de red mientras se comprobaba el puerto.</string>
-  <string id="IDS_PORTCHECKINTERNALERROR">Se ha producido un error interno mientras se intentaba iniciar la comprobación de puertos.</string>
-  
   <!-- CHAT RELATED -->
   <string id="IDS_INVALID_CHAT_EVENT_TYPE">Evento de chat no válido para el evento '%s'</string>
   
@@ -1229,6 +1176,7 @@ Desea continuar?</string>
   <string id="IDS_VOIP_MSG_RINGROUTE_WAITING">Por favor, inicie sesión en %s para activar RingRoute.</string>
   <string id="IDS_VOIP_MSG_RINGROUTE_ERROR">Se ha producido un error al recuperar las credenciales SIP desde RingRoute!</string>
   <string id="IDS_VOIP_MSG_REGISTRATION_FAILURE"><![CDATA[No se ha podido registrar con el servicio SIP.<br><br>Motivo: <b>%s</b>]]></string>
+  <string id="IDS_VOIP_MSG_DIAL_FAILURE"><![CDATA[Imposible realizar la llamada.<br><br>Razón: <b>%s</b>]]></string>
   <string id="IDS_VOIP_MSG_MISSEDCALL"><![CDATA[Tiene <b>%d llamada perdida</b>.]]></string>
   <string id="IDS_VOIP_MSG_MISSEDCALLS"><![CDATA[Tiene <b>%d llamadas perdidas</b>.]]></string>
   <string id="IDS_VOIP_MSG_OPT_SIGNIN">Iniciar sesión</string>
@@ -1253,11 +1201,14 @@ Desea continuar?</string>
   <string id="IDS_VOIP_ERR_220200">No hay dispositivos de captura de sonido disponibles</string>
   <string id="IDS_VOIP_ERR_220201">No hay dispositivos de reproducción de sonido disponibles</string>
   <string id="IDS_VOIP_ERR_259001">No se ha podido inicializar el dispositivo de sonido</string>
-  <string id="IDS_VOIP_ERR_200">OK</string>
-  <string id="IDS_VOIP_ERR_400">Petición errónea</string>
+  <string id="IDS_VOIP_ERR_130048">Dirección en uso - revise su configuración de puertos</string>
   <string id="IDS_VOIP_ERR_171100">Credenciales no validas</string>
   <string id="IDS_VOIP_ERR_171101">No tiene autorización</string>
   <string id="IDS_VOIP_ERR_171039">URI no válida</string>
+  <string id="IDS_VOIP_ERR_171042">URI de petición no válida</string>
+  <string id="IDS_VOIP_ERR_70018">Imposible resolver nombre del servidor</string>
+  <string id="IDS_VOIP_ERR_200">OK</string>
+  <string id="IDS_VOIP_ERR_400">Petición errónea</string>
   <string id="IDS_VOIP_ERR_401">No autorizado</string>
   <string id="IDS_VOIP_ERR_403">Prohibido</string>
   <string id="IDS_VOIP_ERR_404">No encontrado</string>
@@ -1268,6 +1219,7 @@ Desea continuar?</string>
   <string id="IDS_VOIP_ERR_486">Ocupado</string>
   <string id="IDS_VOIP_ERR_487">Petición finalizada</string>
   <string id="IDS_VOIP_ERR_491">Petición pendiente</string>
+  <string id="IDS_VOIP_ERR_500">Error interno del servidor</string>
   <string id="IDS_VOIP_ERR_503">Servicio no disponible</string>
   <string id="IDS_VOIP_ERR_603">Rechazado</string>
   <string id="IDS_VOIP_UNKNOWNCALLER">(Desconocido)</string>
@@ -1305,7 +1257,11 @@ Haga click sobre este mensaje para ver su configuración.</string>
   <string id="IDS_NET_LOGIN_LOG">Ha iniciado la sesión correctamente en '%s' con el nombre de usuario %s.
     ID sesión: %s
     ID sesión operador: %s
-    Versión SWIFT: %s</string>
+    Versión SWIFT: %s
+    Versión de protocolo: %s</string>
+  <string id="IDS_NET_LOGIN_ONSITE_VERSION_BALLOON_TITLE">%s: OnSite deshabilitado</string>
+  <string id="IDS_NET_LOGIN_ONSITE_VERSION_BALLOON_TEXT">La función OnSite se ha deshabilitado debido a incompatibilidad de versiones con el servidor.</string>
+  <string id="IDS_NET_LOGIN_ONSITE_VERSION_LOG">La versión de OnSite que usa el servidor (%s) no es la esperada (%s). La función OnSite no estará disponible para esta sesión. Por favor contacte con soporte de Kayako para recibir asistencia.</string>
   <string id="IDS_NETERR_LOGOUTFAILED_LOG">Ha fallado el cierre de sesión desde '%s'!
     Razón: %s</string>
   <string id="IDS_NETERR_LOGOUTFAILED_BALLOON_TITLE">%s: Error de cierre de sesión!</string>
