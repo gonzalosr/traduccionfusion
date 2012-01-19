@@ -71,7 +71,7 @@
 <phrase section="default" code="copyright"><![CDATA[Copyright &copy; 2001-%s Kayako Infotech Ltd.]]></phrase>
 <phrase section="default" code="creationfailed"><![CDATA[Error al crear el objeto.]]></phrase>
 <phrase section="default" code="defaulttimezone"><![CDATA[-- Zona horaria por defecto --]]></phrase>
-<phrase section="default" code="defaulttitle"><![CDATA[<a href="http://www.granviaabogados.com" target="_blank" class="bottomfooterlink">Centro de Soporte Gran Vía Abogados</a>]]></phrase>
+<phrase section="default" code="defaulttitle"><![CDATA[]]></phrase>
 <phrase section="mime" code="doc"><![CDATA[Documento MS Word]]></phrase>
 <phrase section="mime" code="docx"><![CDATA[Documento MS Word]]></phrase>
 <phrase section="users" code="emailaccounts"><![CDATA[Cuentas de correo]]></phrase>
@@ -231,7 +231,7 @@ Saludos,
 <phrase section="mime" code="png"><![CDATA[Imagen PNG]]></phrase>
 <phrase section="default" code="postedby"><![CDATA[Publicado por]]></phrase>
 <phrase section="default" code="postnewcomment"><![CDATA[Publicar nuevo comentario]]></phrase>
-<phrase section="default" code="poweredby"><![CDATA[Consulte a Abogados en Murcia]]></phrase>
+<phrase section="default" code="poweredby"><![CDATA[]]></phrase>
 <phrase section="mime" code="ppt"><![CDATA[Documento PowerPoint]]></phrase>
 <phrase section="mime" code="pptx"><![CDATA[Documento PowerPoint]]></phrase>
 <phrase section="users" code="praddemail"><![CDATA[Añadir email]]></phrase>
